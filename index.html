@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Mondo Oggi">
+<meta name="theme-color" content="#0f1a1f">
+<title>Mondo Oggi</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌍</text></svg>">
+<style>
+:root{--bg:#eaf0f1;--card:#fbfdfd;--ink:#13242b;--mut:#56686f;--news:#0a7c86;--fact:#b8770b;--line:#cfdadd;--chip:#dbe5e7;
+--serif:Charter,"Iowan Old Style","Palatino Linotype",Georgia,serif;--sans:system-ui,-apple-system,"Segoe UI",sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1a1f;--card:#16262d;--ink:#e8f0f1;--mut:#93a8af;--news:#4fd1c5;--fact:#f0b24a;--line:#27404a;--chip:#1d3039}}
+:root[data-theme="dark"]{--bg:#0f1a1f;--card:#16262d;--ink:#e8f0f1;--mut:#93a8af;--news:#4fd1c5;--fact:#f0b24a;--line:#27404a;--chip:#1d3039}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 var(--sans);padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)}
+.wrap{max-width:720px;margin:0 auto;padding:22px 16px 70px}
+header{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:16px}
+h1{font:700 38px/1.05 var(--serif);margin:0;letter-spacing:-.02em}
+.sub{color:var(--mut);font-size:14px;margin-top:6px}
+button{font:inherit;color:inherit;cursor:pointer}
+.icon{width:42px;height:42px;border-radius:50%;border:1px solid var(--line);background:var(--card);font-size:18px}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:2px 0 12px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;border:1px solid var(--line);background:var(--chip);padding:7px 15px;border-radius:99px;font-size:14px}
+.chip.on{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.bar{display:flex;gap:10px;justify-content:space-between;align-items:center;margin:4px 0 18px}
+.seg{display:flex;gap:4px}
+.seg button{border:0;background:none;padding:7px 4px;margin-right:10px;color:var(--mut);font-size:15px;border-bottom:2px solid transparent}
+.seg button.on{color:var(--ink);border-color:var(--ink);font-weight:600}
+.upd{font-size:13px;color:var(--mut)}
+.card{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--news);border-radius:4px 18px 18px 4px;padding:16px 18px;margin-bottom:14px}
+.card.fact{border-left-color:var(--fact)}
+.meta{font-size:13px;color:var(--mut);margin-bottom:6px}
+.meta b{color:var(--news);font-weight:600}
+.card.fact .meta b{color:var(--fact)}
+.card h2{font:600 21px/1.28 var(--serif);margin:0 0 8px}
+.card p{margin:0;color:var(--mut)}
+.detail{display:grid;grid-template-rows:0fr;transition:grid-template-rows .25s}
+.detail>div{overflow:hidden}
+.card.open .detail{grid-template-rows:1fr}
+.detail p{color:var(--ink);margin-top:12px;font-family:var(--serif);font-size:17px}
+.act{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap;align-items:center}
+.act button,.act a{border-radius:10px;padding:9px 15px;font-size:14px;border:1px solid var(--line);background:none;text-decoration:none;color:var(--ink)}
+.act .go{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.state{text-align:center;color:var(--mut);padding:44px 10px}
+.more{display:block;margin:8px auto;border:1px solid var(--news);color:var(--news);background:none;padding:11px 24px;border-radius:12px}
+@media (prefers-reduced-motion:reduce){.detail{transition:none}}
+button:focus-visible,a:focus-visible{outline:2px solid var(--news);outline-offset:2px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<div><h1>Mondo Oggi</h1><div class="sub" id="date"></div></div>
+<button class="icon" id="theme" aria-label="Cambia tema">◐</button>
+</header>
+<div class="chips" id="chips"></div>
+<div class="bar">
+<div class="seg" id="seg"><button data-k="both" class="on">Tutto</button><button data-k="news">Notizie</button><button data-k="fact">Curiosità</button></div>
+<span class="upd" id="upd"></span>
+</div>
+<div id="feed"></div>
+<button class="more" id="more" hidden>Mostra altre</button>
+</div>
+<script>
+const TOPICS=["Mondo","Scienza","Tecnologia","Elettronica","Spazio","Economia","Salute","Storia","Natura","Arte e cultura","Sport","Musica","Sapere"];
+const $=s=>document.querySelector(s);
+const ld=(k,d)=>{try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}};
+const sv=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
+let sel=new Set(ld("topics",["Mondo","Scienza","Tecnologia","Elettronica"])),kind=ld("kind","both"),skip=new Set(ld("skip",[])),items=[],shown=15,updated=null;
+$("#date").textContent=new Date().toLocaleDateString("it-IT",{weekday:"long",day:"numeric",month:"long"});
+const th=ld("theme",null);if(th)document.documentElement.dataset.theme=th;
+function ago(iso){const m=Math.round((Date.now()-new Date(iso))/60000);if(m<1)return"ora";if(m<60)return m+" min fa";const h=Math.round(m/60);if(h<24)return h+" h fa";return Math.round(h/24)+" g fa"}
+function chips(){const c=$("#chips");c.innerHTML="";
+ TOPICS.forEach(t=>{const b=document.createElement("button");b.className="chip"+(sel.has(t)?" on":"");b.textContent=t;
+  b.onclick=()=>{sel.has(t)?sel.delete(t):sel.add(t);if(!sel.size)sel.add(t);sv("topics",[...sel]);shown=15;chips();render()};c.appendChild(b)});
+ document.querySelectorAll("#seg button").forEach(b=>b.classList.toggle("on",b.dataset.k===kind))}
+function render(){
+ const f=$("#feed");f.innerHTML="";
+ const list=items.filter(i=>sel.has(i.topic)&&!skip.has(i.url)&&(kind==="both"||(kind==="news")===(i.type==="notizia")));
+ if(!list.length){f.innerHTML='<div class="state">'+(updated?"Hai letto tutto per questa selezione. Torna più tardi o scegli altri ambiti.":"Il sito si sta ancora riempiendo: la prima raccolta di notizie parte dal pannello Actions di GitHub.")+"</div>"}
+ list.slice(0,shown).forEach(i=>{
+  const c=document.createElement("article");c.className="card"+(i.type==="notizia"?"":" fact");
+  const m=document.createElement("div");m.className="meta";const b=document.createElement("b");b.textContent=i.topic;
+  m.append(b,document.createTextNode("  "+(i.type==="notizia"?"Notizia":"Curiosità")+" da "+i.source+", "+ago(i.date)));
+  const h=document.createElement("h2");h.textContent=i.title;
+  const p=document.createElement("p");p.textContent=i.summary;
+  const d=document.createElement("div");d.className="detail";const di=document.createElement("div");const dp=document.createElement("p");dp.textContent=i.detail;di.appendChild(dp);d.appendChild(di);
+  const a=document.createElement("div");a.className="act";
+  const rd=document.createElement("button");rd.className="go";rd.textContent="Leggi di più";
+  rd.onclick=()=>{c.classList.toggle("open");rd.textContent=c.classList.contains("open")?"Chiudi":"Leggi di più"};
+  const src=document.createElement("a");src.href=i.url;src.target="_blank";src.rel="noopener";src.textContent="Apri la fonte";
+  const nx=document.createElement("button");nx.textContent="Avanti";
+  nx.onclick=()=>{skip.add(i.url);sv("skip",[...skip].slice(-600));render()};
+  a.append(rd,src,nx);c.append(m,h,p,d,a);f.appendChild(c)});
+ $("#more").hidden=list.length<=shown;
+ $("#upd").textContent=updated?"Aggiornato "+ago(updated):""}
+async function load(){
+ try{const r=await fetch("data/news.json?t="+Date.now());const j=await r.json();items=j.items||[];updated=j.updated}catch(e){}
+ render()}
+$("#more").onclick=()=>{shown+=15;render()};
+document.querySelectorAll("#seg button").forEach(b=>b.onclick=()=>{kind=b.dataset.k;sv("kind",kind);shown=15;chips();render()});
+$("#theme").onclick=()=>{const r=document.documentElement;const dark=getComputedStyle(r).getPropertyValue("--bg").trim()==="#0f1a1f";r.dataset.theme=dark?"light":"dark";sv("theme",r.dataset.theme)};
+chips();load();setInterval(load,10*60*1000);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden)load()});
+</script>
+</body>
+</html>
