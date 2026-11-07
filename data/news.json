@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:04:34.362Z",
+ "updated": "2026-11-07T05:50:20.689Z",
  "items": [
   {
    "topic": "Storia",
@@ -9,7 +9,7 @@
    "title": "1991: Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle…",
    "summary": "Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle competizioni.",
    "detail": "Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle competizioni. — Earvin Johnson Jr., detto Magic, è un ex cestista, allenatore di pallacanestro, imprenditore, attivista e dirigente sportivo statunitense, considerato uno dei più grandi giocatori della storia della pallacanestro.",
-   "date": "2026-11-07T00:04:15.772Z"
+   "date": "2026-11-07T05:50:06.828Z"
   },
   {
    "topic": "Storia",
@@ -19,7 +19,57 @@
    "title": "1659: La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra…",
    "summary": "La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra franco-spagnola.",
    "detail": "La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra franco-spagnola. — La pace dei Pirenei è un trattato stipulato il 7 novembre 1659 tra Francia e Spagna a chiusura della Guerra franco-spagnola. La pace fu sottoscritta dal generale spagnolo don Luis de Haro e dal cardinale Mazzarino, primo ministro di Francia.",
-   "date": "2026-11-07T00:04:15.772Z"
+   "date": "2026-11-07T05:50:06.828Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+   "title": "Paraguay's President Santiago Peña impeached and arrested",
+   "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+   "detail": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+   "date": "2026-11-07T03:25:00.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/06/diy-rooftop-tent-sets-up-in-a-jiffy/",
+   "title": "DIY Rooftop Tent Sets Up In a Jiffy",
+   "summary": "[CraftAndu] shares his DIY car rooftop tent design that looks like a pretty accessible build. It allowed him to test drive the concept to his satisfaction while spending a fraction …read more",
+   "detail": "[CraftAndu] shares his DIY car rooftop tent design that looks like a pretty accessible build. It allowed him to test drive the concept to his satisfaction while spending a fraction …read more",
+   "date": "2026-11-07T03:00:30.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
+   "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+   "summary": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
+   "detail": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
+   "date": "2026-11-07T01:41:58.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/06/its-alpine-linux-on-a-kindle-paperwhite-3/",
+   "title": "It’s Alpine Linux, On A Kindle Paperwhite 3",
+   "summary": "As computing power becomes cheaper and microprocessors become more capable, a steady trend over recent decades has been to see more everyday devices hiding Linux under the hood somewhere. Sadly …read…",
+   "detail": "As computing power becomes cheaper and microprocessors become more capable, a steady trend over recent decades has been to see more everyday devices hiding Linux under the hood somewhere. Sadly …read more",
+   "date": "2026-11-07T00:00:35.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+   "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+   "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+   "detail": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+   "date": "2026-11-06T23:46:08.000Z"
   },
   {
    "topic": "Mondo",
@@ -30,6 +80,16 @@
    "summary": "Il Pontefice: 'Check-up benedetti, mai avuto dubbi su questo viaggio'",
    "detail": "Il Pontefice: 'Check-up benedetti, mai avuto dubbi su questo viaggio'",
    "date": "2026-11-06T23:31:42.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+   "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+   "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+   "detail": "It's the exact path, not the apparent severity that matters most, doctors say.",
+   "date": "2026-11-06T23:09:45.000Z"
   },
   {
    "topic": "Sport",
@@ -50,6 +110,16 @@
    "summary": "Non vi sono ancora informazioni ufficiali su eventuali danni",
    "detail": "Non vi sono ancora informazioni ufficiali su eventuali danni",
    "date": "2026-11-06T22:49:48.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+   "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+   "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+   "detail": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+   "date": "2026-11-06T22:41:37.000Z"
   },
   {
    "topic": "Sport",
@@ -80,6 +150,16 @@
    "summary": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
    "detail": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
    "date": "2026-11-06T22:11:14.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+   "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+   "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+   "detail": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+   "date": "2026-11-06T22:08:47.000Z"
   },
   {
    "topic": "Sport",
@@ -522,16 +602,6 @@
    "date": "2026-11-06T17:44:02.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-   "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-   "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
-   "detail": "Meta won't force Facebook page owners to allow AI training on linked content.",
-   "date": "2026-11-06T17:43:02.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -612,16 +682,6 @@
    "date": "2026-11-06T17:10:15.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
-   "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
-   "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
-   "detail": "Next week, experts will determine if the US has lost its measles elimination status.",
-   "date": "2026-11-06T17:06:32.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "Space.com",
@@ -650,16 +710,6 @@
    "summary": "Parigi cede lo 0,81%",
    "detail": "Parigi cede lo 0,81%",
    "date": "2026-11-06T16:51:07.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-   "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-   "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-   "detail": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-   "date": "2026-11-06T16:51:01.000Z"
   },
   {
    "topic": "Elettronica",
@@ -700,16 +750,6 @@
    "summary": "Linux kernel bugs which can be triggered remotely, without any login, are rare. Most kernel vulnerabilities need an attacker to already be running code on the machine. CVE-2026-98432 is one of those:…",
    "detail": "Linux kernel bugs which can be triggered remotely, without any login, are rare. Most kernel vulnerabilities need an attacker to already be running code on the machine. CVE-2026-98432 is one of those: …read more",
    "date": "2026-11-06T16:21:04.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-   "title": "Could potential AI clones of GTA VI force a quicker official port?",
-   "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-   "detail": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-   "date": "2026-11-06T16:19:12.000Z"
   },
   {
    "topic": "Mondo",
@@ -842,16 +882,6 @@
    "date": "2026-11-06T14:00:00.000Z"
   },
   {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth",
-   "title": "Northern lights could reach New York and Idaho this weekend as speedy solar wind races toward Earth",
-   "summary": "A colossal coronal hole on the sun is unleashing a stream of high-speed solar wind that could spark impressive auroras Nov. 6-8.",
-   "detail": "A colossal coronal hole on the sun is unleashing a stream of high-speed solar wind that could spark impressive auroras Nov. 6-8.",
-   "date": "2026-11-06T13:26:32.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "BBC News",
@@ -942,16 +972,6 @@
    "date": "2026-11-06T09:21:50.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/06/making-xibalba-64-a-new-n64-release-in-2026/",
-   "title": "Making Xibalba 64, a New N64 Release in 2026",
-   "summary": "[Dominic Szablewski] created something that we don’t see every day: a no-kidding new physical Nintendo 64 game for sale, complete with cartridge, manual, and box art. He wrote about what …read more",
-   "detail": "[Dominic Szablewski] created something that we don’t see every day: a no-kidding new physical Nintendo 64 game for sale, complete with cartridge, manual, and box art. He wrote about what …read more",
-   "date": "2026-11-06T09:00:03.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -1022,16 +1042,6 @@
    "date": "2026-11-06T05:01:00.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/05/translating-an-old-display-to-a-new-one/",
-   "title": "Translating An Old Display To A New One",
-   "summary": "A quick search through AliExpress will find PCBs that take HDMI or VGA and translate them to DSI lanes for TFT panels, and even boards that translate DSI to HDMI …read more",
-   "detail": "A quick search through AliExpress will find PCBs that take HDMI or VGA and translate them to DSI lanes for TFT panels, and even boards that translate DSI to HDMI …read more",
-   "date": "2026-11-06T03:00:11.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -1070,16 +1080,6 @@
    "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
    "detail": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
    "date": "2026-11-06T00:06:06.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-   "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-   "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-   "detail": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-   "date": "2026-11-06T00:02:57.000Z"
   },
   {
    "topic": "Economia",
