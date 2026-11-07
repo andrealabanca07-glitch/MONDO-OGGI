@@ -40,6 +40,29 @@ const text = (s = "") => ent(ent(cdata(s)).replace(/<[^>]*>/g, " ")).replace(/\s
 const tag = (b, n) => (b.match(new RegExp(`<${n}[^>]*>([\\s\\S]*?)</${n}>`, "i")) || [])[1] || "";
 const cut = (s, n) => (s.length <= n ? s : s.slice(0, n).replace(/\s+\S*$/, "") + "…");
 
+function fixImg(u) {
+  if (!u) return "";
+  u = ent(String(u).trim());
+  if (u.startsWith("//")) u = "https:" + u;
+  u = u.replace(/^http:\/\//, "https://");
+  if (!/^https:\/\//.test(u)) return "";
+  if (u.includes("ichef.bbci.co.uk")) u = u.replace(/\/standard\/\d+\//, "/standard/800/");
+  return u;
+}
+
+function pickImage(b) {
+  const tags = b.match(/<(media:content|media:thumbnail|enclosure)\b[^>]*>/gi) || [];
+  for (const t of tags) {
+    const url = (t.match(/\burl="([^"]+)"/i) || [])[1];
+    const type = ((t.match(/\btype="([^"]+)"/i) || [])[1] || "") + ((t.match(/\bmedium="([^"]+)"/i) || [])[1] || "");
+    if (!url || /video|audio/.test(type)) continue;
+    if (/^<media:thumbnail/i.test(t) || /image/.test(type) || /\.(jpe?g|png|webp|gif)(\?|$)/i.test(url)) return fixImg(url);
+  }
+  const html = ent(cdata(tag(b, "content:encoded") || tag(b, "description") || tag(b, "content") || tag(b, "summary")));
+  const m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return m ? fixImg(m[1]) : "";
+}
+
 function parseFeed(xml, f) {
   const blocks = xml.match(/<(item|entry)[\s>][\s\S]*?<\/\1>/g) || [];
   return blocks.slice(0, 10).map((b) => {
@@ -49,7 +72,7 @@ function parseFeed(xml, f) {
     const d = new Date(text(tag(b, "pubDate") || tag(b, "published") || tag(b, "updated") || tag(b, "dc:date")));
     return {
       topic: f.topic, type: "notizia", source: f.source, url: link, title,
-      summary: cut(body || title, 200), detail: cut(body, 700) || title,
+      summary: cut(body || title, 200), detail: cut(body, 700) || title, image: pickImage(b),
       date: isNaN(d) ? new Date().toISOString() : d.toISOString(),
     };
   }).filter((i) => i.title && i.url);
@@ -61,11 +84,11 @@ async function wikipedia() {
   const j = await (await get(`https://it.wikipedia.org/api/rest_v1/feed/featured/${y}/${m}/${dd}`)).json();
   const now = new Date().toISOString(), out = [];
   if (j.tfa) out.push({ topic: "Sapere", type: "curiosità", source: "Wikipedia", url: j.tfa.content_urls.desktop.page,
-    title: j.tfa.titles.normalized, summary: cut(j.tfa.extract, 200), detail: cut(j.tfa.extract, 900), date: now });
+    title: j.tfa.titles.normalized, summary: cut(j.tfa.extract, 200), detail: cut(j.tfa.extract, 900), image: fixImg((j.tfa.originalimage || j.tfa.thumbnail || {}).source), date: now });
   (j.onthisday || []).filter((_, i) => i % 3 === 0).slice(0, 6).forEach((e) => {
     const p = e.pages && e.pages[0];
     if (p) out.push({ topic: "Storia", type: "curiosità", source: "Wikipedia · Accadde oggi", url: p.content_urls.desktop.page,
-      title: `${e.year}: ${cut(e.text, 90)}`, summary: e.text, detail: `${e.text} — ${p.extract || ""}`.trim(), date: now });
+      title: `${e.year}: ${cut(e.text, 90)}`, summary: e.text, detail: `${e.text} — ${p.extract || ""}`.trim(), image: fixImg((p.originalimage || p.thumbnail || {}).source), date: now });
   });
   return out;
 }
@@ -73,7 +96,7 @@ async function wikipedia() {
 async function apod() {
   const a = await (await get("https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY")).json();
   return [{ topic: "Spazio", type: "curiosità", source: "NASA · Foto del giorno", url: "https://apod.nasa.gov/apod/astropix.html",
-    title: a.title, summary: cut(a.explanation, 200), detail: cut(a.explanation, 900), date: new Date().toISOString() }];
+    title: a.title, summary: cut(a.explanation, 200), detail: cut(a.explanation, 900), image: a.media_type === "image" ? fixImg(a.url) : "", date: new Date().toISOString() }];
 }
 
 const jobs = [
