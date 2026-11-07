@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T09:47:06.658Z",
+ "updated": "2026-11-07T12:52:18.980Z",
  "items": [
   {
    "topic": "Storia",
@@ -10,7 +10,7 @@
    "summary": "Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle competizioni.",
    "detail": "Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle competizioni. — Earvin Johnson Jr., detto Magic, è un ex cestista, allenatore di pallacanestro, imprenditore, attivista e dirigente sportivo statunitense, considerato uno dei più grandi giocatori della storia della pallacanestro.",
    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Magic_Johnson_Steve_Lipofsky.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-07T09:47:04.360Z"
+   "date": "2026-11-07T12:52:17.736Z"
   },
   {
    "topic": "Storia",
@@ -21,29 +21,359 @@
    "summary": "La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra franco-spagnola.",
    "detail": "La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra franco-spagnola. — La pace dei Pirenei è un trattato stipulato il 7 novembre 1659 tra Francia e Spagna a chiusura della Guerra franco-spagnola. La pace fu sottoscritta dal generale spagnolo don Luis de Haro e dal cardinale Mazzarino, primo ministro di Francia.",
    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Traite-Pyrenees.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-07T09:47:04.360Z"
+   "date": "2026-11-07T12:52:17.736Z"
   },
   {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/07/lohengrin-apre-la-stagione-2026-2027-del-teatro-verdi-di-trieste_1f67854d-c5ac-4e30-be79-77b388e1a516.html",
-   "title": "Lohengrin apre la stagione 2026-2027 del Teatro Verdi di Trieste",
-   "summary": "Sovrintendente Polo, 'valorizziamo la storia identitaria della città'",
-   "detail": "Sovrintendente Polo, 'valorizziamo la storia identitaria della città'",
+   "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/07/chiocci-tg1-fieri-dello-scoop-mondiale-di-stefania-battistini-in-russia_3848f4a8-9499-4500-995e-c2301362ddf9.html",
+   "title": "Chiocci (Tg1), 'fieri dello scoop mondiale di Stefania Battistini in Russia'",
+   "summary": "'Purtroppo oggi la giornalista costretta a vivere sotto scorta'",
+   "detail": "'Purtroppo oggi la giornalista costretta a vivere sotto scorta'",
    "image": "",
-   "date": "2026-11-07T09:40:30.000Z"
+   "date": "2026-11-07T12:41:08.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
+   "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
+   "summary": "Solidarietà di Meloni al ministro. Il Ft: 'I servizi europei indagano sulla pista russa degli allarmi bomba'",
+   "detail": "Solidarietà di Meloni al ministro. Il Ft: 'I servizi europei indagano sulla pista russa degli allarmi bomba'",
+   "image": "",
+   "date": "2026-11-07T12:40:00.000Z"
   },
   {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/07/lohengrin-apre-la-stagione-2026-2027-del-teatro-verdi-di-trieste_9aac7a76-dba7-4008-ad55-9b1a83f00fc6.html",
-   "title": "Lohengrin apre la stagione 2026-2027 del Teatro Verdi di Trieste",
-   "summary": "Sovrintendente Polo, 'valorizziamo la storia identitaria della città'",
-   "detail": "Sovrintendente Polo, 'valorizziamo la storia identitaria della città'",
+   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/07/premio-delle-arti-santa-caterina-riporta-laccademia-nel-cuore-dellaquila_be638c9b-5ac9-4bf6-9c97-bf8dc8cd0c82.html",
+   "title": "Premio delle Arti, Santa Caterina riporta l'Accademia nel cuore dell'Aquila",
+   "summary": "Il ritorno in centro dopo 37 anni, in mostra 123 opere selezionate tra 400 candidature",
+   "detail": "Il ritorno in centro dopo 37 anni, in mostra 123 opere selezionate tra 400 candidature",
    "image": "",
-   "date": "2026-11-07T09:40:27.000Z"
+   "date": "2026-11-07T12:39:36.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/07/cose-la-violenza-di-genere-in-arrivo-il-primo-dizionario-storico-del-fenomeno-in-italia_1e8c60da-c7df-45c9-a597-6f25c21df1f1.html",
+   "title": "Cos'è la violenza di genere? In arrivo il primo dizionario storico del fenomeno in Italia",
+   "summary": "\"Dibattiti su emergenze e campagne di sensibilizzazione non bastano\" spiegano gli autori",
+   "detail": "\"Dibattiti su emergenze e campagne di sensibilizzazione non bastano\" spiegano gli autori",
+   "image": "",
+   "date": "2026-11-07T12:35:35.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/07/cose-la-violenza-di-genere-in-arrivo-il-primo-dizionario-storico-del-fenomeno-in-italia_0147985d-5674-4c1d-85aa-4fbf2d2eeac9.html",
+   "title": "Cos'è la violenza di genere? In arrivo il primo dizionario storico del fenomeno in Italia",
+   "summary": "\"Dibattiti su emergenze e campagne di sensibilizzazione non bastano\" spiegano gli autori",
+   "detail": "\"Dibattiti su emergenze e campagne di sensibilizzazione non bastano\" spiegano gli autori",
+   "image": "",
+   "date": "2026-11-07T12:35:28.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/07/francesco-sarcina-tony-effe-e-fedez-non-sono-cantanti-autotune-maschera_30773e54-9861-4b91-9083-7ec509f6696a.html",
+   "title": "Francesco Sarcina, 'Tony Effe e Fedez non sono cantanti, autotune maschera la voce'",
+   "summary": "Sulla vicenda Scamarcio: \"Non lo perdono, gli avrei affidato anche i miei figli in mano\"",
+   "detail": "Sulla vicenda Scamarcio: \"Non lo perdono, gli avrei affidato anche i miei figli in mano\"",
+   "image": "",
+   "date": "2026-11-07T12:34:01.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/flash/2026/11/07/-accoltella-la-compagna-e-le-frattura-il-cranio-arrestato-_27474495-5978-42a0-ae4a-cbec848206ac.html",
+   "title": "++ Accoltella la compagna e le frattura il cranio, arrestato ++",
+   "summary": "A Vicenza. La donna ha ferite permanenti al volto, è in prognosi riservata",
+   "detail": "A Vicenza. La donna ha ferite permanenti al volto, è in prognosi riservata",
+   "image": "",
+   "date": "2026-11-07T12:32:01.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/gualtieri-si-ricandida-al-campidoglio-con-il-campo-larghissimo_0f4fc042-27c3-44be-a704-866450fec849.html",
+   "title": "Gualtieri si ricandida al Campidoglio con il campo larghissimo",
+   "summary": "Il sindaco lancia lo slogan 'Roma avanti tutti', a sostegno l'intera coalizione, anche M5s ed Azione.",
+   "detail": "Il sindaco lancia lo slogan 'Roma avanti tutti', a sostegno l'intera coalizione, anche M5s ed Azione.",
+   "image": "",
+   "date": "2026-11-07T12:31:15.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+   "title": "The migration that transformed Africa's languages, genes, and cultures",
+   "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+   "detail": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
+   "date": "2026-11-07T12:15:55.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/calcio-gattuso-non-pensiamo-al-primato-raggiunti-40-punti-faremo-festa_5f37d7c3-7cb0-4edc-b2f1-f7048eccbf25.html",
+   "title": "Calcio: Gattuso 'non pensiamo al primato, raggiunti 40 punti faremo festa'",
+   "summary": "Tecnico laziale. \"Non siamo pronti per pensare a queste cose, viviamo senza tensione\"",
+   "detail": "Tecnico laziale. \"Non siamo pronti per pensare a queste cose, viviamo senza tensione\"",
+   "image": "",
+   "date": "2026-11-07T12:15:27.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/fiorentina-vanoli-quella-con-la-juve-e-la-partita-vogliamo-vincere_2d0b720b-8550-486a-bb62-5fad9f778642.html",
+   "title": "Fiorentina: Vanoli \"quella con la Juve 'è' la partita, vogliamo vincere\"",
+   "summary": "\"Attenti però ai bianconeri che sono forti\". Tra i viola ancora out Atta e Pongracic",
+   "detail": "\"Attenti però ai bianconeri che sono forti\". Tra i viola ancora out Atta e Pongracic",
+   "image": "",
+   "date": "2026-11-07T12:10:38.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
+   "title": "Nuovo attacco missilistico su Kiev. 'Situazione energetica estremamente difficile'",
+   "summary": "Colpite infrastrutture della capitale. Attacco ucraino con droni in diverse regioni russe",
+   "detail": "Colpite infrastrutture della capitale. Attacco ucraino con droni in diverse regioni russe",
+   "image": "",
+   "date": "2026-11-07T12:06:08.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
+   "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
+   "summary": "Il presidente Usa: 'Vogliono un accordo, sarà grande e coinvolgerà l'Europa'",
+   "detail": "Il presidente Usa: 'Vogliono un accordo, sarà grande e coinvolgerà l'Europa'",
+   "image": "",
+   "date": "2026-11-07T12:05:22.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/gattuso-non-mi-fido-del-napoli-in-difficolta-e-una-finale-anche-per_98d049bf-a9e6-42c1-91b8-73d2f2cb2100.html",
+   "title": "Gattuso 'non mi fido del Napoli in difficoltà, è una finale anche per noi'",
+   "summary": "Tecnico biancoceleste: \"Allegri? Spero di fare un quarto di quello che ha fatto lui\"",
+   "detail": "Tecnico biancoceleste: \"Allegri? Spero di fare un quarto di quello che ha fatto lui\"",
+   "image": "",
+   "date": "2026-11-07T12:05:07.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/07/stefania-rocca-il-film-lora-di-tutti-specchio-della-violenza-su-donne-e-popoli_2ec51290-98ab-4439-89b3-b8d356d1137a.html",
+   "title": "Stefania Rocca, 'il film L'ora di tutti specchio della violenza su donne e popoli'",
+   "summary": "Regista presenta il lungometraggio che oggi apre il Festival del Cinema Europeo di Lecce",
+   "detail": "Regista presenta il lungometraggio che oggi apre il Festival del Cinema Europeo di Lecce",
+   "image": "",
+   "date": "2026-11-07T12:04:17.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/",
+   "title": "The Hidden Microcontroller Inside a LoRa chip",
+   "summary": "If you’ve ever done anything with LoRa, the chances are you’ve used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that’s …read more",
+   "detail": "If you’ve ever done anything with LoRa, the chances are you’ve used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that’s …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/lora-up-featured.jpg",
+   "date": "2026-11-07T12:00:34.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/07/lo-scultore-riccardo-sanna-dona-unopera-al-museo-della-ceramica-della-tuscia_e7cbc40b-ef76-4d2d-8702-b82be86691e0.html",
+   "title": "Lo scultore Riccardo Sanna dona un'opera al museo della Ceramica della Tuscia",
+   "summary": "Questa mattina la cerimonia, l'opera donata è una delle sue famose 'porte' polimateriche",
+   "detail": "Questa mattina la cerimonia, l'opera donata è una delle sue famose 'porte' polimateriche",
+   "image": "",
+   "date": "2026-11-07T11:54:45.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/07/nepi-molineris-la-sfida-e-ridisegnare-la-geografia-delle-opportunita-tramite-lo-sport_aa3b998d-2c22-4e44-92d7-dd366e7e0c7b.html",
+   "title": "Nepi Molineris, la sfida è ridisegnare la geografia delle opportunità tramite lo sport",
+   "summary": "Ad Sport e Salute, aspiriamo è portarlo dove ancora non esiste",
+   "detail": "Ad Sport e Salute, aspiriamo è portarlo dove ancora non esiste",
+   "image": "",
+   "date": "2026-11-07T11:26:59.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/07/pappano-e-kantorow-con-la-chamber-orchestra-of-europe-tra-brahms-e-dvorak_63251c62-5911-4cd9-a02f-bd1d1a93b523.html",
+   "title": "Pappano e Kantorow con la Chamber Orchestra of Europe, tra Brahms e Dvořák",
+   "summary": "Il 9 novembre al Teatro Galli di Rimini, il 10 a Modena, l'11 a Brescia e il 12 a Torino",
+   "detail": "Il 9 novembre al Teatro Galli di Rimini, il 10 a Modena, l'11 a Brescia e il 12 a Torino",
+   "image": "",
+   "date": "2026-11-07T11:20:31.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/07/lavoratori-teatri-e-scritturati-lunedi-a-roma-per-la-manifestazione-nazionale_82e70f70-894e-496c-bf21-1976be3e2725.html",
+   "title": "Lavoratori teatri e scritturati lunedì a Roma per la manifestazione nazionale",
+   "summary": "Nuova mobilitazione sindacati: da Federvivo \"proposte inaccettabili e offensive\"",
+   "detail": "Nuova mobilitazione sindacati: da Federvivo \"proposte inaccettabili e offensive\"",
+   "image": "",
+   "date": "2026-11-07T11:15:58.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/07/dalle-piazza-di-assisi-un-inno-di-pace-e-gioia-con-oltre-400-voci_ca286fbb-268d-412d-8929-683a47d7e739.html",
+   "title": "Dalle piazza di Assisi un inno di pace e gioia con oltre 400 voci gospel",
+   "summary": "Nella città umbra il primo festival diffuso e itinerante di musica spiritual",
+   "detail": "Nella città umbra il primo festival diffuso e itinerante di musica spiritual",
+   "image": "",
+   "date": "2026-11-07T11:13:54.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+   "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+   "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+   "detail": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
+   "date": "2026-11-07T11:00:34.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
+   "title": "'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive)",
+   "summary": "NASA Administrator Jared Isaacman during a a Dec. 3, 2025 confirmation hearing. In October of 2026, Isaacman sat down with Space.com to discuss the future of the space agency.",
+   "detail": "NASA Administrator Jared Isaacman during a a Dec. 3, 2025 confirmation hearing. In October of 2026, Isaacman sat down with Space.com to discuss the future of the space agency.",
+   "image": "https://cdn.mos.cms.futurecdn.net/hdXEWy2dVNKmQrF4BoLQZW-1920-80.png",
+   "date": "2026-11-07T11:00:00.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/07/abodi-ce-una-sola-donna-presidente-su-51-federazioni-sportive-nazionali_322aced3-6df6-44f2-8d19-a26833081479.html",
+   "title": "Abodi, c'è una sola donna presidente su 51 federazioni sportive nazionali",
+   "summary": "'Le buone intenzioni non bastano più, abbiamo bisogno di concretizzare'",
+   "detail": "'Le buone intenzioni non bastano più, abbiamo bisogno di concretizzare'",
+   "image": "",
+   "date": "2026-11-07T10:55:29.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/07/walking-football-litalia-tre-volte-sul-podio-agli-europei-di-torrevieja_8e455d0e-9b76-4c82-a672-c38e3aea68d5.html",
+   "title": "Walking football: l'Italia tre volte sul podio agli Europei di Torrevieja",
+   "summary": "Argento per le azzurre Over 50, battute solo ai rigori dalla Francia",
+   "detail": "Argento per le azzurre Over 50, battute solo ai rigori dalla Francia",
+   "image": "",
+   "date": "2026-11-07T10:53:39.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/07/lunedi-riparte-confronto-su-rinnovo-contratto-bancari-il-nodo-manovra_31b2f5b1-ded7-4eb3-bacd-65028dd9b091.html",
+   "title": "Lunedì riparte confronto su rinnovo contratto bancari, il nodo Manovra",
+   "summary": "Sindacati chiedono che nuove tasse non blocchino negoziato",
+   "detail": "Sindacati chiedono che nuove tasse non blocchino negoziato",
+   "image": "",
+   "date": "2026-11-07T10:26:39.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+   "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+   "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared…",
+   "detail": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but decaffeinated coffee did not show the same association.",
+   "image": "",
+   "date": "2026-11-07T10:16:19.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/torino-ce-anche-mandragora-tra-i-convocati-per-il-lecce_e6113e6e-5dc2-4aa0-a6f2-7eb6aa05f25e.html",
+   "title": "Torino: c'è anche Mandragora tra i convocati per il Lecce",
+   "summary": "Centrocampista è nella lista di Abate, ancora out Fortini e Rodriguez",
+   "detail": "Centrocampista è nella lista di Abate, ancora out Fortini e Rodriguez",
+   "image": "",
+   "date": "2026-11-07T10:14:27.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
+   "title": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
+   "summary": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike…",
+   "detail": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, however, the CO2 we exhale is part of the natural carbon cycle, and scientists say measuring it more accurately could improve climate models.",
+   "image": "",
+   "date": "2026-11-07T10:00:03.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/07/abodi-grandi-eventi-occasione-per-portare-tutti-gli-sport-su-stessa_357ee204-1bea-4405-ab2d-bd4961187e8b.html",
+   "title": "Abodi 'grandi eventi occasione per portare tutti gli sport su stessa linea'",
+   "summary": "Ministro, investiamo tanto su questo e lo abbiamo dimostrato'",
+   "detail": "Ministro, investiamo tanto su questo e lo abbiamo dimostrato'",
+   "image": "",
+   "date": "2026-11-07T09:59:00.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/07/wta-finals-errani-paolini-una-gioia-essere-qui-dopo-un-anno_4682a4ab-fa7e-42d4-84f7-3e56d5be4288.html",
+   "title": "Wta Finals, Errani-Paolini \"una gioia essere qui dopo un anno difficile\"",
+   "summary": "Le azzurre esordiranno lunedì notte nel torneo di doppio",
+   "detail": "Le azzurre esordiranno lunedì notte nel torneo di doppio",
+   "image": "",
+   "date": "2026-11-07T09:55:45.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
+   "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
+   "summary": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its…",
+   "detail": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery challenges modern reforestation strategies, suggesting that planting thick forests could actually harm the biodiversity conservationists hope to protect.",
+   "image": "",
+   "date": "2026-11-07T09:44:48.000Z"
   },
   {
    "topic": "Sport",
@@ -55,39 +385,6 @@
    "detail": "Domani i Falcons sfidano i Bengals, giro d'affri enorme per la capitale",
    "image": "",
    "date": "2026-11-07T09:27:45.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/il-ft-i-servizi-europei-indagano-sulla-pista-russa-degli-allarmi-bomba.-in-tre_2902e339-ba05-423b-b761-27735ead1323.html",
-   "title": "Il Ft: 'I servizi europei indagano sulla pista russa degli allarmi bomba'. In tre giorni 35 casi",
-   "summary": "Tra le ipotesi attivisti filo-Cremlino o hacker. Il bilancio dell'Eurocontrol: ieri 14 segnalazioni",
-   "detail": "Tra le ipotesi attivisti filo-Cremlino o hacker. Il bilancio dell'Eurocontrol: ieri 14 segnalazioni",
-   "image": "",
-   "date": "2026-11-07T09:15:26.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/07/la-valle-dei-sorrisi-di-strippoli-tra-i-vincitori-al-trailers-filmfest-2026_57afb858-8a63-4a1c-8793-0cd126fff9a8.html",
-   "title": "La valle dei sorrisi di Strippoli tra i vincitori al Trailers FilmFest 2026",
-   "summary": "Anche Backrooms e Sirat premiati per la creatività nella promozione dei film",
-   "detail": "Anche Backrooms e Sirat premiati per la creatività nella promozione dei film",
-   "image": "",
-   "date": "2026-11-07T09:13:15.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/flash/2026/11/07/-cyberattacco-alla-societa-della-galleria-del-brennero-indagini-_055ed44e-4322-4bf4-84de-9681c09875d6.html",
-   "title": "++ Cyberattacco alla società della Galleria del Brennero, indagini ++",
-   "summary": "Isolati i sistemi interessati e avviate analisi forensi",
-   "detail": "Isolati i sistemi interessati e avviate analisi forensi",
-   "image": "",
-   "date": "2026-11-07T09:10:38.000Z"
   },
   {
    "topic": "Elettronica",
@@ -110,17 +407,6 @@
    "detail": "Top 1.300 euro in Valle d'Aosta, la più bassa in Sicilia a 487 euro. Tariffe aumenteranno",
    "image": "",
    "date": "2026-11-07T08:59:15.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/07/nba-wembanyama-e-doncic-trascinatori-serata-no-per-james_6a679157-6a86-4d52-929f-21a738cf4622.html",
-   "title": "Nba: Wembanyama e Doncic trascinatori, serata no per James",
-   "summary": "Vincono Spurs e Lakers, i Sixers interrompono la striscia positiva",
-   "detail": "Vincono Spurs e Lakers, i Sixers interrompono la striscia positiva",
-   "image": "",
-   "date": "2026-11-07T08:51:51.000Z"
   },
   {
    "topic": "Economia",
@@ -167,28 +453,6 @@
    "date": "2026-11-07T06:59:48.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/liran-esercito-piu-forte-dallinizio-della-guerra.-attacco-rapido-usa_d3eb6266-aaec-4271-9d11-336fd196698b.html",
-   "title": "L'Iran: 'Esercito più forte dall'inizio della guerra'. Attacco 'rapido' Usa all'isola di Qeshm",
-   "summary": "Trump: 'Piccolo raid di pochi minuti'",
-   "detail": "Trump: 'Piccolo raid di pochi minuti'",
-   "image": "",
-   "date": "2026-11-07T06:53:55.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
-   "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
-   "summary": "Il presidente Usa: 'Vogliono un accordo, sarà grande e coinvolgerà l'Europa'",
-   "detail": "Il presidente Usa: 'Vogliono un accordo, sarà grande e coinvolgerà l'Europa'",
-   "image": "",
-   "date": "2026-11-07T06:36:20.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "Hackaday",
@@ -226,11 +490,22 @@
    "type": "notizia",
    "source": "Space.com",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
-   "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+   "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)",
    "summary": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
    "detail": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
    "image": "https://cdn.mos.cms.futurecdn.net/q9Z9sqFyvcTuBggqZ6hKgV-1920-80.jpg",
    "date": "2026-11-07T01:41:58.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+   "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
+   "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the…",
+   "detail": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain circuits damaged by prolonged stress. Most intriguingly, they identified a way to trigger this brain rewiring without the behavioral response associated with psychedelic effects.",
+   "image": "",
+   "date": "2026-11-07T00:33:47.000Z"
   },
   {
    "topic": "Elettronica",
@@ -255,6 +530,17 @@
    "date": "2026-11-06T23:46:08.000Z"
   },
   {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+   "title": "With Stephen Miller pick, Trump readies for a battle",
+   "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+   "detail": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
+   "date": "2026-11-06T23:24:15.000Z"
+  },
+  {
    "topic": "Tecnologia",
    "type": "notizia",
    "source": "Ars Technica",
@@ -264,17 +550,6 @@
    "detail": "It's the exact path, not the apparent severity that matters most, doctors say.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg",
    "date": "2026-11-06T23:09:45.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/calcio-nicola-penzo-diventi-fortino-ma-servono-punti-anche-fuori_1d3e9345-015a-4e25-9e1d-4e867b8a3ab9.html",
-   "title": "Calcio: Nicola, 'Penzo diventi fortino ma servono punti anche fuori'",
-   "summary": "Tecnico Venezia, 'Dobbiamo vincere grazie all'equilibrio non solo per emotività'",
-   "detail": "Tecnico Venezia, 'Dobbiamo vincere grazie all'equilibrio non solo per emotività'",
-   "image": "",
-   "date": "2026-11-06T22:51:01.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -288,39 +563,6 @@
    "date": "2026-11-06T22:41:37.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/udinese-zanetti-serve-un-bagno-di-umilta-per-ripartire_5752bc2c-23b0-4678-815c-96553c1cdd99.html",
-   "title": "Udinese: Zanetti, 'serve un bagno di umiltà per ripartire'",
-   "summary": "'Non meritavamo di perdere, ma non percepiamo pericolo'",
-   "detail": "'Non meritavamo di perdere, ma non percepiamo pericolo'",
-   "image": "",
-   "date": "2026-11-06T22:38:29.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/06/tennis-alcarazin-semifinale-al-masters-1000-di-parigi-tiafoe-e-alle-atp-finals_c28084f2-e41d-4c25-b9ab-ce7e5e3fddb3.html",
-   "title": "Tennis: Alcarazin semifinale al Masters 1000 di Parigi, Tiafoe è alle Atp Finals",
-   "summary": "Tra i primi quattro del torneo anche Ben Shelton",
-   "detail": "Tra i primi quattro del torneo anche Ben Shelton",
-   "image": "",
-   "date": "2026-11-06T22:23:24.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-   "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
-   "summary": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
-   "detail": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
-   "image": "",
-   "date": "2026-11-06T22:11:14.000Z"
-  },
-  {
    "topic": "Tecnologia",
    "type": "notizia",
    "source": "Ars Technica",
@@ -330,17 +572,6 @@
    "detail": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
    "date": "2026-11-06T22:08:47.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/il-venezia-torna-a-vincere-2-1-alludinese-ultima-e-in-crisi_b7f53128-638d-409c-a912-b3265c94615c.html",
-   "title": "Il Venezia torna a vincere, 2-1 all'Udinese ultima e in crisi",
-   "summary": "Vantaggio di Basic al 53' per i lagunari, pareggio dei friulani con un autogol di Moreno al 57' e rete della vittoria di Perez al 65'",
-   "detail": "Vantaggio di Basic al 53' per i lagunari, pareggio dei friulani con un autogol di Moreno al 57' e rete della vittoria di Perez al 65'",
-   "image": "",
-   "date": "2026-11-06T22:06:05.000Z"
   },
   {
    "topic": "Spazio",
@@ -365,17 +596,6 @@
    "date": "2026-11-06T22:00:00.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/06/tennis-alcaraz-in-semifinale-al-masters-di-parigi_f36d1209-cfaf-4ac1-928f-99db052bf8cd.html",
-   "title": "Tennis: Alcaraz in semifinale al Masters di Parigi",
-   "summary": "Lo spagnolo supera in tre set lo statunitense Fritz",
-   "detail": "Lo spagnolo supera in tre set lo statunitense Fritz",
-   "image": "",
-   "date": "2026-11-06T21:51:27.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "BBC Business",
@@ -385,39 +605,6 @@
    "detail": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
    "date": "2026-11-06T21:49:50.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/il-venezia-ritrova-la-vittoria-2-1-alludinese_cbb17dbd-a3f9-4f42-919e-b4187a9fe75c.html",
-   "title": "Il Venezia ritrova la vittoria, 2-1 all'Udinese",
-   "summary": "I lagunari vincono la sfida salvezza. Friulani ultimi",
-   "detail": "I lagunari vincono la sfida salvezza. Friulani ultimi",
-   "image": "",
-   "date": "2026-11-06T21:47:10.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/calcio-ascoli-palermo-1-1_0e7eec8e-725b-47f9-ba01-ef832d6ca44d.html",
-   "title": "Calcio: Ascoli-Palermo 1-1",
-   "summary": "Al gol di Brunori nel primo tempo replica Ranocchia nella ripresa",
-   "detail": "Al gol di Brunori nel primo tempo replica Ranocchia nella ripresa",
-   "image": "",
-   "date": "2026-11-06T21:30:25.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/fifa-caribbean-football-union-sosterra-la-rielezione-di-infantino_07eefa04-c3c1-4c3f-aa8c-ab9b17722e16.html",
-   "title": "Fifa: Caribbean Football Union sosterrà la rielezione di Infantino",
-   "summary": "La Cfu rappresenta 25 federazioni, 'apprezziamo iniziative di sostegno'",
-   "detail": "La Cfu rappresenta 25 federazioni, 'apprezziamo iniziative di sostegno'",
-   "image": "",
-   "date": "2026-11-06T21:22:36.000Z"
   },
   {
    "topic": "Mondo",
@@ -563,17 +750,6 @@
    "date": "2026-11-06T19:02:49.000Z"
   },
   {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/pagano-presenta-luana-ragazza-spero-aiuti-la-battaglia-del-lavoro_b65a74de-c669-457c-9df5-78a157242173.html",
-   "title": "Pagano presenta \"Luana, ragazza\", 'spero aiuti la battaglia del lavoro'",
-   "summary": "Il regista focalizza la narrazione sulla vita della ragazza e non sulla sua morte",
-   "detail": "Il regista focalizza la narrazione sulla vita della ragazza e non sulla sua morte",
-   "image": "",
-   "date": "2026-11-06T19:01:11.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "Space.com",
@@ -583,17 +759,6 @@
    "detail": "Hear Neil Armstrong's son and granddaughter sing a moving tribute to the legendary Apollo 11 astronaut",
    "image": "https://cdn.mos.cms.futurecdn.net/zbh5u8b6J6zPnvoi5WpYr6-1920-80.jpg",
    "date": "2026-11-06T19:00:00.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/restaurata-maesta-di-moneta-opera-votiva-del-600-degli-scultori-di-carrara_f0197f82-ef43-4503-b6c0-15cd31704451.html",
-   "title": "Restaurata Maestà di Moneta, opera votiva del '600 degli scultori di Carrara",
-   "summary": "E' in marmo e segnava punto devozionale su sentiero di montagna per le cave",
-   "detail": "E' in marmo e segnava punto devozionale su sentiero di montagna per le cave",
-   "image": "",
-   "date": "2026-11-06T18:57:06.000Z"
   },
   {
    "topic": "Mondo",
@@ -607,28 +772,6 @@
    "date": "2026-11-06T18:48:14.000Z"
   },
   {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/cinema-muore-a-52-anni-il-regista-cileno-premio-oscar-sebastian-lelio_5bd6250a-7a8b-4c5a-a363-e5dffa424776.html",
-   "title": "Cinema, muore a 52 anni il regista cileno premio Oscar Sebastian Lelio",
-   "summary": "Vinse il premio di miglior film straniero nel 2018 con 'Una donna fantastica'",
-   "detail": "Vinse il premio di miglior film straniero nel 2018 con 'Una donna fantastica'",
-   "image": "",
-   "date": "2026-11-06T18:46:38.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/pisa-1946-dalle-macerie-al-futuro-la-scoperta-della-scultura-pisana-del_a25378ca-8526-4b36-955d-e9ce0266c9a2.html",
-   "title": "Pisa 1946, dalle macerie al futuro, la \"scoperta\" della scultura pisana del '300",
-   "summary": "Al museo di San Matteo fino al 10 gennaio si celebra l'arte come strumento di rinascita",
-   "detail": "Al museo di San Matteo fino al 10 gennaio si celebra l'arte come strumento di rinascita",
-   "image": "",
-   "date": "2026-11-06T18:46:35.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "BBC Business",
@@ -638,39 +781,6 @@
    "detail": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-06T18:32:16.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
-   "title": "The folks behind John Wick are back with Karōshi trailer",
-   "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
-   "detail": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-12.24.52-PM-1152x648.png",
-   "date": "2026-11-06T18:30:19.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/ansa-box-a-potenza-chiude-il-ponte-musmeci-gioiello-del-900_764ea391-e00f-4668-a49b-bf51cbe5c187.html",
-   "title": ">ANSA-BOX/ A Potenza \"chiude\" il ponte Musmeci, gioiello del '900",
-   "summary": "Degrado impone lo stop alle auto. Una gara europea per salvarlo",
-   "detail": "Degrado impone lo stop alle auto. Una gara europea per salvarlo",
-   "image": "",
-   "date": "2026-11-06T18:28:07.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-   "title": "You know the launch market is tough when satellite companies start building rockets",
-   "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-   "detail": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason-1152x648.jpg",
-   "date": "2026-11-06T18:20:47.000Z"
   },
   {
    "topic": "Musica",
@@ -737,17 +847,6 @@
    "detail": "Watch the music video for “American Dream,” filmed in Oklahoma on the Fourth of July",
    "image": "https://media.pitchfork.com/photos/6aedfebf78d0dfa19820e73f/master/pass/unnamed%20(62).jpg",
    "date": "2026-11-06T17:26:52.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/06/andata-deserta-lasta-per-aggiudicarsi-la-celebre-ca-del-liscio_7053663b-af32-4ff7-b5bc-518d3bc3d480.html",
-   "title": "Andata deserta l'asta per aggiudicarsi la celebre 'Ca del Liscio'",
-   "summary": "Il locale che era stato fondato a Ravenna da Raoul Casadei nel 1976",
-   "detail": "Il locale che era stato fondato a Ravenna da Raoul Casadei nel 1976",
-   "image": "",
-   "date": "2026-11-06T17:22:16.000Z"
   },
   {
    "topic": "Economia",
@@ -827,28 +926,6 @@
    "date": "2026-11-06T16:59:37.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/borsa-leuropa-termina-in-ribasso-francoforte-la-peggiore-192_082ba8ce-74cd-4ae7-8da2-b586bcb5e813.html",
-   "title": "Borsa: l'Europa termina in ribasso, Francoforte la peggiore -1,92%",
-   "summary": "Parigi cede lo 0,81%",
-   "detail": "Parigi cede lo 0,81%",
-   "image": "",
-   "date": "2026-11-06T16:51:07.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/06/why-the-ulc-audio-codec-is-a-perfect-fit-for-the-n64/",
-   "title": "Why the ULC Audio Codec is a Perfect Fit for the N64",
-   "summary": "Although the Nintendo 64 could deliver solid 3D graphics with assets loaded at a blistering speed from the game cartridge, audio-wise it was a bit more hampered. The main challenge …read more",
-   "detail": "Although the Nintendo 64 could deliver solid 3D graphics with assets loaded at a blistering speed from the game cartridge, audio-wise it was a bit more hampered. The main challenge …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2020/12/n64-featured.jpg",
-   "date": "2026-11-06T16:30:48.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -869,17 +946,6 @@
    "detail": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=2048",
    "date": "2026-11-06T16:23:41.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-   "title": "Four midterms takeaways for 2028 White House race",
-   "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-   "detail": "The buzz about the presidential election is already under way - here's what we learned this week.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
-   "date": "2026-11-06T16:12:22.000Z"
   },
   {
    "topic": "Spazio",
@@ -1001,17 +1067,6 @@
    "detail": "Stream new releases from Twisted Teens, Bassvictim, Oso Oso, and Lil Baby",
    "image": "https://media.pitchfork.com/photos/6aeb9e29a66e1f90616234f2/master/pass/TwistedTeens_2026_promo_04_MartinCrudo_2250x1500_300%20(2).jpg",
    "date": "2026-11-06T14:37:49.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-musk-online-stream-the-spacex-billionaire-biography-from-anywhere",
-   "title": "How to watch 'Musk' online — stream the SpaceX billionaire biography from anywhere",
-   "summary": "How to watch \"Musk\", the new documentary about the World's richest man and CEO of X, SpaceX and Tesla. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
-   "detail": "How to watch \"Musk\", the new documentary about the World's richest man and CEO of X, SpaceX and Tesla. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
-   "image": "https://cdn.mos.cms.futurecdn.net/QsQGiFTdPubnsXBZpoambP-1920-80.jpg",
-   "date": "2026-11-06T14:00:00.000Z"
   },
   {
    "topic": "Storia",
@@ -1355,17 +1410,6 @@
    "date": "2026-11-04T17:58:59.000Z"
   },
   {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
-   "title": "A surprising discovery could help aging muscles repair themselves",
-   "summary": "Scientists have discovered a compound that transforms a natural muscle-repair protein into a more powerful version dubbed \"Super HGF,\" more than doubling its ability to bind to a key receptor while…",
-   "detail": "Scientists have discovered a compound that transforms a natural muscle-repair protein into a more powerful version dubbed \"Super HGF,\" more than doubling its ability to bind to a key receptor while protecting it from age-related chemical damage. The breakthrough, supported by early mouse experiments, could eventually help combat muscle loss and preserve strength as people age.",
-   "image": "",
-   "date": "2026-11-04T13:26:06.000Z"
-  },
-  {
    "topic": "Natura",
    "type": "notizia",
    "source": "Smithsonian",
@@ -1375,39 +1419,6 @@
    "detail": "The famous problem asks whether a map can be filled in with only four colors such that the same color never borders itself. It has been solved with the help of computers, but some experts suggest an elusive, short answer is out there",
    "image": "https://th-thumbnailer.cdn-si-edu.com/YJNeTvNqpPYzt9aWzj_6ObfL4is=/420x240/filters:focal(1440x816:1441x817)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d8/6b/d86b33bf-ba91-4be7-ac86-157eab2eeda2/4c-theorem-crvico-santos-lede.jpg",
    "date": "2026-11-04T12:30:00.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
-   "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
-   "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles.…",
-   "detail": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and applications in electronics, medicine, and energy.",
-   "image": "",
-   "date": "2026-11-04T12:23:36.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-   "title": "NASA is racing against time to save the Hubble Space Telescope",
-   "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is…",
-   "detail": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it when its mission finally ends.",
-   "image": "",
-   "date": "2026-11-04T11:22:33.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-   "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-   "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they…",
-   "detail": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets combine stability with the ability to efficiently carry information, potentially overcoming major limitations in today's electronics. The discovery could lead to faster computers, more efficient data centers, and breakthroughs in quantum technology.",
-   "image": "",
-   "date": "2026-11-04T10:43:44.000Z"
   },
   {
    "topic": "Salute",
