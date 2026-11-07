@@ -1,35 +1,275 @@
 {
- "updated": "2026-11-06T20:00:57.068Z",
+ "updated": "2026-11-07T00:04:34.362Z",
  "items": [
   {
+   "topic": "Storia",
+   "type": "curiosità",
+   "source": "Wikipedia · Accadde oggi",
+   "url": "https://it.wikipedia.org/wiki/Magic_Johnson",
+   "title": "1991: Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle…",
+   "summary": "Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle competizioni.",
+   "detail": "Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle competizioni. — Earvin Johnson Jr., detto Magic, è un ex cestista, allenatore di pallacanestro, imprenditore, attivista e dirigente sportivo statunitense, considerato uno dei più grandi giocatori della storia della pallacanestro.",
+   "date": "2026-11-07T00:04:15.772Z"
+  },
+  {
+   "topic": "Storia",
+   "type": "curiosità",
+   "source": "Wikipedia · Accadde oggi",
+   "url": "https://it.wikipedia.org/wiki/Pace_dei_Pirenei",
+   "title": "1659: La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra…",
+   "summary": "La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra franco-spagnola.",
+   "detail": "La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra franco-spagnola. — La pace dei Pirenei è un trattato stipulato il 7 novembre 1659 tra Francia e Spagna a chiusura della Guerra franco-spagnola. La pace fu sottoscritta dal generale spagnolo don Luis de Haro e dal cardinale Mazzarino, primo ministro di Francia.",
+   "date": "2026-11-07T00:04:15.772Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/vaticano/notizie/2026/11/07/papa-leone-fiero-di-essere-americano-e-di-avere-votato_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
+   "title": "Papa Leone: 'Fiero di essere americano e di avere votato'",
+   "summary": "Il Pontefice: 'Check-up benedetti, mai avuto dubbi su questo viaggio'",
+   "detail": "Il Pontefice: 'Check-up benedetti, mai avuto dubbi su questo viaggio'",
+   "date": "2026-11-06T23:31:42.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/calcio-nicola-penzo-diventi-fortino-ma-servono-punti-anche-fuori_1d3e9345-015a-4e25-9e1d-4e867b8a3ab9.html",
+   "title": "Calcio: Nicola, 'Penzo diventi fortino ma servono punti anche fuori'",
+   "summary": "Tecnico Venezia, 'Dobbiamo vincere grazie all'equilibrio non solo per emotività'",
+   "detail": "Tecnico Venezia, 'Dobbiamo vincere grazie all'equilibrio non solo per emotività'",
+   "date": "2026-11-06T22:51:01.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/06/media-iran-due-missili-colpiscono-lisola-di-qeshm_d3eb6266-aaec-4271-9d11-336fd196698b.html",
+   "title": "Media Iran, due missili colpiscono l'isola di Qeshm",
+   "summary": "Non vi sono ancora informazioni ufficiali su eventuali danni",
+   "detail": "Non vi sono ancora informazioni ufficiali su eventuali danni",
+   "date": "2026-11-06T22:49:48.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/udinese-zanetti-serve-un-bagno-di-umilta-per-ripartire_5752bc2c-23b0-4678-815c-96553c1cdd99.html",
+   "title": "Udinese: Zanetti, 'serve un bagno di umiltà per ripartire'",
+   "summary": "'Non meritavamo di perdere, ma non percepiamo pericolo'",
+   "detail": "'Non meritavamo di perdere, ma non percepiamo pericolo'",
+   "date": "2026-11-06T22:38:29.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/06/tennis-alcarazin-semifinale-al-masters-1000-di-parigi-tiafoe-e-alle-atp-finals_c28084f2-e41d-4c25-b9ab-ce7e5e3fddb3.html",
+   "title": "Tennis: Alcarazin semifinale al Masters 1000 di Parigi, Tiafoe è alle Atp Finals",
+   "summary": "Tra i primi quattro del torneo anche Ben Shelton",
+   "detail": "Tra i primi quattro del torneo anche Ben Shelton",
+   "date": "2026-11-06T22:23:24.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+   "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
+   "summary": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
+   "detail": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
+   "date": "2026-11-06T22:11:14.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/il-venezia-torna-a-vincere-2-1-alludinese-ultima-e-in-crisi_b7f53128-638d-409c-a912-b3265c94615c.html",
+   "title": "Il Venezia torna a vincere, 2-1 all'Udinese ultima e in crisi",
+   "summary": "Vantaggio di Basic al 53' per i lagunari, pareggio dei friulani con un autogol di Moreno al 57' e rete della vittoria di Perez al 65'",
+   "detail": "Vantaggio di Basic al 53' per i lagunari, pareggio dei friulani con un autogol di Moreno al 57' e rete della vittoria di Perez al 65'",
+   "date": "2026-11-06T22:06:05.000Z"
+  },
+  {
    "topic": "Spazio",
-   "type": "curiosità",
-   "source": "NASA · Foto del giorno",
-   "url": "https://apod.nasa.gov/apod/astropix.html",
-   "title": "NASA Science",
-   "summary": "It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra…",
-   "detail": "It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope. Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope, that worked together to enable humanity to study, in unprecedented detail, the fastest and most energetic explosions in the universe. The most recent solar maximum accelerated the decay of the satellite's orbit. An innovative mission to rescue Swift by boosting its orbit was not successful. Swift burned on reentry like a shooting star, but the impressive data acquired by the telescope over its mission will continue to bring light to the…",
-   "date": "2026-11-06T20:00:57.067Z"
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026",
+   "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
+   "summary": "On Nov. 6, 1572, the German astronomer Wolfgang Schulër observed a supernova later caleld the Tycho supernova with his bare eyes. Here's why it mattered.",
+   "detail": "On Nov. 6, 1572, the German astronomer Wolfgang Schulër observed a supernova later caleld the Tycho supernova with his bare eyes. Here's why it mattered.",
+   "date": "2026-11-06T22:05:58.000Z"
   },
   {
-   "topic": "Storia",
-   "type": "curiosità",
-   "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Australia",
-   "title": "1999: Un referendum, indetto per scegliere la forma istituzionale in Australia, sancisce la…",
-   "summary": "Un referendum, indetto per scegliere la forma istituzionale in Australia, sancisce la vittoria della monarchia.",
-   "detail": "Un referendum, indetto per scegliere la forma istituzionale in Australia, sancisce la vittoria della monarchia. — L'Australia, ufficialmente Commonwealth dell'Australia, è uno Stato dell'Oceania. È il sesto paese del mondo per estensione e il più grande del continente. Ha una popolazione di oltre 25 milioni di abitanti, quasi interamente residenti sulle coste.",
-   "date": "2026-11-06T20:00:54.686Z"
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut",
+   "title": "AST SpaceMobile announces new 'Blacklift' rocket, targets 2028 launch debut",
+   "summary": "AST SpaceMobile plans to launch its broadband satellites on a new rocket called Blacklift, which it will build in house and plans to start flying in 2028.",
+   "detail": "AST SpaceMobile plans to launch its broadband satellites on a new rocket called Blacklift, which it will build in house and plans to start flying in 2028.",
+   "date": "2026-11-06T22:00:00.000Z"
   },
   {
-   "topic": "Storia",
-   "type": "curiosità",
-   "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Abraham_Lincoln",
-   "title": "1860: Abraham Lincoln viene eletto presidente degli Stati Uniti d'America. È il primo…",
-   "summary": "Abraham Lincoln viene eletto presidente degli Stati Uniti d'America. È il primo repubblicano a detenere tale carica.",
-   "detail": "Abraham Lincoln viene eletto presidente degli Stati Uniti d'America. È il primo repubblicano a detenere tale carica. — Abraham Lincoln, spesso italianizzato in Abramo Lincoln, è stato un politico, avvocato e militare statunitense.",
-   "date": "2026-11-06T20:00:54.686Z"
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/06/tennis-alcaraz-in-semifinale-al-masters-di-parigi_f36d1209-cfaf-4ac1-928f-99db052bf8cd.html",
+   "title": "Tennis: Alcaraz in semifinale al Masters di Parigi",
+   "summary": "Lo spagnolo supera in tre set lo statunitense Fritz",
+   "detail": "Lo spagnolo supera in tre set lo statunitense Fritz",
+   "date": "2026-11-06T21:51:27.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+   "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+   "detail": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+   "date": "2026-11-06T21:49:50.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/il-venezia-ritrova-la-vittoria-2-1-alludinese_cbb17dbd-a3f9-4f42-919e-b4187a9fe75c.html",
+   "title": "Il Venezia ritrova la vittoria, 2-1 all'Udinese",
+   "summary": "I lagunari vincono la sfida salvezza. Friulani ultimi",
+   "detail": "I lagunari vincono la sfida salvezza. Friulani ultimi",
+   "date": "2026-11-06T21:47:10.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/calcio-ascoli-palermo-1-1_0e7eec8e-725b-47f9-ba01-ef832d6ca44d.html",
+   "title": "Calcio: Ascoli-Palermo 1-1",
+   "summary": "Al gol di Brunori nel primo tempo replica Ranocchia nella ripresa",
+   "detail": "Al gol di Brunori nel primo tempo replica Ranocchia nella ripresa",
+   "date": "2026-11-06T21:30:25.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/fifa-caribbean-football-union-sosterra-la-rielezione-di-infantino_07eefa04-c3c1-4c3f-aa8c-ab9b17722e16.html",
+   "title": "Fifa: Caribbean Football Union sosterrà la rielezione di Infantino",
+   "summary": "La Cfu rappresenta 25 federazioni, 'apprezziamo iniziative di sostegno'",
+   "detail": "La Cfu rappresenta 25 federazioni, 'apprezziamo iniziative di sostegno'",
+   "date": "2026-11-06T21:22:36.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/06/norman-io-privilegiato-aiutero-sinner-a-crescere-ancora_94fc8452-450b-40b0-b491-31fe8c86f998.html",
+   "title": "Norman 'io privilegiato, aiuterò Sinner a crescere ancora'",
+   "summary": "Il nuovo coach dell'azzurro: 'Felice di proseguire il lavoro di Cahill'",
+   "detail": "Il nuovo coach dell'azzurro: 'Felice di proseguire il lavoro di Cahill'",
+   "date": "2026-11-06T21:16:37.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+   "title": "AI stocks climb after trillions wiped from market values",
+   "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+   "detail": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+   "date": "2026-11-06T21:06:25.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/06/mousepods-reverse-engineers-head-tracking-data-from-stubborn-airpods/",
+   "title": "MousePods Reverse Engineers Head Tracking Data From Stubborn AirPods",
+   "summary": "[Matteo Gaudioso] released MousePods, a Python tool which accesses the motion sensors in Apple AirPods on Linux, turning them into mouse input. No Apple host required. Doing this required…",
+   "detail": "[Matteo Gaudioso] released MousePods, a Python tool which accesses the motion sensors in Apple AirPods on Linux, turning them into mouse input. No Apple host required. Doing this required reverse-engineering …read more",
+   "date": "2026-11-06T21:00:14.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/stargazing/whats-that-bright-star-in-the-early-morning-sky-its-not-a-star-at-all",
+   "title": "What's that bright 'star' in the early morning sky? It's not a star at all!",
+   "summary": "Spotted a dazzling light in the eastern sky before sunrise? It's Venus, and the planet is only going to get brighter as it heads toward its spectacular peak later this month.",
+   "detail": "Spotted a dazzling light in the eastern sky before sunrise? It's Venus, and the planet is only going to get brighter as it heads toward its spectacular peak later this month.",
+   "date": "2026-11-06T21:00:00.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+   "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+   "detail": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+   "date": "2026-11-06T20:56:41.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/06/f1-vasseur-hamilton-e-leclerc-si-comportino-da-professionisti_e41792d5-eeba-4fc2-b065-64b0e4b4c6af.html",
+   "title": "F1: Vasseur, \"Hamilton e Leclerc si comportino da professionisti\"",
+   "summary": "Il team principal Ferrari, \"Non chiedo che siano amici... ma si rispettino\"",
+   "detail": "Il team principal Ferrari, \"Non chiedo che siano amici... ma si rispettino\"",
+   "date": "2026-11-06T20:56:19.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/copernicus-il-mese-di-ottobre-2026-e-stato-il-piu-caldo-mai-registrato_6bcacc14-ee82-44d1-a5f1-9a609d8d83a8.html",
+   "title": "Copernicus: 'Il mese di ottobre è stato il più caldo mai registrato'",
+   "summary": "Il 2026 sforerà il limite di riscaldamento di 1,5°C dell'Accordo di Parigi",
+   "detail": "Il 2026 sforerà il limite di riscaldamento di 1,5°C dell'Accordo di Parigi",
+   "date": "2026-11-06T20:43:00.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+   "title": "Earth's churning mantle may have created the Great Unconformity",
+   "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+   "detail": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+   "date": "2026-11-06T20:24:20.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/06/midterm-trump-torna-allattacco-non-mollero-mai.-e-nomina-miller-capo_4b1dc648-5e25-4e4c-856c-8a949fe1762f.html",
+   "title": "Midterm: Trump torna all'attacco, 'non mollerò mai'. E nomina Miller capo dello staff",
+   "summary": "Wiles prima testa a cadere. Il tycoon: 'Tonfo Wall Street colpa dei dem, distruggo l'Iran'",
+   "detail": "Wiles prima testa a cadere. Il tycoon: 'Tonfo Wall Street colpa dei dem, distruggo l'Iran'",
+   "date": "2026-11-06T20:09:07.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+   "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+   "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+   "detail": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+   "date": "2026-11-06T20:05:30.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/stargazing/skywatching-kit/i-finally-got-my-hands-on-the-unistellar-envision-smart-binoculars-with-augmented-reality-for-the-night-sky-heres-what-theyre-like",
+   "title": "I finally got my hands on the Unistellar Envision smart binoculars with augmented reality and I can’t wait to stargaze with them",
+   "summary": "The Unistellar Envision smart binoculars have an augmented reality (AR) overlay that provides smart functionality to 10x50 binoculars, enabling night sky and landmark identification.",
+   "detail": "The Unistellar Envision smart binoculars have an augmented reality (AR) overlay that provides smart functionality to 10x50 binoculars, enabling night sky and landmark identification.",
+   "date": "2026-11-06T20:00:00.000Z"
   },
   {
    "topic": "Economia",
@@ -42,34 +282,14 @@
    "date": "2026-11-06T19:51:27.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Tecnologia",
    "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/vaticano/notizie/2026/11/06/il-papa-in-sudamerica-e-atterrato-a-montevideo-benedetti-check-up-mai-avuto-dubbi-su-questo_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-   "title": "Il Papa in Sudamerica, è atterrato a Montevideo: 'Benedetti check-up, mai avuto dubbi su questo viaggio'",
-   "summary": "Prima tappa l'Uruguay, il Paese meno cattolico del continente. Dopo l'operazione rassicura: 'Tornerò a giocare a tennis. E sul voto Usa dichiara: 'Fiero di avere esercitato il mio diritto'",
-   "detail": "Prima tappa l'Uruguay, il Paese meno cattolico del continente. Dopo l'operazione rassicura: 'Tornerò a giocare a tennis. E sul voto Usa dichiara: 'Fiero di avere esercitato il mio diritto'",
-   "date": "2026-11-06T19:48:35.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/serie-a-venezia-udinese-0-0-diretta-e-foto_b7f53128-638d-409c-a912-b3265c94615c.html",
-   "title": "Serie A: Venezia-Udinese 0-0 DIRETTA e FOTO",
-   "summary": "Dubbio Davis per la prima di Zanetti sulla panchina friulana",
-   "detail": "Dubbio Davis per la prima di Zanetti sulla panchina friulana",
-   "date": "2026-11-06T19:47:04.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-   "title": "AI stocks climb after trillions wiped from market values",
-   "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-   "detail": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-   "date": "2026-11-06T19:37:10.000Z"
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+   "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+   "summary": "Developer: “I can’t be part of the Fox world.”",
+   "detail": "Developer: “I can’t be part of the Fox world.”",
+   "date": "2026-11-06T19:50:18.000Z"
   },
   {
    "topic": "Elettronica",
@@ -85,31 +305,21 @@
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/lfbi-arresta-in-florida-il-padre-di-meghan-markle-_404b4dee-1f32-4233-83f4-5dcbbc0afa5d.html",
-   "title": "L'Fbi arresta in Florida il padre di Meghan Markle",
-   "summary": "L'82enne accusato di pedopornografia, immagini trovate anche negli Usa",
-   "detail": "L'82enne accusato di pedopornografia, immagini trovate anche negli Usa",
-   "date": "2026-11-06T19:23:21.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/calcio-assocapp-servono-manager-attenti-e-competenti_a43d0683-6dc4-424b-b139-77c1c0fb22fe.html",
-   "title": "Calcio: Assocapp, 'servono manager attenti e competenti\"",
-   "summary": "(V. 'Fondo calciatori e allenatori, 'verso di noi...' delle 20:10)",
-   "detail": "(V. 'Fondo calciatori e allenatori, 'verso di noi...' delle 20:10)",
-   "date": "2026-11-06T19:17:35.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
    "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/06/martine-rose-nuova-direttrice-creativa-di-balenciaga_bf26e208-1ab7-4b00-afd8-615686eae5d6.html",
    "title": "Martine Rose nuova direttrice creativa di Balenciaga",
    "summary": "Prende il posto di Pierpaolo Piccioli",
    "detail": "Prende il posto di Pierpaolo Piccioli",
    "date": "2026-11-06T19:15:24.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
+   "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
+   "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
+   "detail": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
+   "date": "2026-11-06T19:12:28.000Z"
   },
   {
    "topic": "Mondo",
@@ -120,36 +330,6 @@
    "summary": "La rivendicazione via mail. Diversi voli coinvolti, due in Italia. Meloni: 'Preoccupata'",
    "detail": "La rivendicazione via mail. Diversi voli coinvolti, due in Italia. Meloni: 'Preoccupata'",
    "date": "2026-11-06T19:11:18.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/fondo-calciatori-e-allenatori-verso-di-noi-accuse-strumentali-e-politiche_96185cdc-1202-4f1b-9ed4-2fd37ff67df8.html",
-   "title": "Fondo calciatori e allenatori, 'verso di noi accuse strumentali e politiche\"",
-   "summary": "Precisazione sulla gestione delle trattenute degli iscritti",
-   "detail": "Precisazione sulla gestione delle trattenute degli iscritti",
-   "date": "2026-11-06T19:11:10.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/06/trump-ammette-con-i-sostenitori-le-midterm-non-sono-andate-come-volevamo_4b1dc648-5e25-4e4c-856c-8a949fe1762f.html",
-   "title": "Trump ammette con i sostenitori: 'Le midterm non sono andate come volevamo'",
-   "summary": "Il messaggio tramite la sua campagna, 'non mi arrenderò mai' . Il cappellino 'Veto' è diventato parte dell'arredamento dello Studio Ovale",
-   "detail": "Il messaggio tramite la sua campagna, 'non mi arrenderò mai' . Il cappellino 'Veto' è diventato parte dell'arredamento dello Studio Ovale",
-   "date": "2026-11-06T19:10:43.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/06/basket-il-ct-dellitalia-banchi-nuovo-coach-dellarmani-milano_2b7e75a1-c4da-4354-a0e5-624a639cea56.html",
-   "title": "Basket: il ct dell'Italia Banchi nuovo coach dell'Armani Milano",
-   "summary": "Firma a ore, manterrà l'incarico di allenatore della nazionale",
-   "detail": "Firma a ore, manterrà l'incarico di allenatore della nazionale",
-   "date": "2026-11-06T19:06:49.000Z"
   },
   {
    "topic": "Musica",
@@ -224,16 +404,6 @@
   {
    "topic": "Economia",
    "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/copernicus-il-mese-di-ottobre-2026-e-stato-il-piu-caldo-mai-registrato_6bcacc14-ee82-44d1-a5f1-9a609d8d83a8.html",
-   "title": "Copernicus: 'Il mese di ottobre è stato il più caldo mai registrato'",
-   "summary": "Il 2026 sforerà il limite di riscaldamento di 1,5°C dell'Accordo di Parigi",
-   "detail": "Il 2026 sforerà il limite di riscaldamento di 1,5°C dell'Accordo di Parigi",
-   "date": "2026-11-06T18:37:02.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
    "source": "BBC Business",
    "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
    "title": "Why the US midterms sparked an AI stock selloff",
@@ -280,56 +450,6 @@
    "summary": "“Once they realized these were my benefit shows for Palestine, those dates were suddenly off the table”",
    "detail": "“Once they realized these were my benefit shows for Palestine, those dates were suddenly off the table”",
    "date": "2026-11-06T18:17:37.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/06/basket-larmani-milano-esonera-coach-poeta-dopo-lavvio-shock-in-eurolega_37cef07d-e311-4629-8692-a8e47e468b96.html",
-   "title": "Basket: l'Armani Milano esonera coach Poeta dopo l'avvio shock in Eurolega",
-   "summary": "Record di 1-9, squadra affidata ad interim all'assistente Ramondino",
-   "detail": "Record di 1-9, squadra affidata ad interim all'assistente Ramondino",
-   "date": "2026-11-06T18:17:24.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/06/wta-finals-lucraina-svitolina-niente-foto-con-andreeva-e-sabalenka_0b6d9b02-3c94-432d-bd11-628bf0674e53.html",
-   "title": "Wta Finals: l'ucraina Svitolina, niente foto con Andreeva e Sabalenka",
-   "summary": "Il caso della campionessa di Kiev, non si lascia riprendere russa e bielorussa",
-   "detail": "Il caso della campionessa di Kiev, non si lascia riprendere russa e bielorussa",
-   "date": "2026-11-06T18:17:21.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/serie-a-inter-como-in-campo-domenica-alle-18-diretta_e105aab6-20f1-41ab-93ae-a60a59cd8429.html",
-   "title": "Serie A: Inter-Como in campo domenica alle 18 DIRETTA",
-   "summary": "Fabregas a San Siro per rompere l'ultimo tabù",
-   "detail": "Fabregas a San Siro per rompere l'ultimo tabù",
-   "date": "2026-11-06T18:10:42.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/06/f1-a-norris-le-prime-libere-del-brasile-antonelli-secondo_e702dc82-e70b-43a0-94bd-d0187f7791ec.html",
-   "title": "F1: a Norris le prime libere del Brasile, Antonelli secondo",
-   "summary": "Terzo tempo per Verstappen, quarta la Ferrari di Hamilton",
-   "detail": "Terzo tempo per Verstappen, quarta la Ferrari di Hamilton",
-   "date": "2026-11-06T18:04:07.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/nations-league-azzurri-prima-chiamata-per-cisse-e-liberali_077e01bd-4a07-4536-b5fc-000d156f55d5.html",
-   "title": "Nations League: Azzurri, prima chiamata per Cisse e Liberali",
-   "summary": "Mancini convoca 31 giocatori per Nations League, tra novità' anche baby Cassano e Lontani",
-   "detail": "Mancini convoca 31 giocatori per Nations League, tra novità' anche baby Cassano e Lontani",
-   "date": "2026-11-06T18:03:10.000Z"
   },
   {
    "topic": "Spazio",
@@ -382,16 +502,6 @@
    "date": "2026-11-06T17:51:29.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/serie-a-fiorentina-juventus-in-campo-domenica-alle-20.45-diretta_f14e0417-2435-4476-933e-30be9285b4d5.html",
-   "title": "Serie A: Fiorentina-Juventus in campo domenica alle 20.45 DIRETTA",
-   "summary": "Viola ancora senza vittorie casalinghe in campionato, un digiuno che dura da aprile",
-   "detail": "Viola ancora senza vittorie casalinghe in campionato, un digiuno che dura da aprile",
-   "date": "2026-11-06T17:50:31.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -400,6 +510,16 @@
    "summary": "Una statua di 14 metri di papa Leone lo accoglierà in Perù",
    "detail": "Una statua di 14 metri di papa Leone lo accoglierà in Perù",
    "date": "2026-11-06T17:45:44.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+   "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+   "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+   "detail": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+   "date": "2026-11-06T17:44:02.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -430,6 +550,16 @@
    "summary": "Il locale che era stato fondato a Ravenna da Raoul Casadei nel 1976",
    "detail": "Il locale che era stato fondato a Ravenna da Raoul Casadei nel 1976",
    "date": "2026-11-06T17:22:16.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+   "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+   "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+   "detail": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+   "date": "2026-11-06T17:19:38.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -532,16 +662,6 @@
    "date": "2026-11-06T16:51:01.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/videogallery/short_video/2026/11/06/giorgia-meloni-in-sella-ad-un-cavallo-bianco-alla-fiera-di-verona_ff2d38e9-c47e-4f21-88a4-30744026578c.html",
-   "title": "Giorgia Meloni in sella ad un cavallo bianco alla fiera di Verona",
-   "summary": "La premier ha fatto visita a Fieracavalli, storico evento equestre veneto",
-   "detail": "La premier ha fatto visita a Fieracavalli, storico evento equestre veneto",
-   "date": "2026-11-06T16:41:06.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "Hackaday",
@@ -642,16 +762,6 @@
    "date": "2026-11-06T15:30:42.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-   "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-   "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
-   "detail": "It has the best laptop screen we've used, but there may be reasons to wait.",
-   "date": "2026-11-06T15:28:07.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "BBC Business",
@@ -695,16 +805,6 @@
    "topic": "Mondo",
    "type": "notizia",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-   "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-   "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-   "detail": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-   "date": "2026-11-06T14:57:08.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
    "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
    "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
@@ -732,16 +832,6 @@
    "date": "2026-11-06T14:30:36.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-   "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-   "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-   "detail": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-   "date": "2026-11-06T14:13:32.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "Space.com",
@@ -752,26 +842,6 @@
    "date": "2026-11-06T14:00:00.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
-   "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
-   "summary": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
-   "detail": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
-   "date": "2026-11-06T13:50:20.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
-   "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
-   "summary": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
-   "detail": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
-   "date": "2026-11-06T13:33:20.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "Space.com",
@@ -780,16 +850,6 @@
    "summary": "A colossal coronal hole on the sun is unleashing a stream of high-speed solar wind that could spark impressive auroras Nov. 6-8.",
    "detail": "A colossal coronal hole on the sun is unleashing a stream of high-speed solar wind that could spark impressive auroras Nov. 6-8.",
    "date": "2026-11-06T13:26:32.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/max-power-nasa-hosting-its-1st-air-show-this-weekend-on-floridas-space-coast",
-   "title": "Max Power: NASA hosting its 1st air show this weekend on Florida's Space Coast",
-   "summary": "NASA will host a first-of-its-kind air show and aerospace expo on Florida's Space Coast this weekend —an event that shares its name with one of Homer Simpson's aliases.",
-   "detail": "NASA will host a first-of-its-kind air show and aerospace expo on Florida's Space Coast this weekend —an event that shares its name with one of Homer Simpson's aliases.",
-   "date": "2026-11-06T13:00:00.000Z"
   },
   {
    "topic": "Mondo",
@@ -820,16 +880,6 @@
    "summary": "Don’t think of all Mesozoic mammals as meek and tiny—alongside the terrible lizards, some were giants in their own right",
    "detail": "Don’t think of all Mesozoic mammals as meek and tiny—alongside the terrible lizards, some were giants in their own right",
    "date": "2026-11-06T12:30:00.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/stargazing/skywatching-kit/realistic-star-projections-at-home-this-early-black-friday-deal-takes-our-favorite-star-projector-to-one-of-its-cheapest-ever-prices",
-   "title": "Realistic star projections at home — this early Black Friday deal takes our favorite star projector to one of its cheapest-ever prices",
-   "summary": "This Pococo Galaxy Star Projector is user-friendly, delivers bright, high-resolution projections and is 24% off in this limited-time Amazon deal.",
-   "detail": "This Pococo Galaxy Star Projector is user-friendly, delivers bright, high-resolution projections and is 24% off in this limited-time Amazon deal.",
-   "date": "2026-11-06T12:10:00.000Z"
   },
   {
    "topic": "Elettronica",
@@ -872,16 +922,6 @@
    "date": "2026-11-06T11:28:01.000Z"
   },
   {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars",
-   "title": "4-billion-year-old 'Rosetta Stone' found in Sahara Desert could unlock the secret history of water on Mars",
-   "summary": "A rock discovered in the Sahara Desert formed more than 4.1 billion years ago, making it one of the oldest Martian meteorites ever found. The ancient space rock offers a rare glimpse into the…",
-   "detail": "A rock discovered in the Sahara Desert formed more than 4.1 billion years ago, making it one of the oldest Martian meteorites ever found. The ancient space rock offers a rare glimpse into the formation of Mars' early crust and its possible interaction with water.",
-   "date": "2026-11-06T11:00:00.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -890,16 +930,6 @@
    "summary": "A study of nearly 5,800 adults found that heart scans measuring calcium buildup in the arteries led to the same observed rate of major cardiovascular events as traditional risk assessments, despite…",
    "detail": "A study of nearly 5,800 adults found that heart scans measuring calcium buildup in the arteries led to the same observed rate of major cardiovascular events as traditional risk assessments, despite recommending statins to far fewer patients. Surprisingly, patients advised to take statins based on their scans were nearly three times as likely to stick with their medication, raising intriguing questions about how doctors should identify and treat heart disease risk.",
    "date": "2026-11-06T10:59:18.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-   "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-   "detail": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-   "date": "2026-11-06T09:57:04.000Z"
   },
   {
    "topic": "Economia",
@@ -1032,16 +1062,6 @@
    "date": "2026-11-06T00:42:05.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-   "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-   "summary": "\"This is going to be a game-changer.\"",
-   "detail": "\"This is going to be a game-changer.\"",
-   "date": "2026-11-06T00:17:06.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "BBC Business",
@@ -1070,26 +1090,6 @@
    "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
    "detail": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
    "date": "2026-11-06T00:02:52.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/05/reviving-google-cardboard-without-google-or-cardboard/",
-   "title": "Reviving Google Cardboard, Without Google or Cardboard",
-   "summary": "Remember Google Cardboard? The late, unlamented practice of strapping a phone to your face so you could get motion sickness in a virtual environment? [brenpoly] wants you to reconsider, because …read…",
-   "detail": "Remember Google Cardboard? The late, unlamented practice of strapping a phone to your face so you could get motion sickness in a virtual environment? [brenpoly] wants you to reconsider, because …read more",
-   "date": "2026-11-06T00:00:19.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
-   "title": "'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays",
-   "summary": "Spacewalkers Anil Menon and Joshua Kutryk installed the final ISS Roll-Out Solar Array on Thursday (Nov. 5), wrapping up a multiyear effort to boost the station's power generation by 30%.",
-   "detail": "Spacewalkers Anil Menon and Joshua Kutryk installed the final ISS Roll-Out Solar Array on Thursday (Nov. 5), wrapping up a multiyear effort to boost the station's power generation by 30%.",
-   "date": "2026-11-05T22:01:01.000Z"
   },
   {
    "topic": "Salute",
@@ -1190,16 +1190,6 @@
    "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
    "detail": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
    "date": "2026-11-05T13:17:10.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-   "title": "Three ways the interest rate rise could affect you",
-   "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-   "detail": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-   "date": "2026-11-05T13:08:30.000Z"
   },
   {
    "topic": "Spazio",
