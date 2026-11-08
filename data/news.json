@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:18:10.525Z",
+ "updated": "2026-11-08T08:54:25.506Z",
  "items": [
   {
    "topic": "Storia",
@@ -10,7 +10,7 @@
    "summary": "Il consiglio di sicurezza delle Nazioni Unite emana la risoluzione ONU 1441 e costringe Saddam Hussein a disarmarsi o ad affrontare «gravi conseguenze».",
    "detail": "Il consiglio di sicurezza delle Nazioni Unite emana la risoluzione ONU 1441 e costringe Saddam Hussein a disarmarsi o ad affrontare «gravi conseguenze». — Il Consiglio di sicurezza delle Nazioni Unite è l'organo delle Nazioni Unite, composto dalle potenze globali e da altre potenze di rilievo, incaricato di mantenere la pace e la sicurezza internazionali in conformità con i principi e le finalità delle Nazioni Unite.",
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_the_United_Nations.svg/langit-960px-Emblem_of_the_United_Nations.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-08T01:18:10.522Z"
+   "date": "2026-11-08T08:54:22.724Z"
   },
   {
    "topic": "Storia",
@@ -21,18 +21,106 @@
    "summary": "Il governo rivoluzionario francese apre il palazzo del Louvre al pubblico come museo.",
    "detail": "Il governo rivoluzionario francese apre il palazzo del Louvre al pubblico come museo. — Il palazzo del Louvre è un'antica residenza reale di Francia situata sulla rive droite della Senna a Parigi, tra i giardini delle Tuileries e la chiesa di Saint-Germain l'Auxerrois. Al suo interno ospita uno dei più celebri musei d'arte del mondo, il Museo del Louvre ma anche una scuola superiore di storia dell'arte, l'école du Louvre, ed il Museo delle arti decorative di Parigi. È classificato come Monumento storico di Francia.\nIl palazzo ha una superficie di 210 000 mq, rendendolo la più grande residenza reale d'Europa.",
    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Louvre_Paris_from_top_edit_cropped.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-08T01:18:10.522Z"
+   "date": "2026-11-08T08:54:22.724Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/08/nba-ampie-vittorie-per-knicks-e-spurs-curry-decisivo-per-i-warriors_c86072af-54b4-4085-a505-f9c2196116d0.html",
+   "title": "Nba: ampie vittorie per Knicks e Spurs, Curry decisivo per i Warriors",
+   "summary": "Città del Messico ha ospitato una delle sette partite del sabato",
+   "detail": "Città del Messico ha ospitato una delle sette partite del sabato",
+   "image": "",
+   "date": "2026-11-08T08:39:56.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "title": "What we know so far after Krakow gun attack",
+   "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+   "detail": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+   "date": "2026-11-08T07:52:33.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/cracovia-lattentatore-e-gravemente-ferito.-in-casa-morti-padre-madre-e-sorella_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
+   "title": "Cracovia, l'attentatore è gravemente ferito. In casa morti padre, madre e sorella",
+   "summary": "Appello del ministro della Giustizia: 'Il poliziotto eroe di Cracovia lotta per vita, donate sangue'",
+   "detail": "Appello del ministro della Giustizia: 'Il poliziotto eroe di Cracovia lotta per vita, donate sangue'",
+   "image": "",
+   "date": "2026-11-08T07:30:26.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/media-dana-white-incontrera-trump-alla-casa-bianca-lunedi_114c6f50-3765-4abd-b2bf-155221563d4b.html",
+   "title": "Media: 'Dana White incontrerà Trump alla Casa Bianca lunedì'",
+   "summary": "Il presidente gli ha offerto l'incarico di portavoce",
+   "detail": "Il presidente gli ha offerto l'incarico di portavoce",
+   "image": "",
+   "date": "2026-11-08T06:50:14.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/kiev-una-vittima-e-danni-a-infrastrutture-in-attacco-russo-a-odessa_cf45c21e-66b8-4ec5-a9ba-82f775f146b1.html",
+   "title": "Kiev, una vittima e danni a infrastrutture in attacco russo a Odessa",
+   "summary": "Mosca, colpita una nave che trasportava armi per l'Ucraina",
+   "detail": "Mosca, colpita una nave che trasportava armi per l'Ucraina",
+   "image": "",
+   "date": "2026-11-08T06:47:52.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/07/making-a-dog-car-wash-without-very-fancy-tools/",
+   "title": "Making a Dog Car Wash Without (very) Fancy Tools",
+   "summary": "[Stuff Made Here] got fed up with the hassle of washing their dog, and in traditional engineer fashion, decided that automating the process would solve the problem. However, as science …read more",
+   "detail": "[Stuff Made Here] got fed up with the hassle of washing their dog, and in traditional engineer fashion, decided that automating the process would solve the problem. However, as science …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/dogWashFeat.jpg",
+   "date": "2026-11-08T06:00:42.000Z"
   },
   {
    "topic": "Spazio",
-   "type": "curiosità",
-   "source": "NASA · Foto del giorno",
-   "url": "https://apod.nasa.gov/apod/astropix.html",
-   "title": "NASA Science",
-   "summary": "De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to…",
-   "detail": "De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to the lunar south pole. Boasting permanently shadowed crater floors that likely contain deposits of water ice and peaks that receive almost continuous sunlight for solar power generation, the south polar region is consider a prime location for the first human settlement on the Moon. In fact, De Gerlache-Kocher massif itself has been considered as a potential landing site for future crewed Artemis missions to the Moon. The remarkable telescopic image of the massif at the lunar limb was captured on October 31. Then, a favorable libration angle or lunar wobble enhanced this oblique view across the Moon's south pole.Tomorrow's picture: meteoric\t\t\t\t\t\t",
-   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-   "date": "2026-11-08T01:18:08.944Z"
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+   "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+   "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a…",
+   "detail": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint",
+   "date": "2026-11-08T05:05:00.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "detail": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+   "date": "2026-11-08T04:03:12.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/07/artemis-ii-rocket-was-powerful-enough-to-disrupt-gps/",
+   "title": "Artemis II Rocket Was Powerful Enough to Disrupt GPS",
+   "summary": "Rockets certainly have a substantial impact if you ever see a launch in person. The noise, shock waves, and even heat can be awe-inspiring. What is less obvious are the …read more",
+   "detail": "Rockets certainly have a substantial impact if you ever see a launch in person. The noise, shock waves, and even heat can be awe-inspiring. What is less obvious are the …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-192946.png",
+   "date": "2026-11-08T03:00:52.000Z"
   },
   {
    "topic": "Elettronica",
@@ -55,17 +143,6 @@
    "detail": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-07T23:02:35.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "title": "What we know so far after Krakow gun attack",
-   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-   "detail": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-   "date": "2026-11-07T22:58:49.000Z"
   },
   {
    "topic": "Sport",
@@ -169,13 +246,13 @@
   {
    "topic": "Mondo",
    "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/cracovia-6-persone-uccise-e-almeno-15-ferite-in-una-sparatoria-in-centro_11361587-bf90-4d62-b3eb-4175e14055f6.html",
-   "title": "In mimetica e con arma militare spara a caso dall'auto, 6 morti a Cracovia",
-   "summary": "Diversi feriti nella piazza simbolo. L'aggressore è un polacco di 25 anni, la polizia lo ferma",
-   "detail": "Diversi feriti nella piazza simbolo. L'aggressore è un polacco di 25 anni, la polizia lo ferma",
-   "image": "",
-   "date": "2026-11-07T21:34:23.000Z"
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+   "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+   "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+   "detail": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-07T21:36:16.000Z"
   },
   {
    "topic": "Sport",
@@ -244,28 +321,6 @@
    "date": "2026-11-07T20:35:08.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/07/f1-norris-in-pole-a-interlagos-antonelli-partira-secondo_8fc27f1a-f4d3-4cc5-8781-3a418fbce770.html",
-   "title": "F1: Norris in pole a Interlagos, Antonelli partirà secondo",
-   "summary": "Russell col secondo tempo ma sconterà una penalità",
-   "detail": "Russell col secondo tempo ma sconterà una penalità",
-   "image": "",
-   "date": "2026-11-07T20:28:57.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
-   "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
-   "summary": "Solidarietà di Meloni al ministro. Hacker russi mettono 'taglia' su 18 nomi. Mosca: 'Non c'entriamo'",
-   "detail": "Solidarietà di Meloni al ministro. Hacker russi mettono 'taglia' su 18 nomi. Mosca: 'Non c'entriamo'",
-   "image": "",
-   "date": "2026-11-07T20:07:19.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "Hackaday",
@@ -321,9 +376,9 @@
    "date": "2026-11-07T19:03:16.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Economia",
    "type": "notizia",
-   "source": "ANSA",
+   "source": "ANSA Economia",
    "url": "https://www.ansa.it/sito/notizie/economia/2026/11/07/rischio-rincari-per-il-gasolio-da-domani-in-gu-non-ce-proroga-taglio-accise_d507854b-172b-4e83-b142-79fdc1bc11ac.html",
    "title": "Niente proroga sulle accise, rischio rincari del gasolio",
    "summary": "La misura era stata decisa il 28 ottobre. Il governo va avanti sul decreto bollette",
@@ -431,17 +486,6 @@
    "date": "2026-11-07T17:10:54.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "title": "Houthis say at least 25 killed in Saudi air strike",
-   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "detail": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
-   "date": "2026-11-07T17:09:24.000Z"
-  },
-  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -511,34 +555,12 @@
    "topic": "Mondo",
    "type": "notizia",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-   "title": "No clear winner after tight New Zealand general election",
-   "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-   "detail": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-07T15:56:28.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
    "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
    "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
    "detail": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-07T15:19:35.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/07/active-antenna-runs-on-a-single-lithium-ion-cell/",
-   "title": "Active Antenna Runs on a Single Lithium-Ion Cell",
-   "summary": "[skuep]’s Mobile-Whip is a compact, active receive-only antenna that is optimized for operation from a single lithium-ion battery or USB power. This makes it very handy for use on portable …read more",
-   "detail": "[skuep]’s Mobile-Whip is a compact, active receive-only antenna that is optimized for operation from a single lithium-ion battery or USB power. This makes it very handy for use on portable …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Mobile-whip-collage.png",
-   "date": "2026-11-07T15:00:06.000Z"
   },
   {
    "topic": "Spazio",
@@ -563,6 +585,17 @@
    "date": "2026-11-07T13:00:00.000Z"
   },
   {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+   "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+   "detail": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
+   "date": "2026-11-07T12:49:36.000Z"
+  },
+  {
    "topic": "Tecnologia",
    "type": "notizia",
    "source": "Ars Technica",
@@ -572,17 +605,6 @@
    "detail": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
    "date": "2026-11-07T12:15:55.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/",
-   "title": "The Hidden Microcontroller Inside a LoRa chip",
-   "summary": "If you’ve ever done anything with LoRa, the chances are you’ve used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that’s …read more",
-   "detail": "If you’ve ever done anything with LoRa, the chances are you’ve used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that’s …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/lora-up-featured.jpg",
-   "date": "2026-11-07T12:00:34.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -737,17 +759,6 @@
    "detail": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain circuits damaged by prolonged stress. Most intriguingly, they identified a way to trigger this brain rewiring without the behavioral response associated with psychedelic effects.",
    "image": "",
    "date": "2026-11-07T00:33:47.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-   "title": "With Stephen Miller pick, Trump readies for a battle",
-   "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-   "detail": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
-   "date": "2026-11-06T23:24:15.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -1375,17 +1386,6 @@
    "detail": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza , it appears that a few puffy white clouds have started to block the sun. That’s vexing. A group of researchers, some wearing cardboard eclipse glasses, is clustered around sets of portable telescopes and cameras connected to laptops. All this gear is scattered on tabletops perched on the mountainside. On the computer screens, the sun’s disk looks like a deep orange crescent that is slowly waning. That’s because the moon began to crawl across it about half an hour ago. In 25 minutes, it will obscure the sun completely, producing an eerie and wondrous…",
    "image": "https://spectrum.ieee.org/media-library/a-black-disk-is-surrounded-by-the-solar-corona-which-appears-in-the-image-as-hairlike-white-strands-extending-far-out-into-a-su.jpg?id=68586921&width=980",
    "date": "2026-11-05T14:00:02.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-   "title": "Hubble Learns Galactic History From Stars",
-   "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-   "detail": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg?w=2048&h=1806&fit=clip&crop=faces%2Cfocalpoint",
-   "date": "2026-11-05T12:56:21.000Z"
   },
   {
    "topic": "Salute",
