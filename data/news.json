@@ -1,38 +1,159 @@
 {
- "updated": "2026-11-07T21:43:30.780Z",
+ "updated": "2026-11-08T01:18:10.525Z",
  "items": [
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Magic_Johnson",
-   "title": "1991: Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle…",
-   "summary": "Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle competizioni.",
-   "detail": "Il cestista Magic Johnson annuncia di essere positivo all'HIV e di ritirarsi dalle competizioni. — Earvin Johnson Jr., detto Magic, è un ex cestista, allenatore di pallacanestro, imprenditore, attivista e dirigente sportivo statunitense, considerato uno dei più grandi giocatori della storia della pallacanestro.",
-   "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Magic_Johnson_Steve_Lipofsky.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-07T21:43:30.394Z"
+   "url": "https://it.wikipedia.org/wiki/Consiglio_di_sicurezza_delle_Nazioni_Unite",
+   "title": "2002: Il consiglio di sicurezza delle Nazioni Unite emana la risoluzione ONU 1441 e costringe…",
+   "summary": "Il consiglio di sicurezza delle Nazioni Unite emana la risoluzione ONU 1441 e costringe Saddam Hussein a disarmarsi o ad affrontare «gravi conseguenze».",
+   "detail": "Il consiglio di sicurezza delle Nazioni Unite emana la risoluzione ONU 1441 e costringe Saddam Hussein a disarmarsi o ad affrontare «gravi conseguenze». — Il Consiglio di sicurezza delle Nazioni Unite è l'organo delle Nazioni Unite, composto dalle potenze globali e da altre potenze di rilievo, incaricato di mantenere la pace e la sicurezza internazionali in conformità con i principi e le finalità delle Nazioni Unite.",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_the_United_Nations.svg/langit-960px-Emblem_of_the_United_Nations.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "date": "2026-11-08T01:18:10.522Z"
   },
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Pace_dei_Pirenei",
-   "title": "1659: La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra…",
-   "summary": "La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra franco-spagnola.",
-   "detail": "La pace dei Pirenei, stipulata tra Francia e Spagna, pone fine alla guerra franco-spagnola. — La pace dei Pirenei è un trattato stipulato il 7 novembre 1659 tra Francia e Spagna a chiusura della Guerra franco-spagnola. La pace fu sottoscritta dal generale spagnolo don Luis de Haro e dal cardinale Mazzarino, primo ministro di Francia.",
-   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Traite-Pyrenees.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-07T21:43:30.394Z"
+   "url": "https://it.wikipedia.org/wiki/Palazzo_del_Louvre",
+   "title": "1793: Il governo rivoluzionario francese apre il palazzo del Louvre al pubblico come museo.",
+   "summary": "Il governo rivoluzionario francese apre il palazzo del Louvre al pubblico come museo.",
+   "detail": "Il governo rivoluzionario francese apre il palazzo del Louvre al pubblico come museo. — Il palazzo del Louvre è un'antica residenza reale di Francia situata sulla rive droite della Senna a Parigi, tra i giardini delle Tuileries e la chiesa di Saint-Germain l'Auxerrois. Al suo interno ospita uno dei più celebri musei d'arte del mondo, il Museo del Louvre ma anche una scuola superiore di storia dell'arte, l'école du Louvre, ed il Museo delle arti decorative di Parigi. È classificato come Monumento storico di Francia.\nIl palazzo ha una superficie di 210 000 mq, rendendolo la più grande residenza reale d'Europa.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Louvre_Paris_from_top_edit_cropped.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-08T01:18:10.522Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "curiosità",
+   "source": "NASA · Foto del giorno",
+   "url": "https://apod.nasa.gov/apod/astropix.html",
+   "title": "NASA Science",
+   "summary": "De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to…",
+   "detail": "De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to the lunar south pole. Boasting permanently shadowed crater floors that likely contain deposits of water ice and peaks that receive almost continuous sunlight for solar power generation, the south polar region is consider a prime location for the first human settlement on the Moon. In fact, De Gerlache-Kocher massif itself has been considered as a potential landing site for future crewed Artemis missions to the Moon. The remarkable telescopic image of the massif at the lunar limb was captured on October 31. Then, a favorable libration angle or lunar wobble enhanced this oblique view across the Moon's south pole.Tomorrow's picture: meteoric\t\t\t\t\t\t",
+   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+   "date": "2026-11-08T01:18:08.944Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/07/play-text-adventures-on-an-e-paper-handheld/",
+   "title": "Play Text Adventures on an E-Paper Handheld",
+   "summary": "Choose your own adventure books were one of the first media to become gamified in the computer era, and [Jeremy Ngai] wanted to bridge the experience further with an e-paper …read more",
+   "detail": "Choose your own adventure books were one of the first media to become gamified in the computer era, and [Jeremy Ngai] wanted to bridge the experience further with an e-paper …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/InkQuest.webp",
+   "date": "2026-11-08T00:00:30.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+   "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+   "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+   "detail": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-07T23:02:35.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "title": "What we know so far after Krakow gun attack",
+   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+   "detail": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+   "date": "2026-11-07T22:58:49.000Z"
   },
   {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/serie-a-roma-sassuolo-3-0_c28c3f9c-9303-4700-a3ee-f99f68e3995f.html",
-   "title": "Serie A, Roma-Sassuolo 3-0",
-   "summary": "Si è giocata l'11ma giornata di campionato",
-   "detail": "Si è giocata l'11ma giornata di campionato",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/allo-stadio-di-tenerife-lultimo-saluto-a-jesus-de-miguel-sarai-sempre-uno_ac7d496c-82d2-4785-8eaf-d5b9445d1319.html",
+   "title": "Allo stadio di Tenerife l'ultimo saluto a Jesús de Miguel: \"Sarai sempre uno di noi\"",
+   "summary": "In Spagna partite interrotte al 9' in tutti i campionati per ricordare il calciatore",
+   "detail": "In Spagna partite interrotte al 9' in tutti i campionati per ricordare il calciatore",
    "image": "",
-   "date": "2026-11-07T21:40:47.000Z"
+   "date": "2026-11-07T22:51:39.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+   "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+   "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial…",
+   "detail": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1936",
+   "date": "2026-11-07T22:47:03.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/calcio-aquilani-fatto-troppo-poco-ovvio-che-io-sia-messo-in-discussione_b6d76360-7ecf-45d4-b4e5-23c07a5239ba.html",
+   "title": "Calcio: Aquilani, 'fatto troppo poco, ovvio che io sia messo in discussione'",
+   "summary": "Il tecnico del Sassuolo: \"Dobbiamo renderci conto che la Serie A richiede qualcosa in più\"",
+   "detail": "Il tecnico del Sassuolo: \"Dobbiamo renderci conto che la Serie A richiede qualcosa in più\"",
+   "image": "",
+   "date": "2026-11-07T22:34:51.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/liga-il-real-passa-3-0-a-valencia-e-raggiunge-il-barcellona-per-una-notte_84cffc94-ae8d-4f6c-844a-76545997af88.html",
+   "title": "Liga: il Real passa 3-0 a Valencia e raggiunge il Barcellona per una notte",
+   "summary": "Tra i madrileni gol di Valverde, Guler e Mbappé. Domani blaugrana con l'Atletico",
+   "detail": "Tra i madrileni gol di Valverde, Guler e Mbappé. Domani blaugrana con l'Atletico",
+   "image": "",
+   "date": "2026-11-07T22:24:26.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+   "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+   "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+   "detail": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-07T22:19:59.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/serie-a-gasperini-molto-soddisfatto-vittoria-di-qualita-e-personalita_570e95f6-f9ee-419c-b22a-08bcff794c0f.html",
+   "title": "Serie A: Gasperini, 'molto soddisfatto, vittoria di qualità e personalità'",
+   "summary": "Il tecnico giallorosso: \"Gestite bene le nove partite in 27 giorni\"",
+   "detail": "Il tecnico giallorosso: \"Gestite bene le nove partite in 27 giorni\"",
+   "image": "",
+   "date": "2026-11-07T22:19:30.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/serie-a-la-roma-ne-fa-3-al-sassuolo-e-avvicina-la-vetta_c28c3f9c-9303-4700-a3ee-f99f68e3995f.html",
+   "title": "Serie A, la Roma ne fa 3 al Sassuolo e avvicina la vetta",
+   "summary": "Aspettando Inter-Como e la Lazio: Gasp ritrova Koné, ancora in gol Mora. Bene anche Bologna, e Cagliari. Pari in Lecce-Torino",
+   "detail": "Aspettando Inter-Como e la Lazio: Gasp ritrova Koné, ancora in gol Mora. Bene anche Bologna, e Cagliari. Pari in Lecce-Torino",
+   "image": "",
+   "date": "2026-11-07T22:00:10.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/07/la-n.1-del-mondo-rybakina-rinuncia-alle-wta-finals-dentro-kostyuk_7c2d2bb4-ce65-48b0-ad6c-3a7d57017497.html",
+   "title": "La n.1 del mondo Rybakina rinuncia alle Wta Finals, dentro Kostyuk",
+   "summary": "La kazaka si ritira per problemi di salute: \"Corpo non pronto a gareggiare\"",
+   "detail": "La kazaka si ritira per problemi di salute: \"Corpo non pronto a gareggiare\"",
+   "image": "",
+   "date": "2026-11-07T21:53:53.000Z"
   },
   {
    "topic": "Sport",
@@ -55,17 +176,6 @@
    "detail": "Diversi feriti nella piazza simbolo. L'aggressore è un polacco di 25 anni, la polizia lo ferma",
    "image": "",
    "date": "2026-11-07T21:34:23.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "title": "What we know so far after Krakow gun attack",
-   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-   "detail": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-   "date": "2026-11-07T21:13:24.000Z"
   },
   {
    "topic": "Sport",
@@ -178,17 +288,6 @@
    "date": "2026-11-07T19:26:39.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/de-laurentiis-ho-annullato-io-conferenza-allegri-nessuna-distrazione_82d93d44-3711-4c0c-bcdc-981e7b61aa5e.html",
-   "title": "De Laurentiis, 'ho annullato io conferenza Allegri, nessuna distrazione'",
-   "summary": "Presidente del Napoli: 'nessun caso, con squadra in ritiro non serviva'",
-   "detail": "Presidente del Napoli: 'nessun caso, con squadra in ritiro non serviva'",
-   "image": "",
-   "date": "2026-11-07T19:24:35.000Z"
-  },
-  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -211,17 +310,6 @@
    "date": "2026-11-07T19:17:22.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/serie-a-parma-bologna-1-2_d1d5bb4e-ed57-4ae0-b79d-873cadfdcb52.html",
-   "title": "Il Bologna ingrana la quarta, Parma battuto 2-1 nel derby emiliano",
-   "summary": "Al Tardini padroni di casa in 10 da subito, i rossoblù volano con Theate e Orsolini",
-   "detail": "Al Tardini padroni di casa in 10 da subito, i rossoblù volano con Theate e Orsolini",
-   "image": "",
-   "date": "2026-11-07T19:17:12.000Z"
-  },
-  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -231,28 +319,6 @@
    "detail": "Domenica 8 novembre alle 12 Rai2, Pascal Vicedomini saluta nel mito Caruso e Lucio Dalla",
    "image": "",
    "date": "2026-11-07T19:03:16.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/calcio-legitto-esonera-hassan-e-nomina-ali-maher-ct-della-nazionale_acf690c5-466e-44a7-94e1-69eae53ab552.html",
-   "title": "Calcio: l'Egitto esonera Hassan e nomina Ali Maher ct della nazionale",
-   "summary": "La decisione a pochi giorni dal ritiro per le qualificazioni di Coppa d'Africa",
-   "detail": "La decisione a pochi giorni dal ritiro per le qualificazioni di Coppa d'Africa",
-   "image": "",
-   "date": "2026-11-07T19:02:14.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/07/serie-a-theate-e-orsolini-a-parma-il-bologna-vince-il-derby_bdaea42a-ad02-4b09-b995-12ab764e635c.html",
-   "title": "Serie A: Theate e Orsolini, a Parma il Bologna vince il derby",
-   "summary": "Sierro accorcia ma non basta a Gilardino, quarto successo di fila per Palladino",
-   "detail": "Sierro accorcia ma non basta a Gilardino, quarto successo di fila per Palladino",
-   "image": "",
-   "date": "2026-11-07T19:01:27.000Z"
   },
   {
    "topic": "Mondo",
@@ -315,8 +381,8 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
    "title": "US offers $20m reward for information about Iran's nuclear programme",
-   "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-   "detail": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+   "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+   "detail": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-07T18:14:38.000Z"
   },
@@ -330,17 +396,6 @@
    "detail": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […]",
    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920",
    "date": "2026-11-07T18:11:57.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/07/f1-hamilton-costretto-a-cambiare-power-unit-partira-dal-fondo_56732ba9-8837-4248-bcef-df259dc76724.html",
-   "title": "F1: Hamilton costretto a cambiare power unit, partirà dal fondo",
-   "summary": "L'inglese aveva già 10 posizioni di penalità per la sostituzione dell'endotermico",
-   "detail": "L'inglese aveva già 10 posizioni di penalità per la sostituzione dell'endotermico",
-   "image": "",
-   "date": "2026-11-07T18:05:06.000Z"
   },
   {
    "topic": "Elettronica",
@@ -508,17 +563,6 @@
    "date": "2026-11-07T13:00:00.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-   "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-   "detail": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
-   "date": "2026-11-07T12:49:36.000Z"
-  },
-  {
    "topic": "Tecnologia",
    "type": "notizia",
    "source": "Ars Technica",
@@ -616,17 +660,6 @@
    "detail": "Le pillole in breve di quello che è successo dal 31 ottobre al 6 novembre",
    "image": "",
    "date": "2026-11-07T09:27:14.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/07/a-bike-friendly-diy-action-cam-stereo-microphone/",
-   "title": "A Bike-Friendly, DIY Action Cam Stereo Microphone",
-   "summary": "[DJJules] had two problems. Being an avid biker, recording audio on a bike-mounted action camera was less than ideal due to wind. In addition, the built-in microphone on action cameras …read more",
-   "detail": "[DJJules] had two problems. Being an avid biker, recording audio on a bike-mounted action camera was less than ideal due to wind. In addition, the built-in microphone on action cameras …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/BikeMike-18-banner.png",
-   "date": "2026-11-07T09:00:02.000Z"
   },
   {
    "topic": "Economia",
@@ -1344,17 +1377,6 @@
    "date": "2026-11-05T14:00:02.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-   "title": "Faisal Islam: How high will interest rates go?",
-   "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-   "detail": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5ee7/live/856f7c60-d916-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-05T13:17:10.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "NASA",
@@ -1364,17 +1386,6 @@
    "detail": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg?w=2048&h=1806&fit=clip&crop=faces%2Cfocalpoint",
    "date": "2026-11-05T12:56:21.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-   "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-   "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a…",
-   "detail": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette […]",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png?w=982&h=575&fit=clip&crop=faces%2Cfocalpoint",
-   "date": "2026-11-05T05:05:00.000Z"
   },
   {
    "topic": "Salute",
