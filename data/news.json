@@ -1,27 +1,181 @@
 {
- "updated": "2026-11-08T20:24:32.175Z",
+ "updated": "2026-11-09T00:46:15.178Z",
  "items": [
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Consiglio_di_sicurezza_delle_Nazioni_Unite",
-   "title": "2002: Il consiglio di sicurezza delle Nazioni Unite emana la risoluzione ONU 1441 e costringe…",
-   "summary": "Il consiglio di sicurezza delle Nazioni Unite emana la risoluzione ONU 1441 e costringe Saddam Hussein a disarmarsi o ad affrontare «gravi conseguenze».",
-   "detail": "Il consiglio di sicurezza delle Nazioni Unite emana la risoluzione ONU 1441 e costringe Saddam Hussein a disarmarsi o ad affrontare «gravi conseguenze». — Il Consiglio di sicurezza delle Nazioni Unite è l'organo delle Nazioni Unite, composto dalle potenze globali e da altre potenze di rilievo, incaricato di mantenere la pace e la sicurezza internazionali in conformità con i principi e le finalità delle Nazioni Unite.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_the_United_Nations.svg/langit-960px-Emblem_of_the_United_Nations.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-08T20:24:14.659Z"
+   "url": "https://it.wikipedia.org/wiki/Muro_di_Berlino",
+   "title": "1989: Viene abbattuto il Muro di Berlino, che divideva la città dal 1961.",
+   "summary": "Viene abbattuto il Muro di Berlino, che divideva la città dal 1961.",
+   "detail": "Viene abbattuto il Muro di Berlino, che divideva la città dal 1961. — Il Muro di Berlino fu un sistema di barriere attivo dal 1961 al 1989, eretto da parte del governo della Germania Est per impedire la libera circolazione delle persone verso la Germania Ovest.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Berlin_Wall_1961-11-20.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-09T00:46:10.864Z"
   },
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Palazzo_del_Louvre",
-   "title": "1793: Il governo rivoluzionario francese apre il palazzo del Louvre al pubblico come museo.",
-   "summary": "Il governo rivoluzionario francese apre il palazzo del Louvre al pubblico come museo.",
-   "detail": "Il governo rivoluzionario francese apre il palazzo del Louvre al pubblico come museo. — Il palazzo del Louvre è un'antica residenza reale di Francia situata sulla rive droite della Senna a Parigi, tra i giardini delle Tuileries e la chiesa di Saint-Germain l'Auxerrois. Al suo interno ospita uno dei più celebri musei d'arte del mondo, il Museo del Louvre ma anche una scuola superiore di storia dell'arte, l'école du Louvre, ed il Museo delle arti decorative di Parigi. È classificato come Monumento storico di Francia.\nIl palazzo ha una superficie di 210 000 mq, rendendolo la più grande residenza reale d'Europa.",
-   "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Louvre_Paris_from_top_edit_cropped.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-08T20:24:14.659Z"
+   "url": "https://it.wikipedia.org/wiki/Colpo_di_Stato_del_18_brumaio",
+   "title": "1799: Colpo di Stato del 18 brumaio: Napoleone Bonaparte va al potere.",
+   "summary": "Colpo di Stato del 18 brumaio: Napoleone Bonaparte va al potere.",
+   "detail": "Colpo di Stato del 18 brumaio: Napoleone Bonaparte va al potere. — Nella Francia post monarchica, il colpo di Stato del 18 brumaio, anno VIII della Rivoluzione, compiuto da Napoleone Bonaparte, segnò la fine del Direttorio - già fautore di un colpo di Stato il 18 fruttidoro dell'anno V - e della Rivoluzione stessa, dando inizio al Consolato guidato dalle personalità di Bonaparte, Sieyès e Ducos.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-09T00:46:10.864Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+   "detail": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+   "date": "2026-11-09T00:16:49.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+   "title": "Doing these things now will help you save money at Christmas",
+   "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+   "detail": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/903c/live/8d645510-d9ef-11f1-bb10-cdca6001fbcf.jpg",
+   "date": "2026-11-09T00:09:14.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/raitre-programmi-di-martedi-10-novembre_652100a6-4a24-462f-b55f-8ac9c0966f55.html",
+   "title": "Raitre: programmi di martedì 10 novembre",
+   "summary": "Raitre: programmi di martedì 10 novembre",
+   "detail": "Raitre: programmi di martedì 10 novembre",
+   "image": "",
+   "date": "2026-11-09T00:00:54.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/08/space-invaders-on-a-vfd/",
+   "title": "Space Invaders on a VFD",
+   "summary": "When most people think of vacuum fluorescent displays (VFDs), they probably imagine the clock on a microwave or the equalizer on a piece of stereo equipment. But there was a …read more",
+   "detail": "When most people think of vacuum fluorescent displays (VFDs), they probably imagine the clock on a microwave or the equalizer on a piece of stereo equipment. But there was a …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/vfdinvade_feat.jpg",
+   "date": "2026-11-09T00:00:01.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+   "detail": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+   "date": "2026-11-08T23:34:18.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/vaticano/notizie/2026/11/08/il-papa-in-argentina-milei-lo-accoglie-con-una-lunga-stretta-di-mano_b1a9c1ef-f58d-4638-863e-926dd7986a78.html",
+   "title": "La lezione del Papa a Milei, 'l'economia sia al servizio dell'uomo'",
+   "summary": "\"Custodite la democrazia\". Bagno di folla a Baires. Tributo del presidente a Bergoglio",
+   "detail": "\"Custodite la democrazia\". Bagno di folla a Baires. Tributo del presidente a Bergoglio",
+   "image": "",
+   "date": "2026-11-08T22:40:22.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/calcio-spalletti-non-sono-contento-non-ce-continuita-in-troppi-calciatori_f55892e0-7f91-436f-93d6-39f278e14742.html",
+   "title": "Calcio: Spalletti \"Non sono contento, non c'è continuità in troppi calciatori\"",
+   "summary": "Kolo Muani: \"Dobbiamo lavorare duro per ottenere risultati\"",
+   "detail": "Kolo Muani: \"Dobbiamo lavorare duro per ottenere risultati\"",
+   "image": "",
+   "date": "2026-11-08T22:39:27.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/calcio-tifoso-del-bodglimt-ferito-dopo-il-parziale-crollo-di-una-tribuna_8e644e8b-14eb-4ae5-a238-f465c5fca8c3.html",
+   "title": "Calcio: tifoso del Bod›/Glimt ferito dopo il parziale crollo di una tribuna",
+   "summary": "Necessario ricovero in ospedale, incidente verificatosi durante partita giocata a Tromso",
+   "detail": "Necessario ricovero in ospedale, incidente verificatosi durante partita giocata a Tromso",
+   "image": "",
+   "date": "2026-11-08T22:18:50.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-fiorentina-juventus-2-2_f14e0417-2435-4476-933e-30be9285b4d5.html",
+   "title": "Serie A: Fiorentina-Juventus finisce pari, un punto a testa che non scuote la classifica",
+   "summary": "Viola avanti due volte e sempre ripresi, annullato il gol del 3-2 a Dragusin",
+   "detail": "Viola avanti due volte e sempre ripresi, annullato il gol del 3-2 a Dragusin",
+   "image": "",
+   "date": "2026-11-08T22:16:47.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/08/serie-a-la-lazio-frena-e-linter-si-avvicina-juve-pari-a-firenze_cb549bce-56d4-48af-9f8a-1bccc4410d4e.html",
+   "title": "Serie A: la Lazio frena e l'Inter si avvicina, Juve pari a Firenze",
+   "summary": "I nerazzurri danno una lezione al Como. Tre punti d'oro per Milan e Atalanta",
+   "detail": "I nerazzurri danno una lezione al Como. Tre punti d'oro per Milan e Atalanta",
+   "image": "",
+   "date": "2026-11-08T22:02:42.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/nations-league-mancini-convoca-anche-gatti_fc46c83d-e5dc-4093-8624-243580a9fe90.html",
+   "title": "Nations League: Mancini convoca anche Gatti",
+   "summary": "In vista gare contro Francia e Belgio in programma a Milano e Bruxelles",
+   "detail": "In vista gare contro Francia e Belgio in programma a Milano e Bruxelles",
+   "image": "",
+   "date": "2026-11-08T21:55:26.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-fiorentina-juventus-2-2_77a965f5-63ab-4be7-ac90-63855f2ec299.html",
+   "title": "Serie A: Fiorentina-Juventus 2-2",
+   "summary": "Woltemade risponde a Pellegrino, nella ripresa gol di Njie e Bremer",
+   "detail": "Woltemade risponde a Pellegrino, nella ripresa gol di Njie e Bremer",
+   "image": "",
+   "date": "2026-11-08T21:46:39.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+   "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+   "detail": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png",
+   "date": "2026-11-08T21:37:36.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/08/lillith-tells-your-future/",
+   "title": "Lillith Tells Your Future",
+   "summary": "Maybe you are old enough to remember Zoltar in an arcade, or perhaps you’re just a fan of the movie Big. Either way, maybe you’d like to build an animated fortune …read more",
+   "detail": "Maybe you are old enough to remember Zoltar in an arcade, or perhaps you’re just a fan of the movie Big. Either way, maybe you’d like to build an animated fortune …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/lilith_feat.jpg",
+   "date": "2026-11-08T21:00:42.000Z"
   },
   {
    "topic": "Economia",
@@ -29,21 +183,21 @@
    "source": "ANSA Economia",
    "url": "https://www.ansa.it/sito/notizie/economia/2026/11/08/via-libera-della-consob-allofferta-di-intesa-per-mps-si-parte-il-24-novembre_15c55497-bc22-4473-aef0-930c9724f4f4.html",
    "title": "Via libera della Consob all'offerta di Intesa per Mps, si parte il 24 novembre",
-   "summary": "Approvato il documento e il prospetto dell'Opas. Attesa la pubblicazione",
-   "detail": "Approvato il documento e il prospetto dell'Opas. Attesa la pubblicazione",
+   "summary": "Riunione di domenica per approvare documento e prospetto dell'Opas, attesa la pubblicazione",
+   "detail": "Riunione di domenica per approvare documento e prospetto dell'Opas, attesa la pubblicazione",
    "image": "",
-   "date": "2026-11-08T20:18:23.000Z"
+   "date": "2026-11-08T20:34:13.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Sport",
    "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/vaticano/notizie/2026/11/08/il-papa-in-argentina-milei-lo-accoglie-con-una-lunga-stretta-di-mano_b1a9c1ef-f58d-4638-863e-926dd7986a78.html",
-   "title": "Il Papa in Argentina, Milei lo accoglie con una lunga stretta di mano",
-   "summary": "A Buenos Aires manifesti anti-presidente. Prima l'ultima tappa di Leone in Uruguay: 'La politica pensi al bene comune'",
-   "detail": "A Buenos Aires manifesti anti-presidente. Prima l'ultima tappa di Leone in Uruguay: 'La politica pensi al bene comune'",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/08/rugby-in-carrozzina-il-padova-rugby-e-campione-ditalia-2026_7f9b3591-1c0a-4155-9df6-050e3aa610f7.html",
+   "title": "Rugby in carrozzina, il Padova rugby è campione d'Italia 2026",
+   "summary": "Battuta in finale H81 Vicenza 43-41. Terzo posto per i Mastini Cangrandi Verona",
+   "detail": "Battuta in finale H81 Vicenza 43-41. Terzo posto per i Mastini Cangrandi Verona",
    "image": "",
-   "date": "2026-11-08T20:09:00.000Z"
+   "date": "2026-11-08T20:28:39.000Z"
   },
   {
    "topic": "Sport",
@@ -82,17 +236,6 @@
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-in-campo-fiorentina-juventus-diretta_f14e0417-2435-4476-933e-30be9285b4d5.html",
-   "title": "Serie A, in campo Fiorentina-Juventus DIRETTA",
-   "summary": "Si gioca l'11ma giornata di campionato",
-   "detail": "Si gioca l'11ma giornata di campionato",
-   "image": "",
-   "date": "2026-11-08T19:57:03.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
    "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-fabregas-inter-di-livello-superiore-dobbiamo-accettarlo_6d42332b-7176-4b3f-85be-1140cfd5e13d.html",
    "title": "Serie A: Fabregas, 'Inter di livello superiore, dobbiamo accettarlo'",
    "summary": "\"Dobbiamo dare la mano ai nerazzurri e fare complimenti\"",
@@ -110,17 +253,6 @@
    "detail": "Il leader di Yashar ci prova e apre al Likud. Ma nel Change Bloc veti e differenze",
    "image": "",
    "date": "2026-11-08T19:45:40.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/08/f1-in-brasile-vince-norris-settima-la-ferrari-di-leclerc_2cb302f9-f2e8-4c7a-8948-4e03b73b39a2.html",
-   "title": "F1: festa Norris in Brasile, Ferrari indietro tutta e la Mercedes è campione",
-   "summary": "Leclerc settimo, Hamilton nono: titolo costruttori al team tedesco",
-   "detail": "Leclerc settimo, Hamilton nono: titolo costruttori al team tedesco",
-   "image": "",
-   "date": "2026-11-08T19:35:31.000Z"
   },
   {
    "topic": "Sport",
@@ -145,28 +277,6 @@
    "date": "2026-11-08T19:25:20.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/premier-lo-united-si-salva-dal-baratro-rimontando-due-gol-nel-recupero_d2dd36ef-9259-4488-8ae3-e6265fe50c55.html",
-   "title": "Premier: lo United si salva dal baratro rimontando due gol nel recupero",
-   "summary": "A Old Trafford finisce 4-4 con l'Aston Villa, evitato l'ultimo posto",
-   "detail": "A Old Trafford finisce 4-4 con l'Aston Villa, evitato l'ultimo posto",
-   "image": "",
-   "date": "2026-11-08T19:21:51.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-inter-como-2-0_e105aab6-20f1-41ab-93ae-a60a59cd8429.html",
-   "title": "Serie A: lezione di Inter, Esposito e Thuram stendono il Como",
-   "summary": "Dominio nerazzurro, serve un'ora ai Lariani per il primo tiro in porta",
-   "detail": "Dominio nerazzurro, serve un'ora ai Lariani per il primo tiro in porta",
-   "image": "",
-   "date": "2026-11-08T19:20:11.000Z"
-  },
-  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -176,17 +286,6 @@
    "detail": "\"Racconteremo anche del tentativo di depistaggio, fallito, di Valter Lavitola\"",
    "image": "",
    "date": "2026-11-08T19:15:35.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/08/look-back-tutta-la-poesia-di-kore-eda-in-un-manga_81317e3d-7e84-459f-97ea-3e4704b64723.html",
-   "title": "'Look Back' tutta la poesia di Kore-eda in un manga",
-   "summary": "Dal Lido alla sala, dove esce il 12 novembre, il film con protagoniste due adolescenti",
-   "detail": "Dal Lido alla sala, dove esce il 12 novembre, il film con protagoniste due adolescenti",
-   "image": "",
-   "date": "2026-11-08T19:13:01.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -233,28 +332,6 @@
    "date": "2026-11-08T19:02:15.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-esposito-e-thuram-linter-stende-il-como-nel-big-match_b233c941-c295-4534-bfb3-b8043716c2f6.html",
-   "title": "Serie A: Esposito e Thuram, l'Inter stende il Como nel big match",
-   "summary": "I nerazzurri vincono 2-0 e si portano a -1 dalla Lazio capolista",
-   "detail": "I nerazzurri vincono 2-0 e si portano a -1 dalla Lazio capolista",
-   "image": "",
-   "date": "2026-11-08T18:59:47.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/08/il-rammarico-di-sinner-per-cahill-le-finals-sarebbero-state-il-finale-perfetto_b7f981dc-0d4e-4f4b-8dc2-2ff8299b171c.html",
-   "title": "Il rammarico di Sinner per Cahill, 'Le Finals sarebbero state il finale perfetto'",
-   "summary": "In un video il monito dell'ex coach: \"Continua a seguire i nostri punti cardine\"",
-   "detail": "In un video il monito dell'ex coach: \"Continua a seguire i nostri punti cardine\"",
-   "image": "",
-   "date": "2026-11-08T18:49:51.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "ANSA Economia",
@@ -266,17 +343,6 @@
    "date": "2026-11-08T18:48:12.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/calcio-al-via-il-raduno-u21-a-tirrenia-baldini-chiama-duffizi_48dbd909-90ca-4715-b981-e86e4f3ffbb1.html",
-   "title": "Calcio: al via il raduno U21 a Tirrenia, Baldini chiama D'Uffizi",
-   "summary": "Indisponibile Vavassori, il tecnico convoca il calciatore dell'Ascoli",
-   "detail": "Indisponibile Vavassori, il tecnico convoca il calciatore dell'Ascoli",
-   "image": "",
-   "date": "2026-11-08T18:42:08.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -286,17 +352,6 @@
    "detail": "Demoskopika: 'Il segmento resta concentrato in poche destinazioni, 17 province hanno il 79%'",
    "image": "",
    "date": "2026-11-08T18:37:50.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-   "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-   "detail": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
-   "date": "2026-11-08T18:22:53.000Z"
   },
   {
    "topic": "Mondo",
@@ -684,17 +739,6 @@
    "date": "2026-11-08T05:05:00.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "title": "Houthis say at least 33 killed in Saudi air strike",
-   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "detail": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
-   "date": "2026-11-08T04:03:12.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "Hackaday",
@@ -792,28 +836,6 @@
    "detail": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
    "date": "2026-11-07T21:36:16.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/07/proper-linux-on-an-esp32/",
-   "title": "Proper Linux, On An ESP32",
-   "summary": "The ESP32 series of microcontrollers feature a lot on these pages, offering as they do a significantly powerful processor and in most cases, wireless connectivity. One recent member of the …read more",
-   "detail": "The ESP32 series of microcontrollers feature a lot on these pages, offering as they do a significantly powerful processor and in most cases, wireless connectivity. One recent member of the …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/04/esp32_s31_espressif.jpg",
-   "date": "2026-11-07T21:00:19.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/",
-   "title": "Building a Homemade Induction Soldering Iron",
-   "summary": "Despite not being inherently any better at converting electricity into heat, induction-heated soldering irons often considerably outperform conventional irons with an identical power rating. They…",
-   "detail": "Despite not being inherently any better at converting electricity into heat, induction-heated soldering irons often considerably outperform conventional irons with an identical power rating. They manage this by directly heating …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/induction_soldering_iron.png",
-   "date": "2026-11-07T19:30:38.000Z"
   },
   {
    "topic": "Mondo",
@@ -1212,17 +1234,6 @@
    "date": "2026-11-06T15:35:30.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-   "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-   "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-   "detail": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/04d2/live/40c46130-d9f6-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-06T15:25:43.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "IEEE Spectrum",
@@ -1353,17 +1364,6 @@
    "detail": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4c01/live/8242d1d0-d9f8-11f1-b441-2b33b063138f.jpg",
    "date": "2026-11-06T00:42:05.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-   "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-   "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
-   "detail": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a4ec/live/3550b220-d845-11f1-93e1-3b657b665bcf.png",
-   "date": "2026-11-06T00:02:52.000Z"
   },
   {
    "topic": "Salute",
