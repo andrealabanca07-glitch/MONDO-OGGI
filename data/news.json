@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T00:09:52.734Z",
+ "updated": "2026-11-13T07:48:54.649Z",
  "items": [
+  {
+   "topic": "Spazio",
+   "type": "curiosità",
+   "source": "NASA · Foto del giorno",
+   "url": "https://apod.nasa.gov/apod/astropix.html",
+   "title": "NASA Science",
+   "summary": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the…",
+   "detail": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.Tomorrow's picture: pixels in space\t\t\t\t\t\t",
+   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+   "date": "2026-11-13T07:48:54.648Z"
+  },
   {
    "topic": "Storia",
    "type": "curiosità",
@@ -10,7 +21,7 @@
    "summary": "Una serie di attacchi terroristici a Parigi provocano oltre cento morti, la maggior parte al Bataclan",
    "detail": "Una serie di attacchi terroristici a Parigi provocano oltre cento morti, la maggior parte al Bataclan — Gli attentati di Parigi del 13 novembre 2015 furono una serie di attacchi terroristici di matrice islamista perpetrati da un commando armato collegato all'autoproclamato Stato Islamico comunemente noto come ISIS, autore della successiva rivendicazione.\nGli attacchi ebbero luogo nel I, X e XI arrondissement parigino e allo Stade de France di Saint-Denis, nel dipartimento di Senna-Saint-Denis, poco lontano dalla capitale francese.\nGli attentati furono messi in opera da almeno dieci esecutori tra uomini e donne, autori di tre esplosioni nei pressi dello stadio e di sei sparatorie in diversi luoghi pubblici di Parigi, la più sanguinosa delle quali presso il teatro Bataclan, in cui rimasero uccise 90 persone.",
    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/13_November_2015_Paris_attacks_-_montage.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-13T00:09:48.015Z"
+   "date": "2026-11-13T07:48:54.336Z"
   },
   {
    "topic": "Storia",
@@ -21,7 +32,326 @@
    "summary": "Viene scritta la prima pagina conosciuta del World Wide Web.",
    "detail": "Viene scritta la prima pagina conosciuta del World Wide Web. — Il World Wide Web, abbreviato web, WWW o W3, è uno dei principali servizi di Internet, che permette di navigare e usufruire di un insieme molto vasto di contenuti, multimediali e non, interrelati tramite collegamenti ipertestuali (link), e di fruire di ulteriori servizi accessibili a tutti o ad una parte selezionata degli utenti di Internet. Questa facile reperibilità di informazioni è resa possibile, oltre che dai protocolli di rete, anche dalla presenza, diffusione, facilità d'uso ed efficienza dei motori di ricerca e dei web browser in un modello di architettura di rete definito client-server.",
    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_World_Wide_Web_project_-_Conkeror.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-13T00:09:48.015Z"
+   "date": "2026-11-13T07:48:54.336Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "title": "What we know about the global Microsoft outage",
+   "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "detail": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/41f4/live/622835f0-df31-11f1-911b-97a04d97270a.jpg",
+   "date": "2026-11-13T07:37:38.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/borsa-lasia-chiude-debole-pesano-i-timori-per-lia_3459e3b8-edab-46bc-a697-5a62f38431e1.html",
+   "title": "Borsa: l'Asia chiude debole, pesano i timori per l'Ia",
+   "summary": "Positiva Tokyo, in calo la Cina. Lo yen si svaluta sul dollaro",
+   "detail": "Positiva Tokyo, in calo la Cina. Lo yen si svaluta sul dollaro",
+   "image": "",
+   "date": "2026-11-13T07:26:07.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/le-quotazioni-del-bitcoin-sotto-la-soglia-dei-70mila-dollari-prima-volta_279306f7-f5b3-4c35-9094-724e8300d760.html",
+   "title": "Le quotazioni del bitcoin sotto la soglia dei 70mila dollari, prima volta da agosto",
+   "summary": "Inflazione e rialzo tassi colpiscono le cripto",
+   "detail": "Inflazione e rialzo tassi colpiscono le cripto",
+   "image": "",
+   "date": "2026-11-13T07:24:56.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/il-prezzo-delloro-in-crescita-a-3899-dollari-loncia_bcc5476e-e58b-4ced-98de-6aadd53eff5e.html",
+   "title": "Il prezzo dell'oro in crescita a 3899 dollari l'oncia",
+   "summary": "Aumento dello 0,59%",
+   "detail": "Aumento dello 0,59%",
+   "image": "",
+   "date": "2026-11-13T07:20:28.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/il-prezzo-del-petrolio-prosegue-in-rialzo-wti-a-889-dollari-09_ab500bbc-15d2-45e1-89be-bbc42ecea7f6.html",
+   "title": "Il prezzo del petrolio prosegue in rialzo, Wti a 88,9 dollari +0,9%",
+   "summary": "Brent a 96,5 dollari",
+   "detail": "Brent a 96,5 dollari",
+   "image": "",
+   "date": "2026-11-13T07:19:20.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/euro-parte-in-lieve-rialzo-a-1107-lo-yen-oscilla-su-soglia-160_2e7b1642-6990-484e-8671-082e0679d30e.html",
+   "title": "Euro parte in lieve rialzo a 1,107, lo yen oscilla su soglia 160",
+   "summary": "Valuta giapponese in calo poi recupera",
+   "detail": "Valuta giapponese in calo poi recupera",
+   "image": "",
+   "date": "2026-11-13T07:12:35.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/il-prezzo-del-gas-apre-in-rialzo-a-9665-euro-al-megawattora_61237a7b-8165-4a73-b1f5-31eb793ffc77.html",
+   "title": "Il prezzo del gas apre in rialzo a 96,65 euro al megawattora",
+   "summary": "Ad Amsterdam le quotazioni registrano un aumento del 4,9%",
+   "detail": "Ad Amsterdam le quotazioni registrano un aumento del 4,9%",
+   "image": "",
+   "date": "2026-11-13T07:09:33.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/lutile-di-unipol-sale-a-139-miliardi-124-premi-per-128-miliardi_8660d5cb-6de9-40ef-a0a4-0fea5e89535e.html",
+   "title": "L'utile di Unipol sale a 1,39 miliardi (+12,4%), premi per 12,8 miliardi",
+   "summary": "I conti spinti dal business assicurativo, combined ratio al 92,5%. Solvibilità al 244%",
+   "detail": "I conti spinti dal business assicurativo, combined ratio al 92,5%. Solvibilità al 244%",
+   "image": "",
+   "date": "2026-11-13T07:00:00.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/gli-007-americani-non-sono-sicuri-che-alice-huang-sia_4d7049c8-ca5c-4c4e-b34a-a6d5007a4fd6.html",
+   "title": "Gli 007 americani non sono sicuri che Alice Huang sia una spia",
+   "summary": "Il segretario Usa al Commercio testimonierà sul caso Nvidia prima del Congresso",
+   "detail": "Il segretario Usa al Commercio testimonierà sul caso Nvidia prima del Congresso",
+   "image": "",
+   "date": "2026-11-13T06:31:52.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/linviato-speciale-americano-kushner-progressi-significativi-nei-negoziati-ucraina-russia_44817c41-c94b-49c5-82d4-c2480ddd3563.html",
+   "title": "L'inviato speciale americano Kushner: 'Progressi significativi nei negoziati Ucraina-Russia'",
+   "summary": "L'agenzia Tass, 'presto dettagli sul nuovo round dei colloqui'",
+   "detail": "L'agenzia Tass, 'presto dettagli sul nuovo round dei colloqui'",
+   "image": "",
+   "date": "2026-11-13T06:30:59.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/microsoft-le-misure-per-risolvere-falle-outlook-non-funzionano-come-previsto_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
+   "title": "'Le misure per risolvere falle di Outlook non stanno andando come era previsto'",
+   "summary": "L'annuncio del colosso americano Microsoft: 'Stiamo individuando soluzioni alternative'",
+   "detail": "L'annuncio del colosso americano Microsoft: 'Stiamo individuando soluzioni alternative'",
+   "image": "",
+   "date": "2026-11-13T06:23:33.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/generali-nei-nove-mesi-765-miliardi-di-premi-e-36-miliardi-di-utile-12_f54e4c9f-75f9-4257-a802-14e2f6e9e9b8.html",
+   "title": "Generali, nei nove mesi 76,5 miliardi di premi e 3,6 miliardi di utile (+12%)",
+   "summary": "Borean, 'fiduciosi di superare gli obiettivi del piano'",
+   "detail": "Borean, 'fiduciosi di superare gli obiettivi del piano'",
+   "image": "",
+   "date": "2026-11-13T06:20:55.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/",
+   "title": "A Desktop OS for the ESP32-P4",
+   "summary": "The ESP32-P4 is Espressif’s high-end application processor, with two blistering fast RISC-V cores for a surprisingly reasonable price. As it’s a very capable computer in its own right, there have…",
+   "detail": "The ESP32-P4 is Espressif’s high-end application processor, with two blistering fast RISC-V cores for a surprisingly reasonable price. As it’s a very capable computer in its own right, there have …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/bmds-featured.jpg",
+   "date": "2026-11-13T06:00:58.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+   "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+   "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a…",
+   "detail": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]",
+   "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+   "date": "2026-11-13T05:05:00.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
+   "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
+   "summary": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
+   "detail": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
+   "image": "https://cdn.mos.cms.futurecdn.net/2Bd2iSfNPm9ugmCJu55V3P-1920-80.jpg",
+   "date": "2026-11-13T05:05:00.000Z"
+  },
+  {
+   "topic": "Musica",
+   "type": "notizia",
+   "source": "Pitchfork",
+   "url": "https://pitchfork.com/story/hear-u2s-posthumous-dolly-parton-duet/",
+   "title": "Hear U2’s Posthumous Dolly Parton Duet",
+   "summary": "“Torn” is the closing track off the band’s new album, Carnaval de Luz",
+   "detail": "“Torn” is the closing track off the band’s new album, Carnaval de Luz",
+   "image": "https://media.pitchfork.com/photos/6af62a8237c819c3fc78f513/master/pass/Bono-Dolly-Parton.jpeg",
+   "date": "2026-11-13T05:01:36.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+   "title": "A Global Rebound for Mangroves",
+   "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+   "detail": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
+   "date": "2026-11-13T05:01:00.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+   "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+   "detail": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+   "date": "2026-11-13T03:57:01.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+   "title": "Australian footballers will not be charged after hotel incident, police say",
+   "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+   "detail": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
+   "date": "2026-11-13T03:02:54.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/12/hacking-metas-smart-glasses/",
+   "title": "Hacking Meta’s Smart Glasses",
+   "summary": "Meta’s Ray-Ban smart glasses have attracted plenty of controversy in the relatively short time they have been available, given their potential for covert and unvanted surveillance. But given the…",
+   "detail": "Meta’s Ray-Ban smart glasses have attracted plenty of controversy in the relatively short time they have been available, given their potential for covert and unvanted surveillance. But given the chance …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/meta-glases-featured.jpg",
+   "date": "2026-11-13T03:00:45.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+   "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+   "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+   "detail": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+   "date": "2026-11-13T02:48:29.000Z"
+  },
+  {
+   "topic": "Musica",
+   "type": "notizia",
+   "source": "Pitchfork",
+   "url": "https://pitchfork.com/story/watch-rosalia-perform-a-lux-medley-at-the-2026-latin-grammys/",
+   "title": "Watch Rosalía Perform a Lux Medley at the 2026 Latin Grammys",
+   "summary": "Her 2025 album is up for seven statuettes tonight",
+   "detail": "Her 2025 album is up for seven statuettes tonight",
+   "image": "https://media.pitchfork.com/photos/6af670a2caedaca0313055df/master/pass/GettyImages-2304857045.jpg",
+   "date": "2026-11-13T02:33:11.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111221643.htm",
+   "title": "Without this protein, damaged muscle fills with fat and scar tissue",
+   "summary": "Researchers have uncovered a surprising hidden function of a protein that may hold the key to repairing damaged muscles and treating muscular dystrophy. Known for protecting chromosomes, TRF2 also…",
+   "detail": "Researchers have uncovered a surprising hidden function of a protein that may hold the key to repairing damaged muscles and treating muscular dystrophy. Known for protecting chromosomes, TRF2 also helps muscle stem cells maintain their identity and regenerate injured tissue. When scientists removed the protein in mice, muscles struggled to repair themselves, and muscular dystrophy progressed dramatically faster.",
+   "image": "",
+   "date": "2026-11-13T02:28:20.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+   "detail": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-13T02:01:35.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+   "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+   "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing…",
+   "detail": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing \"dead layer\" problem that causes promising materials to stop working when made extremely thin. Remarkably, the new technique not only preserves the materials' electrical and magnetic properties at nearly atomic thicknesses but also gives them enhanced magnetic capabilities",
+   "image": "",
+   "date": "2026-11-13T01:40:17.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+   "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+   "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+   "detail": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-11-13T01:17:58.000Z"
+  },
+  {
+   "topic": "Salute",
+   "type": "notizia",
+   "source": "BBC Health",
+   "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+   "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+   "summary": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+   "detail": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e505/live/77db9650-dec1-11f1-86d5-71a9f29d1c99.png",
+   "date": "2026-11-13T00:55:31.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005845.htm",
+   "title": "Animal vs. plant protein reveals a surprising testosterone divide",
+   "summary": "A surprising new study suggests that where men get their protein may be linked to their testosterone levels. Researchers studying more than 2,500 men found that higher animal protein intake,…",
+   "detail": "A surprising new study suggests that where men get their protein may be linked to their testosterone levels. Researchers studying more than 2,500 men found that higher animal protein intake, particularly from dairy, was associated with lower testosterone, while plant protein was linked to higher levels. The findings raise intriguing questions about how everyday food choices might relate to male hormone levels.",
+   "image": "",
+   "date": "2026-11-13T00:29:34.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+   "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+   "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+   "detail": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
+   "date": "2026-11-13T00:13:35.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -35,26 +365,26 @@
    "date": "2026-11-13T00:01:06.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Elettronica",
    "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-   "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
-   "detail": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-   "date": "2026-11-12T23:34:05.000Z"
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/12/watch-that-sound-your-own-chladni-plate/",
+   "title": "Watch That Sound: Your Own Chladni Plate",
+   "summary": "What if you could see sound? A Chladni plate uses a speaker and small particles, like sand, to give you a visual representation of sound, and [CrazyScience] shows you how …read more",
+   "detail": "What if you could see sound? A Chladni plate uses a speaker and small particles, like sand, to give you a visual representation of sound, and [CrazyScience] shows you how …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/sound.png",
+   "date": "2026-11-13T00:00:30.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Scienza",
    "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/a-dublino-e-gelo-sullinviato-ue-ma-nasce-il-formato-e5-con-litalia_3b13b03e-1348-4fd1-9b1f-f2a129c504cd.html",
-   "title": "A Dublino è gelo sull'inviato Ue ma nasce il formato E5 con l'Italia",
-   "summary": "Girandola di incontri con Witkoff e Kushner, 'tavolo multilaterale'. Pressing di Meloni",
-   "detail": "Girandola di incontri con Witkoff e Kushner, 'tavolo multilaterale'. Pressing di Meloni",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
+   "title": "A surprising brain difference may explain why some kids struggle with math",
+   "summary": "Stanford researchers have discovered that children who struggle persistently with math may have underlying differences in how their brains manage problem-solving strategies. Children with…",
+   "detail": "Stanford researchers have discovered that children who struggle persistently with math may have underlying differences in how their brains manage problem-solving strategies. Children with developmental dyscalculia were slower to switch strategies, less responsive to changes in difficulty, and less able to improve their approach over time. Distinct patterns of brain activity were linked to these difficulties and could even predict certain math-related abilities.",
    "image": "",
-   "date": "2026-11-12T23:25:57.000Z"
+   "date": "2026-11-12T23:33:12.000Z"
   },
   {
    "topic": "Musica",
@@ -83,7 +413,7 @@
    "type": "notizia",
    "source": "Ars Technica",
    "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-   "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+   "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
    "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
    "detail": "Men aged 50–69 and at average risk should get PSA screening every two years.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
@@ -211,17 +541,6 @@
    "date": "2026-11-12T21:41:05.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/12/huang-getta-la-spugna-lamante-cinese-legata-a-huawei_0b01f8ad-f5ea-4fd2-a7a4-7ccfc68be774.html",
-   "title": "Huang getta la spugna, l'amante cinese legata a Huawei",
-   "summary": "Il titolo Nvidia crolla a Wall Street. Rebus successione, Trump candida Tim Cook",
-   "detail": "Il titolo Nvidia crolla a Wall Street. Rebus successione, Trump candida Tim Cook",
-   "image": "",
-   "date": "2026-11-12T21:32:18.000Z"
-  },
-  {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
@@ -253,17 +572,6 @@
    "detail": "Prima della Croazia maglia per record presenze, 126",
    "image": "",
    "date": "2026-11-12T21:00:53.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-   "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-   "detail": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-12T21:00:42.000Z"
   },
   {
    "topic": "Elettronica",
@@ -310,9 +618,9 @@
    "date": "2026-11-12T20:19:49.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Economia",
    "type": "notizia",
-   "source": "ANSA",
+   "source": "ANSA Economia",
    "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/dal-governo-norme-sudamericane-e-scontro-messina-meloni_66cb92ca-cf90-4cae-a644-923b05b820c5.html",
    "title": "'Dal governo norme sudamericane', è scontro Messina-Meloni",
    "summary": "La premier: 'La nostra una scelta di giustizia'. Giorgetti rivendica la sua 'politica asburgica'",
@@ -486,28 +794,6 @@
    "date": "2026-11-12T19:06:13.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/bcc-iccrea-utile-9-mesi-sale-a-165-miliardi_a8b12289-8291-4023-87da-fad16b753f71.html",
-   "title": "Bcc Iccrea, utile 9 mesi sale a 1,65 miliardi",
-   "summary": "In crescita finanziamenti con nuove erogazioni per 15,3 miliardi e raccolta",
-   "detail": "In crescita finanziamenti con nuove erogazioni per 15,3 miliardi e raccolta",
-   "image": "",
-   "date": "2026-11-12T19:05:26.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/fnm-chiude-i-9-mesi-con-oltre-521-milioni-di-ricavi-utile-62_d08bb77f-2bea-4ca6-ae34-15dae6350286.html",
-   "title": "Fnm chiude i 9 mesi con oltre 521 milioni di ricavi, utile +6,2%",
-   "summary": "Confermate le stime sul margine operativo lordo, investimenti in calo",
-   "detail": "Confermate le stime sul margine operativo lordo, investimenti in calo",
-   "image": "",
-   "date": "2026-11-12T19:03:51.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "Space.com",
@@ -596,17 +882,6 @@
    "date": "2026-11-12T18:28:22.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/webuild-nuovi-ordini-111-miliardi-da-inizio-anno-confermata-guidance-2026_a9e1e2ef-075b-42eb-9b51-6c6b4258db6a.html",
-   "title": "Webuild, nuovi ordini 11,1 miliardi da inizio anno, confermata guidance 2026",
-   "summary": "Gare in attesa di aggiudicazione a 24,9 miliardi. Pipeline commerciale 99,3 miliardi",
-   "detail": "Gare in attesa di aggiudicazione a 24,9 miliardi. Pipeline commerciale 99,3 miliardi",
-   "image": "",
-   "date": "2026-11-12T18:26:21.000Z"
-  },
-  {
    "topic": "Tecnologia",
    "type": "notizia",
    "source": "Ars Technica",
@@ -627,17 +902,6 @@
    "detail": "Il docufilm sulla storia di Elizabeth Holmes, in prigione per truffa",
    "image": "",
    "date": "2026-11-12T18:15:15.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/a-pomigliano-la-cinese-leapmotor-per-le-e-car-di-stellantis_5c4014b7-dd35-40f4-92dd-2d61a3c31d30.html",
-   "title": "A Pomigliano la cinese Leapmotor per le e-car di Stellantis",
-   "summary": "All'assemblea Anfia Filosa parla di partnership. Urso, 'Piano Italia rispettato'",
-   "detail": "All'assemblea Anfia Filosa parla di partnership. Urso, 'Piano Italia rispettato'",
-   "image": "",
-   "date": "2026-11-12T18:09:58.000Z"
   },
   {
    "topic": "Elettronica",
@@ -662,17 +926,6 @@
    "date": "2026-11-12T17:54:32.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/il-prezzo-del-gas-corre-e-sfiora-i-94-euro-con-tensioni-medioriente_37283fb3-ab72-4cb0-bfb4-1aa473abdefa.html",
-   "title": "Il prezzo del gas corre e sfiora i 94 euro con tensioni Medioriente",
-   "summary": "I contratti Ttf ad Amsterdam segnano un +8 per cento",
-   "detail": "I contratti Ttf ad Amsterdam segnano un +8 per cento",
-   "image": "",
-   "date": "2026-11-12T17:41:35.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -693,50 +946,6 @@
    "detail": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
    "image": "https://cdn.mos.cms.futurecdn.net/6zArwyGLXXZHN5caJ3ZXtN-1920-80.png",
    "date": "2026-11-12T17:28:20.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/enel-acconto-sul-dividendo-2026-sale-a-0245-euro-per-azione_37ceeb30-e745-4f2e-ae9f-b595d4e4308b.html",
-   "title": "Enel, acconto sul dividendo 2026 sale a 0,245 euro per azione (+7% sul'acconto 2025)",
-   "summary": "Lo ha deciso il cda nell'approvazione dei conti dei 9 mesi",
-   "detail": "Lo ha deciso il cda nell'approvazione dei conti dei 9 mesi",
-   "image": "",
-   "date": "2026-11-12T17:26:53.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/banco-bpm-avvia-approfondimenti-sulla-proposta-dellagricole_9ecda2e5-b11d-425a-96c2-a236dc260f62.html",
-   "title": "Banco Bpm avvia approfondimenti sulla proposta dell'Agricole",
-   "summary": "Dovrà soddisfare tutti i soci e riflettere punti di forza e la perdita di contendibilità",
-   "detail": "Dovrà soddisfare tutti i soci e riflettere punti di forza e la perdita di contendibilità",
-   "image": "",
-   "date": "2026-11-12T17:14:59.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-1044-punti-base_fe08ba0d-ed74-4556-8577-50e1610d794f.html",
-   "title": "Lo spread tra Btp e Bund chiude in rialzo a 104,4 punti base",
-   "summary": "Il rendimento del decennale italiano sale e sfiora il 4,39%",
-   "detail": "Il rendimento del decennale italiano sale e sfiora il 4,39%",
-   "image": "",
-   "date": "2026-11-12T17:12:01.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-   "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-   "detail": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-12T17:11:48.000Z"
   },
   {
    "topic": "Spazio",
@@ -849,17 +1058,6 @@
    "date": "2026-11-12T15:07:01.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/12/the-sextant-navigating-the-old-way/",
-   "title": "The Sextant: Navigating The Old Way",
-   "summary": "Navigation is easy these days, as we’ve entire complex computerized mapping systems and radio-based positioning systems to find ourselves anywhere on Earth. It might seem simple to use GPS these…",
-   "detail": "Navigation is easy these days, as we’ve entire complex computerized mapping systems and radio-based positioning systems to find ourselves anywhere on Earth. It might seem simple to use GPS these …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2020/04/Navigating.jpg",
-   "date": "2026-11-12T15:00:34.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "Space.com",
@@ -868,17 +1066,6 @@
    "summary": "I photographed nebulas and star clusters over multiple nights with the Vaonis Vespera 3. It’s one of the most capable smart telescopes I’ve used, but it won’t be for everyone.",
    "detail": "I photographed nebulas and star clusters over multiple nights with the Vaonis Vespera 3. It’s one of the most capable smart telescopes I’ve used, but it won’t be for everyone.",
    "image": "https://cdn.mos.cms.futurecdn.net/cc6xzdF56vfGcBXL63bxK-1920-80.jpg",
-   "date": "2026-11-12T15:00:00.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026",
-   "title": "Satellite snaps rare birds-eye view of the ISS | Space photo of the day for Nov. 12, 2026",
-   "summary": "A commercial satellite has spotted the International Space Station, giving us a unique view of the orbiting lab from above.",
-   "detail": "A commercial satellite has spotted the International Space Station, giving us a unique view of the orbiting lab from above.",
-   "image": "https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png",
    "date": "2026-11-12T15:00:00.000Z"
   },
   {
@@ -948,15 +1135,26 @@
    "date": "2026-11-12T12:56:55.000Z"
   },
   {
-   "topic": "Elettronica",
+   "topic": "Scienza",
    "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/12/tiny-transmitters-track-monarch-butterflies/",
-   "title": "Tiny Transmitters Track Monarch Butterflies",
-   "summary": "Miniaturization is one thing, but how would you like to design a transmitter that attaches to a butterfly? That’s what the BlūMorpho transmitter is made to do, according to [Tom …read more",
-   "detail": "Miniaturization is one thing, but how would you like to design a transmitter that attaches to a butterfly? That’s what the BlūMorpho transmitter is made to do, according to [Tom …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/butterfly.png",
-   "date": "2026-11-12T12:00:29.000Z"
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+   "title": "Crows can make decisions twice as fast as humans, scientists discover",
+   "summary": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as…",
+   "detail": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
+   "image": "",
+   "date": "2026-11-12T12:17:19.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005843.htm",
+   "title": "Colorectal cancer is rising again after 20 years, and scientists don't know why",
+   "summary": "Colorectal cancer is making an alarming comeback in the United States after more than 20 years of declining rates, and the increase is no longer limited to younger adults. A major new study found…",
+   "detail": "Colorectal cancer is making an alarming comeback in the United States after more than 20 years of declining rates, and the increase is no longer limited to younger adults. A major new study found rising rates across nearly every age group under 70, including older Americans who have historically benefited most from cancer screening.",
+   "image": "",
+   "date": "2026-11-12T12:06:41.000Z"
   },
   {
    "topic": "Mondo",
@@ -970,6 +1168,28 @@
    "date": "2026-11-12T11:49:10.000Z"
   },
   {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+   "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+   "summary": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life.…",
+   "detail": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles away, suggests the building blocks of life may once have been widespread across Mars.",
+   "image": "",
+   "date": "2026-11-12T11:37:06.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+   "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+   "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for…",
+   "detail": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fossil-rich regions around the world, researchers have created a powerful tool to guide future excavations.",
+   "image": "",
+   "date": "2026-11-12T11:24:47.000Z"
+  },
+  {
    "topic": "Economia",
    "type": "notizia",
    "source": "BBC Business",
@@ -979,17 +1199,6 @@
    "detail": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
    "date": "2026-11-12T11:20:25.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-   "title": "Five new miniature frog species found in eastern Himalayas",
-   "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-   "detail": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6413/live/e56f4d60-de76-11f1-9115-cfe6d179af3a.jpg",
-   "date": "2026-11-12T11:07:19.000Z"
   },
   {
    "topic": "Mondo",
@@ -1014,28 +1223,6 @@
    "date": "2026-11-12T09:34:53.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/12/espresso-meet-custom-machined-stainless-steel-boiler/",
-   "title": "Espresso, Meet Custom-Machined Stainless Steel Boiler",
-   "summary": "While pondering some repairs for his Gaggia Classic Pro espresso machine, [Hans Gaensbauer] ended up machining an entirely new boiler from stainless steel. It was a nontrivial undertaking, since the…",
-   "detail": "While pondering some repairs for his Gaggia Classic Pro espresso machine, [Hans Gaensbauer] ended up machining an entirely new boiler from stainless steel. It was a nontrivial undertaking, since the …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/brewing-banner.png",
-   "date": "2026-11-12T09:00:33.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
-   "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
-   "summary": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat…",
-   "detail": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formation. The findings suggest that water may be a natural part of how rocky planets form, rather than something that must arrive from space.",
-   "image": "",
-   "date": "2026-11-12T08:38:42.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -1045,17 +1232,6 @@
    "detail": "EU Bond: che cosa sono le obbligazioni emesse dall’Unione europea",
    "image": "",
    "date": "2026-11-12T08:16:32.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-   "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-   "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-   "detail": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg",
-   "date": "2026-11-12T07:45:52.000Z"
   },
   {
    "topic": "Spazio",
@@ -1091,17 +1267,6 @@
    "date": "2026-11-12T04:39:31.000Z"
   },
   {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
-   "title": "A massive new simulation reveals how the universe emerged from darkness",
-   "summary": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2…",
-   "detail": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations could not.",
-   "image": "",
-   "date": "2026-11-12T04:07:24.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "NASA",
@@ -1122,17 +1287,6 @@
    "detail": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a838/live/7c0b4310-0735-11f1-b7e1-afb6d0884c18.jpg",
    "date": "2026-11-12T00:13:27.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
-   "title": "Walking and weight training may not be enough to keep your bones strong",
-   "summary": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive…",
-   "detail": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes in direction. Researchers found that activities such as football and handball increased markers of bone formation by up to 46%, potentially revealing a better way to protect bones against aging and osteoporosis.",
-   "image": "",
-   "date": "2026-11-12T00:10:23.000Z"
   },
   {
    "topic": "Musica",
@@ -1157,39 +1311,6 @@
    "date": "2026-11-11T17:45:12.000Z"
   },
   {
-   "topic": "Musica",
-   "type": "notizia",
-   "source": "Pitchfork",
-   "url": "https://pitchfork.com/story/beyonce-recreates-sades-love-deluxe-album-cover/",
-   "title": "Beyoncé Recreates Sade’s Love Deluxe Album Cover",
-   "summary": "She also paid homage to Diana Ross in a new i-D feature",
-   "detail": "She also paid homage to Diana Ross in a new i-D feature",
-   "image": "https://media.pitchfork.com/photos/6af48e724d1a33729b8cbbee/master/pass/MixCollage-11-Nov-2026-10-48-AM-8117.jpg",
-   "date": "2026-11-11T17:21:17.000Z"
-  },
-  {
-   "topic": "Musica",
-   "type": "notizia",
-   "source": "Pitchfork",
-   "url": "https://pitchfork.com/story/phoebe-bridgers-slayyyter-billy-strings-hinterland-2027/",
-   "title": "Phoebe Bridgers, Slayyyter, Billy Strings to Headline Hinterland 2027",
-   "summary": "The three-day music festival returns to St. Charles, Iowa next summer",
-   "detail": "The three-day music festival returns to St. Charles, Iowa next summer",
-   "image": "https://media.pitchfork.com/photos/6af368095b5e04c9714707bf/master/pass/hint2027.jpg",
-   "date": "2026-11-11T16:26:09.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
-   "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
-   "summary": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems, including 11 times more reports of cardiac arrest and 4.5…",
-   "detail": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems, including 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks. Young adults accounted for nearly half of the cardiovascular reports involving these products, raising concerns about their potential risks despite the study being unable to prove causation.",
-   "image": "",
-   "date": "2026-11-11T13:10:51.000Z"
-  },
-  {
    "topic": "Salute",
    "type": "notizia",
    "source": "BBC Health",
@@ -1201,17 +1322,6 @@
    "date": "2026-11-11T12:42:05.000Z"
   },
   {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
-   "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
-   "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international…",
-   "detail": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on ozone-destroying chemicals prevented even greater damage, and Earth's protective ozone layer is still recovering.",
-   "image": "",
-   "date": "2026-11-11T12:32:48.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "IEEE Spectrum",
@@ -1221,17 +1331,6 @@
    "detail": "This article is brought to you by Innomotics . In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner von Siemens in 1866, this groundbreaking principle remains fundamental to modern electrical engineering more than a century and a half later – and continues to shape the technology portfolio of Innomotics , a globally leading provider of electric motors and large drive systems. What began as a breakthrough in electromechanical energy conversion has evolved into a cornerstone of global industry – powering everything from brewery operations in Qingdao to high-voltage drive systems in…",
    "image": "https://spectrum.ieee.org/media-library/graphic-of-an-electric-motor-with-bold-text-reading-160-years.jpg?id=68515186&width=980",
    "date": "2026-11-11T11:00:02.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
-   "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
-   "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins…",
-   "detail": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potentially solving a mystery that has puzzled researchers for over a decade.",
-   "image": "",
-   "date": "2026-11-11T09:43:55.000Z"
   },
   {
    "topic": "Salute",
@@ -1256,50 +1355,6 @@
    "date": "2026-11-11T07:52:05.000Z"
   },
   {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
-   "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-   "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a…",
-   "detail": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: […]",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&h=1320&fit=clip&crop=faces%2Cfocalpoint",
-   "date": "2026-11-11T05:05:00.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
-   "title": "Water Surges Into Navajo Reservoir",
-   "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
-   "detail": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
-   "date": "2026-11-11T05:01:00.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042539.htm",
-   "title": "Even occasional marijuana use linked to 40% higher odds of stroke",
-   "summary": "New research involving more than 440,000 Americans links cannabis use to increased cardiovascular risk, with occasional users showing 40% higher odds of reporting a history of stroke. The findings…",
-   "detail": "New research involving more than 440,000 Americans links cannabis use to increased cardiovascular risk, with occasional users showing 40% higher odds of reporting a history of stroke. The findings suggest that even infrequent marijuana use may warrant concern, although researchers have not established that cannabis directly causes strokes or heart disease.",
-   "image": "",
-   "date": "2026-11-11T03:47:25.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-   "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-   "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys…",
-   "detail": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
-   "image": "",
-   "date": "2026-11-11T01:36:04.000Z"
-  },
-  {
    "topic": "Salute",
    "type": "notizia",
    "source": "BBC Health",
@@ -1311,17 +1366,6 @@
    "date": "2026-11-11T00:17:42.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-   "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-   "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-   "detail": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-10T22:52:15.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "IEEE Spectrum",
@@ -1331,17 +1375,6 @@
    "detail": "Bishnu Saroop Atal Acoustics and signal processing pioneer Life Fellow, 93; died 19 August Atal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&T ’s Shannon Laboratory, in Florham Park, N.J. His pioneering work on voice-coding techniques became the foundation for efficient, high-quality voice transmission over cellular networks. He received the 2013 IEEE Jack S. Kilby Signal Processing Medal for “fundamental and pioneering contributions to speech coding.” He joined Bell Labs in 1961 as a communications researcher, and his early work there focused on speaker identification technology. During the 1960s he helped develop linear predictive…",
    "image": "https://spectrum.ieee.org/media-library/portrait-of-an-indian-man-with-grey-hair-wearing-a-suit-jacket-and-tie.jpg?id=68639762&width=980",
    "date": "2026-11-10T19:00:02.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-   "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-   "detail": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-10T17:56:12.000Z"
   },
   {
    "topic": "Elettronica",
@@ -1540,17 +1573,6 @@
    "detail": "The Thera volcano, on modern-day Santorini, buried Akrotiri in ash in the 17th or 16th century B.C.E. The eruption was one of the largest in recorded history",
    "image": "https://th-thumbnailer.cdn-si-edu.com/EFLJx5gVMt4LnFbvFBDKFN07kCY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a0/f0/a0f097c9-8b61-4750-b992-4af6a4fada8e/akrotiri-ruins.png",
    "date": "2026-11-03T12:45:00.000Z"
-  },
-  {
-   "topic": "Salute",
-   "type": "notizia",
-   "source": "BBC Health",
-   "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
-   "title": "Parents' concerns to trigger urgent checks in A&E",
-   "summary": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.",
-   "detail": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bf78/live/46b4fd30-d473-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-02T08:52:08.000Z"
   },
   {
    "topic": "Elettronica",
