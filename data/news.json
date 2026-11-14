@@ -1,17 +1,6 @@
 {
- "updated": "2026-11-14T16:58:55.958Z",
+ "updated": "2026-11-14T21:22:29.091Z",
  "items": [
-  {
-   "topic": "Spazio",
-   "type": "curiosità",
-   "source": "NASA · Foto del giorno",
-   "url": "https://apod.nasa.gov/apod/astropix.html",
-   "title": "NASA Science",
-   "summary": "Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in…",
-   "detail": "Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landedat the site on the inside slope of a small crater about 2 1/2 years earlier in April of 1967. Visible on the horizon beyond the far crater wall, Apollo 12's Lunar Module Intrepid touched down less than 200 meters (650 feet) away, easy moonwalking distance from the robotic Surveyor spacecraft. This stereo image was carefully created from two separate pictures (AS12-48-7133, AS12-48-7134) captured on the lunar surface. They depict the scene from only slightly different viewpoints, approximating the separation between human eyes.Tomorrow's picture: meteors through Orion\t\t\t\t\t\t",
-   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-   "date": "2026-11-14T16:58:55.956Z"
-  },
   {
    "topic": "Storia",
    "type": "curiosità",
@@ -21,7 +10,7 @@
    "summary": "Lech Wałęsa, capo del fuorilegge movimento polacco Solidarność, viene rilasciato dopo undici mesi di internamento.",
    "detail": "Lech Wałęsa, capo del fuorilegge movimento polacco Solidarność, viene rilasciato dopo undici mesi di internamento. — Lech Wałęsa è un sindacalista, politico e attivista polacco.",
    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-14T16:58:53.806Z"
+   "date": "2026-11-14T21:22:28.705Z"
   },
   {
    "topic": "Storia",
@@ -32,18 +21,183 @@
    "summary": "La BBC inizia le trasmissioni radio nel Regno Unito.",
    "detail": "La BBC inizia le trasmissioni radio nel Regno Unito. — La BBC è la società concessionaria britannica in esclusiva del servizio pubblico radiotelevisivo nel Regno Unito ed è il più grande editore radiotelevisivo della nazione, con sede principale negli storici studi di Broadcasting House a Westminster, Londra.",
    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/BBCBroadcastingHouse.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-14T16:58:53.806Z"
+   "date": "2026-11-14T21:22:28.705Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
+   "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+   "detail": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-14T21:05:14.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/",
+   "title": "Warm Analog DSP, on the ESP",
+   "summary": "We love audio, and we love messing around with it. So when [mircemk] wrote in with his latest audio-mangling device, we had to give it a look. It’s a tube-sound …read more",
+   "detail": "We love audio, and we love messing around with it. So when [mircemk] wrote in with his latest audio-mangling device, we had to give it a look. It’s a tube-sound …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/9847301794483913575.jpg",
+   "date": "2026-11-14T21:00:09.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/dopo-il-caos-nei-cieli-usa-verso-la-piena-operativita.-ma-si-contano-i-danni_9772e753-260a-465a-b775-0399c068f3c9.html",
+   "title": "Dopo il caos nei cieli, Usa verso la 'piena operatività'. Ma si contano i danni",
+   "summary": "Il blocco ha coinvolto quasi un milione e trecentomila persone",
+   "detail": "Il blocco ha coinvolto quasi un milione e trecentomila persone",
+   "image": "",
+   "date": "2026-11-14T20:44:16.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+   "detail": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-14T20:41:45.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/anziano-ucciso-durante-la-truffa-del-falso-carabiniere-due-fermi_5d3e1a2d-d519-4fe8-b10b-e866c55fbb82.html",
+   "title": "Uomo di 92 anni ucciso durante una truffa del falso carabiniere",
+   "summary": "I due fermati gli fecero scrivere appunto; in intercettazioni, \"non l'ho spinto forte\"",
+   "detail": "I due fermati gli fecero scrivere appunto; in intercettazioni, \"non l'ho spinto forte\"",
+   "image": "",
+   "date": "2026-11-14T20:37:00.000Z"
   },
   {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/14/biathlon-vittozzi-seconda-nella-sprint-in-norvegia_ff814759-2e8b-4830-bdb6-34f639f9dbfe.html",
-   "title": "Biathlon: Vittozzi seconda nella sprint in Norvegia",
-   "summary": "L'olimpionica azzurra ha chiuso la prova del 'Sesongstart' alle spalle di Ytterhus",
-   "detail": "L'olimpionica azzurra ha chiuso la prova del 'Sesongstart' alle spalle di Ytterhus",
+   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/14/scherma-cdm-fioretto-tripletta-delle-azzurre-a-plovdiv_be7f3c20-6f78-41c4-a4cd-f8adce28e30e.html",
+   "title": "Scherma: cdm fioretto; tripletta delle azzurre a Plovdiv",
+   "summary": "Nella prova maschile in Bulgaria, argento di Marini",
+   "detail": "Nella prova maschile in Bulgaria, argento di Marini",
    "image": "",
-   "date": "2026-11-14T16:40:48.000Z"
+   "date": "2026-11-14T20:16:32.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/wta-finals-dallucraina-accuse-a-sabalenka-ha-offeso-svitolina_d6cc3bd8-af0f-459c-a399-fbf7540e49a9.html",
+   "title": "Wta Finals: dall'Ucraina accuse a Sabalenka, 'ha offeso Svitolina'",
+   "summary": "Polemica per un video con presunti insulti della bielorussa",
+   "detail": "Polemica per un video con presunti insulti della bielorussa",
+   "image": "",
+   "date": "2026-11-14T19:52:01.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/belgio-italia-omaggio-della-nazionale-alle-vittime-dellheysel_5bfa02ba-e0a8-4f0d-9c50-fc60a7a398ad.html",
+   "title": "Belgio-Italia, omaggio della Nazionale alle vittime dell'Heysel",
+   "summary": "Malagò, Mancini, Ranieri e Scalvini: corona di fiori sulla lapide per i 39 morti nell'85",
+   "detail": "Malagò, Mancini, Ranieri e Scalvini: corona di fiori sulla lapide per i 39 morti nell'85",
+   "image": "",
+   "date": "2026-11-14T19:51:44.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/nations-league-italia-senza-paura.-mancini-bello-giocarci-i-quarti-con_d5d8b284-0b36-46fe-bf2b-d1642e3e4337.html",
+   "title": "Nations League: Italia senza paura. Mancini: 'Bello giocarci i quarti con il Belgio'",
+   "summary": "Gli Azzurri però perdono anche Cambiaghi. Scalvini: 'Essere in testa ci dà la spinta'",
+   "detail": "Gli Azzurri però perdono anche Cambiaghi. Scalvini: 'Essere in testa ci dà la spinta'",
+   "image": "",
+   "date": "2026-11-14T19:29:11.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/14/calcio-camarda-e-gli-altri-lunder-21-continua-a-crescere_515bcef7-3f19-4d97-98a9-b4890e8fc933.html",
+   "title": "Calcio: Camarda e gli altri, l'Under 21 continua a crescere",
+   "summary": "Il gruppo di Baldini a segno anche in amichevole: battuta la Francia lunedì c'è il Belgio",
+   "detail": "Il gruppo di Baldini a segno anche in amichevole: battuta la Francia lunedì c'è il Belgio",
+   "image": "",
+   "date": "2026-11-14T19:20:46.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/14/eurobasket-donne-litalia-batte-anche-laustria-71-49-a-vienna_ea08078c-ccd8-498a-b48b-4bee509d9610.html",
+   "title": "Eurobasket donne: l'Italia batte anche l'Austria, 71-49 a Vienna",
+   "summary": "Azzurre sempre avanti, Capobianco: 'Molto soddisfatto dell'approccio'",
+   "detail": "Azzurre sempre avanti, Capobianco: 'Molto soddisfatto dell'approccio'",
+   "image": "",
+   "date": "2026-11-14T19:15:38.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+   "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+   "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "detail": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
+   "date": "2026-11-14T19:12:25.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
+   "title": "Ucraina, Zelensky: 'Gli Usa ci propongono la Nato in cambio del Donbass'",
+   "summary": "La Russia chiede il ritorno dell'Alleanza ai confini del 1997",
+   "detail": "La Russia chiede il ritorno dell'Alleanza ai confini del 1997",
+   "image": "",
+   "date": "2026-11-14T19:08:16.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/scalvini-bello-essere-in-testa-al-girone-ci-da-la-carica_6fbc40e6-9f8d-4ab4-80fb-0bed31be8123.html",
+   "title": "Scalvini, 'bello essere in testa al girone, ci dà la carica'",
+   "summary": "Il difensore azzurro, avremo l'atteggiamento giusto contro il Belgio",
+   "detail": "Il difensore azzurro, avremo l'atteggiamento giusto contro il Belgio",
+   "image": "",
+   "date": "2026-11-14T18:54:17.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
+   "title": "Scontro tra due auto in galleria, cinque morti nel Cosentino",
+   "summary": "Morti tutti gli occupanti dei veicoli, l'impatto in una curva",
+   "detail": "Morti tutti gli occupanti dei veicoli, l'impatto in una curva",
+   "image": "",
+   "date": "2026-11-14T18:53:25.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/mancini-bello-giocarci-i-quarti-con-il-belgio-ma-gara-complicata_ed436b0b-ab95-4996-8a0a-8150c8a6b9ba.html",
+   "title": "Mancini 'bello giocarci i quarti con il Belgio, ma gara complicata'",
+   "summary": "Il ct azzurro alla vigilia del match: 'Non sarà facile, ma possiamo chiudere in testa'",
+   "detail": "Il ct azzurro alla vigilia del match: 'Non sarà facile, ma possiamo chiudere in testa'",
+   "image": "",
+   "date": "2026-11-14T18:33:40.000Z"
   },
   {
    "topic": "Mondo",
@@ -51,76 +205,87 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
    "title": "Italy fines Meta €805m over accessing users' photos",
-   "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
-   "detail": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+   "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+   "detail": "The social media giant is accused of not informing 20 million users it had access to their photos.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-   "date": "2026-11-14T16:29:48.000Z"
+   "date": "2026-11-14T18:28:06.000Z"
   },
   {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/14/coni-esposto-del-vicepresidente-di-paola-contro-taucer-ma-poi-lo-ritira_110a4107-7d57-49b2-b06f-932295eed18a.html",
-   "title": "Coni: esposto del vicepresidente Di Paola contro Taucer, ma poi lo ritira",
-   "summary": "Il n.1 degli sport equestri denuncia il Procuratore generale e fa retromarcia",
-   "detail": "Il n.1 degli sport equestri denuncia il Procuratore generale e fa retromarcia",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/il-giappone-batte-il-brasile-e-ancelotti-si-infuria-espulso_8e4f5eb2-5569-4c96-a70a-23f8881f9441.html",
+   "title": "Calcio: il Giappone batte il Brasile e Ancelotti si infuria, espulso",
+   "summary": "A Singapore finisce 3-2 con gol contestato dal tecnico, ma criticato in patria",
+   "detail": "A Singapore finisce 3-2 con gol contestato dal tecnico, ma criticato in patria",
    "image": "",
-   "date": "2026-11-14T16:24:43.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/bolelli-vavassori-ci-lasciamo-con-sorriso-gratitudine-e-rispetto_8fafa6bd-10fa-4f79-bd9d-7505e2097c92.html",
-   "title": "Bolelli-Vavassori 'ci lasciamo con sorriso, gratitudine e rispetto'",
-   "summary": "A Torino l'ultimo torneo Atp insieme: \"Nessuna causa personale, resta l'amicizia\"",
-   "detail": "A Torino l'ultimo torneo Atp insieme: \"Nessuna causa personale, resta l'amicizia\"",
-   "image": "",
-   "date": "2026-11-14T16:23:50.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/fritz-vince-a-stoccolma-battuto-in-tre-set-tirante_d4266bc9-6141-4545-a674-7cee8209b759.html",
-   "title": "Tennis: Fritz vince a Stoccolma, battuto in tre set Tirante",
-   "summary": "Per lo statunitense secondo titolo dell'anno, successo per 6-2 4-6 7-6",
-   "detail": "Per lo statunitense secondo titolo dell'anno, successo per 6-2 4-6 7-6",
-   "image": "",
-   "date": "2026-11-14T16:22:36.000Z"
+   "date": "2026-11-14T18:20:51.000Z"
   },
   {
    "topic": "Mondo",
    "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/prosegue-il-caos-nei-cieli-usa-soppressi-oggi-oltre-4.000-voli_d2a6ded1-a075-4399-8855-8bc69e436c24.html",
-   "title": "Prosegue il caos nei cieli Usa, soppressi oggi oltre 4.000 voli",
-   "summary": "Il segretario ai Trasporti Duffy : 'Tornati alla piena operatività'",
-   "detail": "Il segretario ai Trasporti Duffy : 'Tornati alla piena operatività'",
-   "image": "",
-   "date": "2026-11-14T16:20:03.000Z"
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+   "title": "Philippines wins first Eurovision Song Contest Asia",
+   "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+   "detail": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
+   "date": "2026-11-14T18:17:58.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/14/a-hazeltine-1420-lives-again/",
+   "title": "A Hazeltine 1420 Lives Again",
+   "summary": "There was a time when buying a computer also meant picking out a compatible terminal. There were many to choose from, some good and some bad. While we were partial …read more",
+   "detail": "There was a time when buying a computer also meant picking out a compatible terminal. There were many to choose from, some good and some bad. While we were partial …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/haze.png",
+   "date": "2026-11-14T18:00:19.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+   "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+   "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+   "detail": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+   "date": "2026-11-14T18:00:10.000Z"
   },
   {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/sinner-do-sempre-tutto-non-gioco-solo-per-me-stesso_fb3c1f12-b5fa-4223-b307-2a081fbb6ec1.html",
-   "title": "Sinner, 'do sempre tutto, non gioco solo per me stesso'",
-   "summary": "Ai ragazzi, i social sono importanti ma è più bello incontrare qualcuno",
-   "detail": "Ai ragazzi, i social sono importanti ma è più bello incontrare qualcuno",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/atp-finals-larissa-iapichino-porta-ai-bambini-i-valori-dello-sport_d0dde011-f67e-4f7c-9aee-4dd41bf97d5d.html",
+   "title": "Atp Finals, Larissa Iapichino porta ai bambini i valori dello sport",
+   "summary": "A Casa Tennis, è la protagonista del magazine a fumetti Athleticon Mag",
+   "detail": "A Casa Tennis, è la protagonista del magazine a fumetti Athleticon Mag",
    "image": "",
-   "date": "2026-11-14T16:00:32.000Z"
+   "date": "2026-11-14T17:45:55.000Z"
   },
   {
-   "topic": "Sport",
+   "topic": "Arte e cultura",
    "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/alle-atp-finals-di-torino-il-giorno-della-festa-dei-doppisti_85e29d4d-544a-4ca8-9f75-e69a3b82d82e.html",
-   "title": "Alle Atp Finals di Torino il giorno della festa dei doppisti",
-   "summary": "Oggi al Fan Village la tradizionale cerimonia di presentazione al pubblico",
-   "detail": "Oggi al Fan Village la tradizionale cerimonia di presentazione al pubblico",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/14/agli-efa-2027-testa-a-testa-tra-fatherland-e-la-bola-negra_8ba79f60-a74e-45c0-bfb0-0e956808da89.html",
+   "title": "Agli EFA 2027 testa a testa tra Fatherland e La bola negra",
+   "summary": "Premiazione il 16 gennaio ad Atene",
+   "detail": "Premiazione il 16 gennaio ad Atene",
    "image": "",
-   "date": "2026-11-14T15:57:27.000Z"
+   "date": "2026-11-14T17:36:47.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/14/orsini-la-manovra-momento-complicato-ci-aspettiamo-risposte_e7e1de2d-a227-4024-9594-d9523aab3ffe.html",
+   "title": "Confindustria convoca le Assise prima del voto. 'La politica ci ascolti'",
+   "summary": "Orsini chiama le imprese a raccolta, è la quinta volta nella storia degli industriali",
+   "detail": "Orsini chiama le imprese a raccolta, è la quinta volta nella storia degli industriali",
+   "image": "",
+   "date": "2026-11-14T17:00:03.000Z"
   },
   {
    "topic": "Spazio",
@@ -136,17 +301,6 @@
   {
    "topic": "Mondo",
    "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
-   "title": "Scontro tra due auto in galleria, cinque morti nel Cosentino",
-   "summary": "L'incidente è avvenuto sulla statale 107",
-   "detail": "L'incidente è avvenuto sulla statale 107",
-   "image": "",
-   "date": "2026-11-14T15:55:33.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -154,28 +308,6 @@
    "detail": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
    "date": "2026-11-14T15:53:55.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/sinner-a-torino-mai-avrei-pensato-di-arrivare-a-certi-livelli_52aef3e7-6242-424f-a889-4edcbba58268.html",
-   "title": "Sinner a Torino, mai avrei pensato di arrivare a certi livelli",
-   "summary": "Il campione azzurro: \"A 13 anni ho scelto il tennis, mi piaceva di più\"",
-   "detail": "Il campione azzurro: \"A 13 anni ho scelto il tennis, mi piaceva di più\"",
-   "image": "",
-   "date": "2026-11-14T15:52:13.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/la-moglie-di-de-bruyne-si-lamenta-a-napoli-non-puo-uscire_24ffdd88-8299-490a-b530-8eb5d05f5a26.html",
-   "title": "La moglie di De Bruyne si lamenta: 'A Napoli non può uscire'",
-   "summary": "Michelle in un'intervista: 'Ci diciamo che prima andiamo via meglio è'",
-   "detail": "Michelle in un'intervista: 'Ci diciamo che prima andiamo via meglio è'",
-   "image": "",
-   "date": "2026-11-14T15:46:53.000Z"
   },
   {
    "topic": "Mondo",
@@ -187,39 +319,6 @@
    "detail": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg",
    "date": "2026-11-14T15:42:54.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/zelensky-gli-usa-propongono-ladesione-alla-nato-in-cambio-della-cessione_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
-   "title": "Ucraina, Zelensky: 'Gli Usa propongono l'adesione alla Nato in cambio della cessione di territori'",
-   "summary": "Il presidente ucraino: 'Nel caso, dovrò affrontare la questione con l'opinione pubblica'",
-   "detail": "Il presidente ucraino: 'Nel caso, dovrò affrontare la questione con l'opinione pubblica'",
-   "image": "",
-   "date": "2026-11-14T15:30:48.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-   "detail": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-14T15:15:57.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/serie-a-gila-ho-attraversato-un-periodo-durissimo-e-ho-chiesto-aiuto-a-uno-psicologo_3b1d138b-5a72-47f0-ae94-d1236086a68a.html",
-   "title": "Serie A: Gila, 'ho attraversato un periodo durissimo e ho chiesto aiuto a uno psicologo'",
-   "summary": "Importante stare bene con se stessi per imparare da altri come Modric",
-   "detail": "Importante stare bene con se stessi per imparare da altri come Modric",
-   "image": "",
-   "date": "2026-11-14T15:10:54.000Z"
   },
   {
    "topic": "Economia",
@@ -288,17 +387,6 @@
    "date": "2026-11-14T14:53:00.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/atp-finals-alcaraz-e-i-complimenti-a-cobolli-merita-questo-torneo_c26f620b-5238-4d58-bddb-a354e50dfb66.html",
-   "title": "Atp Finals: Alcaraz e i complimenti a Cobolli 'merita questo torneo'",
-   "summary": "Il campione spagnolo: \"Siamo cresciuti insieme, aspetto di affrontarlo\"",
-   "detail": "Il campione spagnolo: \"Siamo cresciuti insieme, aspetto di affrontarlo\"",
-   "image": "",
-   "date": "2026-11-14T14:52:04.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "Space.com",
@@ -321,6 +409,17 @@
    "date": "2026-11-14T14:45:18.000Z"
   },
   {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/canale_motori/notizie/sicurezza/2026/10/27/cambio-gomme-dal-15-novembre-tempo-di-invernali_242ecc49-fa3e-4522-95ac-60eacbe5b17c.html",
+   "title": "Cambio gomme, dal 15 novembre tempo di invernali",
+   "summary": "Finestra di due mesi per sostituire le estive con le M+S",
+   "detail": "Finestra di due mesi per sostituire le estive con le M+S",
+   "image": "",
+   "date": "2026-11-14T14:36:07.000Z"
+  },
+  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -341,28 +440,6 @@
    "detail": "Carlo col fratello Luca al Festival del cinema europeo di Lecce",
    "image": "",
    "date": "2026-11-14T14:26:22.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "title": "What we know about the ground stop and what to do if you're affected",
-   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-   "detail": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-14T14:20:57.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-   "title": "Second catch attempt for SpaceX Starship rocket",
-   "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-   "detail": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-14T14:18:41.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -420,17 +497,6 @@
    "date": "2026-11-14T13:42:45.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/anziano-ucciso-durante-la-truffa-del-falso-carabiniere-due-fermi_5d3e1a2d-d519-4fe8-b10b-e866c55fbb82.html",
-   "title": "Anziano ucciso durante la truffa del falso carabiniere, due fermi",
-   "summary": "Un uomo di 92 anni aggredito in casa a Milano. Indagini hanno accertato che non era un malore",
-   "detail": "Un uomo di 92 anni aggredito in casa a Milano. Indagini hanno accertato che non era un malore",
-   "image": "",
-   "date": "2026-11-14T13:41:57.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "ANSA Economia",
@@ -440,17 +506,6 @@
    "detail": "A fronte di riduzione dei prezzi cresce allarme su olio prodotto con olive straniere",
    "image": "",
    "date": "2026-11-14T13:40:57.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/14/orsini-la-manovra-momento-complicato-ci-aspettiamo-risposte_e7e1de2d-a227-4024-9594-d9523aab3ffe.html",
-   "title": "Orsini: 'Con Superbonus in 10 anni a rischio la fiducia imprese-istituzioni'",
-   "summary": "Marcegaglia: 'La politica ascolti l'industria, lavoriamo insieme'",
-   "detail": "Marcegaglia: 'La politica ascolti l'industria, lavoriamo insieme'",
-   "image": "",
-   "date": "2026-11-14T13:36:03.000Z"
   },
   {
    "topic": "Economia",
@@ -519,6 +574,17 @@
    "date": "2026-11-14T12:25:05.000Z"
   },
   {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/donne/notizie/2026/11/14/women-the-city-il-gender-gap-passa-anche-dalla-casa-_a363623a-9d1b-4a45-9008-827575fb693b.html",
+   "title": "Women & the city, il gender gap passa anche dalla casa",
+   "summary": "Presentata a Torino la ricerca \"Abitare per le donne\"",
+   "detail": "Presentata a Torino la ricerca \"Abitare per le donne\"",
+   "image": "",
+   "date": "2026-11-14T12:23:13.000Z"
+  },
+  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -550,17 +616,6 @@
    "detail": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pain, muscle strength, and quality of life without damaging knee cartilage. The findings challenge fears that exercise worsens injured knees and could transform how patients recover from ACL reconstruction.",
    "image": "",
    "date": "2026-11-14T12:14:57.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/14/sara-zucchero-la-star-del-capodanno-2027-a-sassari_f3e06cc6-38de-4c61-9970-25f263530e6d.html",
-   "title": "Sarà Zucchero la star del Capodanno 2027 a Sassari",
-   "summary": "Appuntamento nel piazzale Segni per il 31 dicembre",
-   "detail": "Appuntamento nel piazzale Segni per il 31 dicembre",
-   "image": "",
-   "date": "2026-11-14T12:06:40.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -684,9 +739,9 @@
    "date": "2026-11-14T08:00:38.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Economia",
    "type": "notizia",
-   "source": "BBC News",
+   "source": "BBC Business",
    "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "title": "Microsoft says services fully restored after day-long global outage",
    "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
@@ -761,26 +816,15 @@
    "date": "2026-11-14T00:49:13.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/",
-   "title": "X Window System on the ESP32",
-   "summary": "There are a lot of things you can do with an Xserver, but run it on a microcontroller? Well, if that microcontroller is an ESP32-S3, [Sergey Zorin]– and Claude– have …read more",
-   "detail": "There are a lot of things you can do with an Xserver, but run it on a microcontroller? Well, if that microcontroller is an ESP32-S3, [Sergey Zorin]– and Claude– have …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/WoodlandX11_d196a1.jpg",
-   "date": "2026-11-14T00:00:18.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-   "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-   "detail": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
-   "date": "2026-11-13T23:40:45.000Z"
+   "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+   "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+   "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+   "detail": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
+   "date": "2026-11-14T00:03:52.000Z"
   },
   {
    "topic": "Spazio",
@@ -827,17 +871,6 @@
    "date": "2026-11-13T21:25:55.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/11/13/de-mitizzare-il-barolo-il-rosso-iconico-delle-langhe_6ca4e290-90ac-4aa5-aa55-00cdb17cf5b6.html",
-   "title": "De-mitizzare il barolo, il rosso iconico delle Langhe",
-   "summary": "Dalla prima bottiglia '1752' le nuove annate per leggere il tempo e il territorio",
-   "detail": "Dalla prima bottiglia '1752' le nuove annate per leggere il tempo e il territorio",
-   "image": "",
-   "date": "2026-11-13T21:24:26.000Z"
-  },
-  {
    "topic": "Tecnologia",
    "type": "notizia",
    "source": "Ars Technica",
@@ -847,17 +880,6 @@
    "detail": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
    "date": "2026-11-13T21:20:47.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/",
-   "title": "Using a Toothbrush’s NFC chip to Unlock a Computer",
-   "summary": "Depending on which type of electric toothbrush you are using, the replaceable brushes may contain an NFC chip that the handle and possibly base station uses to track various details, …read more",
-   "detail": "Depending on which type of electric toothbrush you are using, the replaceable brushes may contain an NFC chip that the handle and possibly base station uses to track various details, …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/toothbrush-snf-featured_d95783.jpg",
-   "date": "2026-11-13T21:00:24.000Z"
   },
   {
    "topic": "Spazio",
@@ -992,17 +1014,6 @@
    "date": "2026-11-13T18:14:46.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/canale_viaggi/regione/lombardia/2026/11/13/al-museo-maga-di-gallarate-i-corpi-esposti-di-jago_279491ca-c4b9-4b85-b51f-1733662044c7.html",
-   "title": "Al Museo Ma*Ga di Gallarate i 'Corpi esposti' di Jago",
-   "summary": "L'inedito 'For a Piece of Real Estate' raffigura un bambino avvolto in un sudario",
-   "detail": "L'inedito 'For a Piece of Real Estate' raffigura un bambino avvolto in un sudario",
-   "image": "",
-   "date": "2026-11-13T18:02:05.000Z"
-  },
-  {
    "topic": "Tecnologia",
    "type": "notizia",
    "source": "Ars Technica",
@@ -1023,17 +1034,6 @@
    "detail": "Out now, the record includes two covers of Arthur Russell’s “Boy With a Smile”",
    "image": "https://media.pitchfork.com/photos/6af72987829743962fb4ec21/master/pass/unnamed%20(71).jpg",
    "date": "2026-11-13T16:59:26.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-   "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-   "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-   "detail": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-13T16:40:31.000Z"
   },
   {
    "topic": "Spazio",
