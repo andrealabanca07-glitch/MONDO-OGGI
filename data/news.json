@@ -1,49 +1,148 @@
 {
- "updated": "2026-11-13T22:31:00.399Z",
+ "updated": "2026-11-14T03:04:28.096Z",
  "items": [
   {
-   "topic": "Storia",
+   "topic": "Spazio",
    "type": "curiosità",
-   "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Attentati_di_Parigi_del_13_novembre_2015",
-   "title": "2015: Una serie di attacchi terroristici a Parigi provocano oltre cento morti, la maggior parte…",
-   "summary": "Una serie di attacchi terroristici a Parigi provocano oltre cento morti, la maggior parte al Bataclan",
-   "detail": "Una serie di attacchi terroristici a Parigi provocano oltre cento morti, la maggior parte al Bataclan — Gli attentati di Parigi del 13 novembre 2015 furono una serie di attacchi terroristici di matrice islamista perpetrati da un commando armato collegato all'autoproclamato Stato Islamico comunemente noto come ISIS, autore della successiva rivendicazione.\nGli attacchi ebbero luogo nel I, X e XI arrondissement parigino e allo Stade de France di Saint-Denis, nel dipartimento di Senna-Saint-Denis, poco lontano dalla capitale francese.\nGli attentati furono messi in opera da almeno dieci esecutori tra uomini e donne, autori di tre esplosioni nei pressi dello stadio e di sei sparatorie in diversi luoghi pubblici di Parigi, la più sanguinosa delle quali presso il teatro Bataclan, in cui rimasero uccise 90 persone.",
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/13_November_2015_Paris_attacks_-_montage.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-13T22:30:59.897Z"
+   "source": "NASA · Foto del giorno",
+   "url": "https://apod.nasa.gov/apod/astropix.html",
+   "title": "NASA Science",
+   "summary": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the…",
+   "detail": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.Tomorrow's picture: pixels on the Moon\t\t\t\t\t\t",
+   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+   "date": "2026-11-14T03:04:28.095Z"
   },
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/World_Wide_Web",
-   "title": "1990: Viene scritta la prima pagina conosciuta del World Wide Web.",
-   "summary": "Viene scritta la prima pagina conosciuta del World Wide Web.",
-   "detail": "Viene scritta la prima pagina conosciuta del World Wide Web. — Il World Wide Web, abbreviato web, WWW o W3, è uno dei principali servizi di Internet, che permette di navigare e usufruire di un insieme molto vasto di contenuti, multimediali e non, interrelati tramite collegamenti ipertestuali (link), e di fruire di ulteriori servizi accessibili a tutti o ad una parte selezionata degli utenti di Internet. Questa facile reperibilità di informazioni è resa possibile, oltre che dai protocolli di rete, anche dalla presenza, diffusione, facilità d'uso ed efficienza dei motori di ricerca e dei web browser in un modello di architettura di rete definito client-server.",
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_World_Wide_Web_project_-_Conkeror.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-13T22:30:59.897Z"
+   "url": "https://it.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa",
+   "title": "1982: Lech Wałęsa, capo del fuorilegge movimento polacco Solidarność, viene rilasciato dopo…",
+   "summary": "Lech Wałęsa, capo del fuorilegge movimento polacco Solidarność, viene rilasciato dopo undici mesi di internamento.",
+   "detail": "Lech Wałęsa, capo del fuorilegge movimento polacco Solidarność, viene rilasciato dopo undici mesi di internamento. — Lech Wałęsa è un sindacalista, politico e attivista polacco.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-14T03:04:27.450Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Storia",
+   "type": "curiosità",
+   "source": "Wikipedia · Accadde oggi",
+   "url": "https://it.wikipedia.org/wiki/BBC",
+   "title": "1922: La BBC inizia le trasmissioni radio nel Regno Unito.",
+   "summary": "La BBC inizia le trasmissioni radio nel Regno Unito.",
+   "detail": "La BBC inizia le trasmissioni radio nel Regno Unito. — La BBC è la società concessionaria britannica in esclusiva del servizio pubblico radiotelevisivo nel Regno Unito ed è il più grande editore radiotelevisivo della nazione, con sede principale negli storici studi di Broadcasting House a Westminster, Londra.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/BBCBroadcastingHouse.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-14T03:04:27.450Z"
+  },
+  {
+   "topic": "Sport",
    "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/traffico-aereo-bloccato-in-tutti-gli-stati-uniti.-escluso-per-ora_b5ee5d87-e55e-4312-9c02-6297ce3e99d9.html",
-   "title": "Traffico aereo bloccato in tutti gli Stati Uniti. Escluso per ora un attacco cyber",
-   "summary": "Media, misura adotta una sola volta dopo l'11 Settembre. 'Problemi alle comunicazioni'",
-   "detail": "Media, misura adotta una sola volta dopo l'11 Settembre. 'Problemi alle comunicazioni'",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/tennis-sabalenka-eliminata-nella-fase-a-gironi-delle-wta-finals-indian_aa915780-925d-4002-9654-6f679f765731.html",
+   "title": "Tennis: Sabalenka eliminata nella fase a gironi delle WTA Finals Indian Wells da Svitolina",
+   "summary": "Stagione amara per la bielorussa dopo le sconfitte agli Australian Open e US Open",
+   "detail": "Stagione amara per la bielorussa dopo le sconfitte agli Australian Open e US Open",
    "image": "",
-   "date": "2026-11-13T22:25:45.000Z"
+   "date": "2026-11-14T02:20:24.000Z"
   },
   {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giustae_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
-   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'e",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/revocato-il-blocco-dei-voli-negli-stati-uniti-decine-di-migliaia-di-passeggeri_d2a6ded1-a075-4399-8855-8bc69e436c24.html",
+   "title": "Revocato il blocco dei voli negli Stati Uniti, 'decine di migliaia di passeggeri bloccati'",
+   "summary": "Dopo lo stop disposto dall'Authority dei trasporti per motivi di sicurezza",
+   "detail": "Dopo lo stop disposto dall'Authority dei trasporti per motivi di sicurezza",
+   "image": "",
+   "date": "2026-11-14T02:12:46.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+   "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+   "summary": "One way or another, the company will get some more data on Saturday.",
+   "detail": "One way or another, the company will get some more data on Saturday.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
+   "date": "2026-11-14T00:49:13.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_5cbbf8a4-fed1-4d94-826a-eb8148cd6b4e.html",
+   "title": "Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen",
+   "summary": "Lo comunica la Casa Bianca. A margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
+   "detail": "Lo comunica la Casa Bianca. A margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
+   "image": "",
+   "date": "2026-11-14T00:41:48.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "title": "Setback for SpaceX Starship rocket's double-catch test",
+   "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+   "detail": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+   "date": "2026-11-14T00:01:01.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/",
+   "title": "X Window System on the ESP32",
+   "summary": "There are a lot of things you can do with an Xserver, but run it on a microcontroller? Well, if that microcontroller is an ESP32-S3, [Sergey Zorin]– and Claude– have …read more",
+   "detail": "There are a lot of things you can do with an Xserver, but run it on a microcontroller? Well, if that microcontroller is an ESP32-S3, [Sergey Zorin]– and Claude– have …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/WoodlandX11_d196a1.jpg",
+   "date": "2026-11-14T00:00:18.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+   "detail": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+   "date": "2026-11-13T23:40:45.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+   "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
+   "summary": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch site.",
+   "detail": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch site.",
+   "image": "https://cdn.mos.cms.futurecdn.net/uCdUUu68WhwxWsXFvArEZS-1920-80.jpg",
+   "date": "2026-11-13T23:20:03.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+   "title": "FAA orders third nationwide ground stop in its history",
+   "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+   "detail": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
+   "date": "2026-11-13T23:17:38.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
+   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'",
    "summary": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
    "detail": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
    "image": "",
-   "date": "2026-11-13T22:12:35.000Z"
+   "date": "2026-11-13T22:32:12.000Z"
   },
   {
    "topic": "Sport",
@@ -116,7 +215,7 @@
    "type": "notizia",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
    "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
    "detail": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
@@ -288,17 +387,6 @@
    "date": "2026-11-13T19:36:30.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/allarmi-bomba-la-circolare-del-viminale-inattendibili-le-minacce-con-mail-bombing_ca1d2b9c-c7e2-4e00-afb9-6dccb59191fb.html",
-   "title": "Allarmi bomba, la circolare del Viminale: 'Inattendibili le minacce con mail bombing'",
-   "summary": "Tra i parametri per evacuare il ritrovamento oggetti sospetti o precedenti minacce",
-   "detail": "Tra i parametri per evacuare il ritrovamento oggetti sospetti o precedenti minacce",
-   "image": "",
-   "date": "2026-11-13T19:35:12.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "Hackaday",
@@ -352,17 +440,6 @@
    "detail": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
    "date": "2026-11-13T19:03:10.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/13/alcaraz-sollevare-trofeo-delle-finals-e-un-grande-obiettivo-per-me_2e27f12d-ce68-42cf-ac12-bb069b7a47f8.html",
-   "title": "Alcaraz, sollevare trofeo delle Finals è un grande obiettivo per me",
-   "summary": "\"Mi sono allenato molto, sto bene e sono pronto\", afferma lo spagnolo",
-   "detail": "\"Mi sono allenato molto, sto bene e sono pronto\", afferma lo spagnolo",
-   "image": "",
-   "date": "2026-11-13T19:00:54.000Z"
   },
   {
    "topic": "Elettronica",
@@ -849,17 +926,6 @@
    "date": "2026-11-13T15:00:26.000Z"
   },
   {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review",
-   "title": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review",
-   "summary": "Celestron’s StarSense Explorer tech makes this 150mm Dobsonian so easy to operate — but its tabletop design makes me wonder whether beginners should go bigger.",
-   "detail": "Celestron’s StarSense Explorer tech makes this 150mm Dobsonian so easy to operate — but its tabletop design makes me wonder whether beginners should go bigger.",
-   "image": "https://cdn.mos.cms.futurecdn.net/n8CuApNZ4LyAmmJHMQVsL3-1920-80.jpg",
-   "date": "2026-11-13T15:00:00.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -871,28 +937,6 @@
    "date": "2026-11-13T14:59:02.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
-   "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-   "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
-   "detail": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg",
-   "date": "2026-11-13T14:45:04.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
-   "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
-   "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
-   "detail": "Climate action has stalled for five years as fossil fuel development keeps growing.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg",
-   "date": "2026-11-13T14:29:15.000Z"
-  },
-  {
    "topic": "Salute",
    "type": "notizia",
    "source": "BBC Health",
@@ -902,17 +946,6 @@
    "detail": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/84f9/live/ddcb76c0-df51-11f1-8364-2717a13d3b08.jpg",
    "date": "2026-11-13T13:41:25.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-   "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-   "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-   "detail": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg",
-   "date": "2026-11-13T13:11:23.000Z"
   },
   {
    "topic": "Scienza",
@@ -1003,17 +1036,6 @@
    "date": "2026-11-13T11:43:27.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-   "title": "Rosalía scoops historic third best album award at Latin Grammys",
-   "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
-   "detail": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/09dd/live/69ef2110-df6b-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-13T11:38:54.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "IEEE Spectrum",
@@ -1045,17 +1067,6 @@
    "detail": "Nixie clocks have become popular enough that these days there’s no shortage of turn-key options that let you experience that warm glow with a minimum of fuss. Many still come …read more",
    "image": "https://hackaday.com/wp-content/uploads/2026/11/nixiebus_feat.jpg",
    "date": "2026-11-13T09:00:23.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/",
-   "title": "A Desktop OS for the ESP32-P4",
-   "summary": "The ESP32-P4 is Espressif’s high-end application processor, with two blistering fast RISC-V cores for a surprisingly reasonable price. As it’s a very capable computer in its own right, there have…",
-   "detail": "The ESP32-P4 is Espressif’s high-end application processor, with two blistering fast RISC-V cores for a surprisingly reasonable price. As it’s a very capable computer in its own right, there have …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/bmds-featured.jpg",
-   "date": "2026-11-13T06:00:58.000Z"
   },
   {
    "topic": "Spazio",
