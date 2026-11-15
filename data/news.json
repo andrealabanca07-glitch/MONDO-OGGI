@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:46:52.320Z",
+ "updated": "2026-11-15T09:12:22.224Z",
  "items": [
   {
    "topic": "Storia",
@@ -10,7 +10,7 @@
    "summary": "La Intel mette in vendita il 4004, il primo microprocessore del mondo.",
    "detail": "La Intel mette in vendita il 4004, il primo microprocessore del mondo. — Intel Corporation, è un'azienda statunitense attiva nella progettazione e produzione di semiconduttori, con sede a Santa Clara, in California. Fondata nel 1968 da Robert Noyce e Gordon Moore, ha avuto un ruolo rilevante nello sviluppo dell'industria dei microprocessori, in particolare attraverso l'architettura x86, divenuta uno standard nei personal computer e nei server.",
    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/2200missioncollegeblvd.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-15T01:46:52.318Z"
+   "date": "2026-11-15T09:12:19.670Z"
   },
   {
    "topic": "Storia",
@@ -21,7 +21,216 @@
    "summary": "Il Gran consiglio del fascismo diventa istituzione a livello costituzionale.",
    "detail": "Il Gran consiglio del fascismo diventa istituzione a livello costituzionale. — Il Gran consiglio del fascismo fu il massimo organo del Partito Nazionale Fascista e, in seguito, anche il massimo organo costituzionale del Regno d'Italia.",
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Lesser_coat_of_arms_of_the_Kingdom_of_Italy_%281929-1943%29.svg/langit-1920px-Lesser_coat_of_arms_of_the_Kingdom_of_Italy_%281929-1943%29.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-15T01:46:52.318Z"
+   "date": "2026-11-15T09:12:19.670Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/15/bitcoin-scende-a-62.000-dollari-tocca-i-minimi-da-4-mesi_29642167-4c39-40cf-9461-942d78d582a3.html",
+   "title": "Bitcoin scende a 62.000 dollari, tocca i minimi da 4 mesi",
+   "summary": "Vendite su tutte le criptovalute. In una settimana Ether ha perso il 22%",
+   "detail": "Vendite su tutte le criptovalute. In una settimana Ether ha perso il 22%",
+   "image": "",
+   "date": "2026-11-15T08:41:58.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/15/scende-ancora-il-prezzo-dei-carburanti-benzina-a-1959-euro-al-litro_6844ad99-26c0-439e-baf9-f42a52e594aa.html",
+   "title": "Scende ancora il prezzo dei carburanti, benzina a 1,959 euro al litro",
+   "summary": "Mimit, in media 2,209 euro al litro per il gasolio",
+   "detail": "Mimit, in media 2,209 euro al litro per il gasolio",
+   "image": "",
+   "date": "2026-11-15T08:26:38.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+   "detail": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-15T08:17:41.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/mosca-abbattuti-533-droni-ucraini-nella-notte-su-diverse-regioni-russe_b2d35761-af9c-44dd-964c-e157cfba1464.html",
+   "title": "Mosca: abbattuti 533 droni ucraini nella notte su diverse regioni russe",
+   "summary": "Kiev: 132 droni russi nella notte contro l'Ucraina, intercettati 106'",
+   "detail": "Kiev: 132 droni russi nella notte contro l'Ucraina, intercettati 106'",
+   "image": "",
+   "date": "2026-11-15T08:09:59.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+   "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+   "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "detail": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-15T07:10:31.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/",
+   "title": "Bringing a Cloud Based Monitor Home",
+   "summary": "When setting up to grow plants hydroponically, it’s important to keep an eye on the numbers, temperature, pH, and electrical conductivity, to name a few. To do this, [Joziti] bought …read more",
+   "detail": "When setting up to grow plants hydroponically, it’s important to keep an eye on the numbers, temperature, pH, and electrical conductivity, to name a few. To do this, [Joziti] bought …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/05-feather-installed-banner.png",
+   "date": "2026-11-15T06:00:02.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/15/wta-finals-errani-e-paolini-volano-in-finale-battute-guo-e-mladenovic_a6a4dc9e-0d3c-40e8-9cb9-1d71a585294e.html",
+   "title": "Wta Finals: Errani e Paolini volano in finale, battute Guo e Mladenovic",
+   "summary": "Incontreranno Katerina Siniakova e Taylor Townsend",
+   "detail": "Incontreranno Katerina Siniakova e Taylor Townsend",
+   "image": "",
+   "date": "2026-11-15T05:26:13.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/wta-finals-sabalenka-si-scusa-per-lo-sfogo-dopo-la-sconfitta-contro-svitolina_942ad042-342e-4fe5-ab0f-98302a180bf6.html",
+   "title": "Wta Finals: Sabalenka si scusa per lo sfogo dopo la sconfitta contro Svitolina",
+   "summary": "'Commento non era rivolto a Elina avrei dovuto gestire diversamente la mia frustrazione'",
+   "detail": "'Commento non era rivolto a Elina avrei dovuto gestire diversamente la mia frustrazione'",
+   "image": "",
+   "date": "2026-11-15T05:25:18.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+   "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+   "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory…",
+   "detail": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
+   "image": "",
+   "date": "2026-11-15T04:31:56.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-sabato-negli-usa-6.500-voli-oggi-almeno-altri-760_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
+   "title": "Cancellati sabato negli Usa 6.500 voli, oggi almeno altri 760",
+   "summary": "Proseguono i disagi dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
+   "detail": "Proseguono i disagi dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
+   "image": "",
+   "date": "2026-11-15T03:58:02.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+   "title": "Scientists discover a bizarre paradox among endangered penguins",
+   "summary": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand's endangered Erect-crested penguins. While one population has remained stable for decades, another has declined…",
+   "detail": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand's endangered Erect-crested penguins. While one population has remained stable for decades, another has declined by more than 40%, apparently due to a combination of predators, worsening storms, and changing ocean conditions. Even more surprisingly, the tiny Bounty Islands support nearly as many breeding pairs as the Antipodes Islands, despite being 40 times smaller.",
+   "image": "",
+   "date": "2026-11-15T03:42:52.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/wta-finals-errani-e-paolini-volano-in-finale-battute-guo-e-mladenovic_d9f68f59-c5a5-430e-a4ec-de62139e0289.html",
+   "title": "++ Wta Finals: Errani e Paolini volano in finale, battute Guo e Mladenovic ++",
+   "summary": "++ Wta Finals: Errani e Paolini volano in finale, battute Guo e Mladenovic ++",
+   "detail": "++ Wta Finals: Errani e Paolini volano in finale, battute Guo e Mladenovic ++",
+   "image": "",
+   "date": "2026-11-15T03:36:19.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+   "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+   "detail": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-15T03:21:04.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+   "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+   "summary": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered…",
+   "detail": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrients originating in the sea. The findings reveal that marine resources traveled through ancient food chains, supplementing the diets of everything from plant-eating dinosaurs to predators.",
+   "image": "",
+   "date": "2026-11-15T03:00:54.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/14/rpn-loved-honk-if-or-write-your-own-postscript-interpreter/",
+   "title": "RPN Loved Honk If (or, Write Your Own PostScript Interpreter)",
+   "summary": "Maybe you like old laser printers. Maybe you were a fan of [Don Lancaster]. Maybe you like Forth, HP calculators, and everything RPN. Whichever it is, why not write your …read more",
+   "detail": "Maybe you like old laser printers. Maybe you were a fan of [Don Lancaster]. Maybe you like Forth, HP calculators, and everything RPN. Whichever it is, why not write your …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/post.png",
+   "date": "2026-11-15T03:00:49.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+   "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+   "detail": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+   "date": "2026-11-15T02:49:45.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+   "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+   "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced…",
+   "detail": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
+   "image": "",
+   "date": "2026-11-15T02:18:16.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+   "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+   "summary": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years…",
+   "detail": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
+   "image": "",
+   "date": "2026-11-15T01:52:47.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+   "title": "AI discovers a hidden heart signal that could predict sudden death",
+   "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods,…",
+   "detail": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might otherwise miss.",
+   "image": "",
+   "date": "2026-11-15T01:05:10.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -79,17 +288,6 @@
    "date": "2026-11-14T23:15:17.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/dopo-il-caos-nei-cieli-usa-verso-la-piena-operativita.-ma-si-contano-i-danni_9772e753-260a-465a-b775-0399c068f3c9.html",
-   "title": "Dopo il caos nei cieli, Usa verso la 'piena operatività'. Ma si contano i danni",
-   "summary": "Il blocco ha coinvolto quasi un milione e trecentomila persone",
-   "detail": "Il blocco ha coinvolto quasi un milione e trecentomila persone",
-   "image": "",
-   "date": "2026-11-14T23:09:02.000Z"
-  },
-  {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
@@ -145,17 +343,6 @@
    "date": "2026-11-14T21:54:12.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
-   "title": "Ucraina, Zelensky: 'Gli Usa ci propongono la Nato in cambio del Donbass'",
-   "summary": "La Russia chiede il ritorno dell'Alleanza ai confini del 1997",
-   "detail": "La Russia chiede il ritorno dell'Alleanza ai confini del 1997",
-   "image": "",
-   "date": "2026-11-14T21:36:22.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "Hackaday",
@@ -209,50 +396,6 @@
    "detail": "Gli Azzurri però perdono anche Cambiaghi. Scalvini: 'Essere in testa ci dà la spinta'",
    "image": "",
    "date": "2026-11-14T19:29:11.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/14/calcio-camarda-e-gli-altri-lunder-21-continua-a-crescere_515bcef7-3f19-4d97-98a9-b4890e8fc933.html",
-   "title": "Calcio: Camarda e gli altri, l'Under 21 continua a crescere",
-   "summary": "Il gruppo di Baldini a segno anche in amichevole: battuta la Francia lunedì c'è il Belgio",
-   "detail": "Il gruppo di Baldini a segno anche in amichevole: battuta la Francia lunedì c'è il Belgio",
-   "image": "",
-   "date": "2026-11-14T19:20:46.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/14/eurobasket-donne-litalia-batte-anche-laustria-71-49-a-vienna_ea08078c-ccd8-498a-b48b-4bee509d9610.html",
-   "title": "Eurobasket donne: l'Italia batte anche l'Austria, 71-49 a Vienna",
-   "summary": "Azzurre sempre avanti, Capobianco: 'Molto soddisfatto dell'approccio'",
-   "detail": "Azzurre sempre avanti, Capobianco: 'Molto soddisfatto dell'approccio'",
-   "image": "",
-   "date": "2026-11-14T19:15:38.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-   "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-   "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-   "detail": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
-   "date": "2026-11-14T19:12:25.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/scalvini-bello-essere-in-testa-al-girone-ci-da-la-carica_6fbc40e6-9f8d-4ab4-80fb-0bed31be8123.html",
-   "title": "Scalvini, 'bello essere in testa al girone, ci dà la carica'",
-   "summary": "Il difensore azzurro, avremo l'atteggiamento giusto contro il Belgio",
-   "detail": "Il difensore azzurro, avremo l'atteggiamento giusto contro il Belgio",
-   "image": "",
-   "date": "2026-11-14T18:54:17.000Z"
   },
   {
    "topic": "Mondo",
@@ -341,17 +484,6 @@
    "detail": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
    "date": "2026-11-14T15:53:55.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-   "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-   "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-   "detail": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg",
-   "date": "2026-11-14T15:42:54.000Z"
   },
   {
    "topic": "Economia",
@@ -596,17 +728,6 @@
    "date": "2026-11-14T12:35:36.000Z"
   },
   {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
-   "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-   "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional…",
-   "detail": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
-   "image": "",
-   "date": "2026-11-14T12:25:05.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -638,17 +759,6 @@
    "detail": "Radiation and collisions reshape the planetary building materials.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
    "date": "2026-11-14T12:15:48.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm",
-   "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
-   "summary": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised…",
-   "detail": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pain, muscle strength, and quality of life without damaging knee cartilage. The findings challenge fears that exercise worsens injured knees and could transform how patients recover from ACL reconstruction.",
-   "image": "",
-   "date": "2026-11-14T12:14:57.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -684,17 +794,6 @@
    "date": "2026-11-14T11:58:42.000Z"
   },
   {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112025544.htm",
-   "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
-   "summary": "Scientists have developed an efficient method to transform used coffee grounds into a potential source of biodiesel while preserving the leftover material for other renewable fuels and valuable…",
-   "detail": "Scientists have developed an efficient method to transform used coffee grounds into a potential source of biodiesel while preserving the leftover material for other renewable fuels and valuable chemicals. The discovery could turn millions of tons of discarded coffee waste into a surprisingly useful resource for sustainable energy.",
-   "image": "",
-   "date": "2026-11-14T11:42:28.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "Space.com",
@@ -704,17 +803,6 @@
    "detail": "The red planet Mars will shine a little over 1 degree from Jupiter on the night of Nov. 15-16.",
    "image": "https://cdn.mos.cms.futurecdn.net/eTx9CqSdHCrZHuxLJAGrKP-1920-80.jpg",
    "date": "2026-11-14T11:00:00.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-   "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-   "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-   "detail": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
-   "date": "2026-11-14T10:42:20.000Z"
   },
   {
    "topic": "Economia",
@@ -728,50 +816,6 @@
    "date": "2026-11-14T10:40:09.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/videogallery/short_video/2026/11/14/il-racconto-della-settimana-in-immagini_46228ea5-b49d-4f7a-bb8b-570c9bb70b47.html",
-   "title": "Il racconto della settimana in immagini",
-   "summary": "Il racconto della settimana in immagini",
-   "detail": "Il racconto della settimana in immagini",
-   "image": "",
-   "date": "2026-11-14T09:47:15.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/",
-   "title": "Making CO₂ Sensors Fail Visibly, Not Silently",
-   "summary": "CO₂ buildup in a living area can be a serious problem, and a sensor that fails quietly cannot be relied upon. [William Collis] addressed this important issue by creating CO₂ monitors …read more",
-   "detail": "CO₂ buildup in a living area can be a serious problem, and a sensor that fails quietly cannot be relied upon. [William Collis] addressed this important issue by creating CO₂ monitors …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/CO2-sensors.png",
-   "date": "2026-11-14T09:00:43.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/14/cgia-dallinizio-della-guerra-usa-iran-linflazione-e-stata-del-44_cc3b6e9a-d511-406b-b6a1-6311dea1643d.html",
-   "title": "Cgia, dall'inizio della guerra Usa-Iran l'inflazione è stata del +4,4%",
-   "summary": "A crescere soprattutto energia e gas, auto e bus, cellulari e servizi alloggio",
-   "detail": "A crescere soprattutto energia e gas, auto e bus, cellulari e servizi alloggio",
-   "image": "",
-   "date": "2026-11-14T08:57:24.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/14/al-via-a-genova-best-summit-di-blue-media-dedicato-alla-economia-del_15b2ad07-26d9-4bc8-be27-03a48405f4e3.html",
-   "title": "Al via a Genova Best, summit di Blue Media dedicato alla economia del mare",
-   "summary": "Dal 16 al 19 novembre oltre 30 sessioni tra armatori, istituzioni e centri ricerca",
-   "detail": "Dal 16 al 19 novembre oltre 30 sessioni tra armatori, istituzioni e centri ricerca",
-   "image": "",
-   "date": "2026-11-14T08:00:38.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "BBC Business",
@@ -781,17 +825,6 @@
    "detail": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
    "date": "2026-11-14T06:42:27.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/",
-   "title": "ESP32 Flight Tracker on Apple CRT",
-   "summary": "It can show you an image of the plane, but it’s not exactly high-def. \" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/11/ESP32-CRT-flightracker1.jpeg?w=800\" /> Sometimes we’re most…",
-   "detail": "It can show you an image of the plane, but it’s not exactly high-def. \" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/11/ESP32-CRT-flightracker1.jpeg?w=800\" /> Sometimes we’re most taken by what’s on the screen; sometimes the screen itself is the most interesting part of the project. In this case, it’s the latter. That’s no slight …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/ESP32-CRT-flightracker1.jpeg",
-   "date": "2026-11-14T06:00:58.000Z"
   },
   {
    "topic": "Scienza",
@@ -805,28 +838,6 @@
    "date": "2026-11-14T04:26:12.000Z"
   },
   {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
-   "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
-   "summary": "A 5,000-year-old mystery surrounding the tombs of Egypt’s first kings has taken a disturbing turn. Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in…",
-   "detail": "A 5,000-year-old mystery surrounding the tombs of Egypt’s first kings has taken a disturbing turn. Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at least 39% of those studied may have been deliberately killed. The findings support a century-old theory that royal attendants were sacrificed when kings died, possibly to serve them in the afterlife.",
-   "image": "",
-   "date": "2026-11-14T02:59:05.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112025536.htm",
-   "title": "Forcing yourself to smile can actually make you miserable",
-   "summary": "Smiling may not always make you happier, and new research suggests that forcing yourself to smile repeatedly could actually make you feel worse. In a University of Florida study involving more than…",
-   "detail": "Smiling may not always make you happier, and new research suggests that forcing yourself to smile repeatedly could actually make you feel worse. In a University of Florida study involving more than 1,100 participants, researchers discovered that while a single artificial smile can provide a small mood boost, repeatedly faking smiles can erase that benefit or even reverse it.",
-   "image": "",
-   "date": "2026-11-14T01:50:58.000Z"
-  },
-  {
    "topic": "Tecnologia",
    "type": "notizia",
    "source": "Ars Technica",
@@ -836,17 +847,6 @@
    "detail": "One way or another, the company will get some more data on Saturday.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
    "date": "2026-11-14T00:49:13.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-   "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-   "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-   "detail": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
-   "date": "2026-11-14T00:03:52.000Z"
   },
   {
    "topic": "Spazio",
@@ -951,11 +951,11 @@
    "topic": "Spazio",
    "type": "notizia",
    "source": "Space.com",
-   "url": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
-   "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
-   "summary": "How the 'Dune' director turned a little-known short story into one of the best sci-fi movies of the 21st century",
-   "detail": "How the 'Dune' director turned a little-known short story into one of the best sci-fi movies of the 21st century",
-   "image": "https://cdn.mos.cms.futurecdn.net/4ef9VxduTz3dPiQsVoPLBo-1920-80.jpg",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+   "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
+   "summary": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
+   "detail": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
+   "image": "https://cdn.mos.cms.futurecdn.net/R7TryzciM4KTsiDuMSDHDM-1920-80.jpg",
    "date": "2026-11-13T20:00:00.000Z"
   },
   {
@@ -1265,17 +1265,6 @@
    "detail": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
    "date": "2026-11-13T00:13:35.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
-   "title": "A surprising brain difference may explain why some kids struggle with math",
-   "summary": "Stanford researchers have discovered that children who struggle persistently with math may have underlying differences in how their brains manage problem-solving strategies. Children with…",
-   "detail": "Stanford researchers have discovered that children who struggle persistently with math may have underlying differences in how their brains manage problem-solving strategies. Children with developmental dyscalculia were slower to switch strategies, less responsive to changes in difficulty, and less able to improve their approach over time. Distinct patterns of brain activity were linked to these difficulties and could even predict certain math-related abilities.",
-   "image": "",
-   "date": "2026-11-12T23:33:12.000Z"
   },
   {
    "topic": "Musica",
