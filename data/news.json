@@ -1,49 +1,291 @@
 {
- "updated": "2026-11-15T21:41:13.731Z",
+ "updated": "2026-11-16T01:53:10.421Z",
  "items": [
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Intel",
-   "title": "1971: La Intel mette in vendita il 4004, il primo microprocessore del mondo.",
-   "summary": "La Intel mette in vendita il 4004, il primo microprocessore del mondo.",
-   "detail": "La Intel mette in vendita il 4004, il primo microprocessore del mondo. — Intel Corporation, è un'azienda statunitense attiva nella progettazione e produzione di semiconduttori, con sede a Santa Clara, in California. Fondata nel 1968 da Robert Noyce e Gordon Moore, ha avuto un ruolo rilevante nello sviluppo dell'industria dei microprocessori, in particolare attraverso l'architettura x86, divenuta uno standard nei personal computer e nei server.",
-   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/2200missioncollegeblvd.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-15T21:41:11.019Z"
+   "url": "https://it.wikipedia.org/wiki/Boeing_X-43",
+   "title": "2004: Un Boeing X-43 della NASA stabilisce il nuovo record di velocità per un aereo: 11.200…",
+   "summary": "Un Boeing X-43 della NASA stabilisce il nuovo record di velocità per un aereo: 11.200 km/h.",
+   "detail": "Un Boeing X-43 della NASA stabilisce il nuovo record di velocità per un aereo: 11.200 km/h. — Il Boeing X-43 è un aereo ipersonico, sperimentale, senza pilota, un dimostratore tecnologico con varianti pianificate in diverse dimensioni per testare i vari aspetti del volo supersonico ad alte prestazioni.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/X-43_NASA.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-16T01:53:09.849Z"
   },
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Gran_consiglio_del_fascismo",
-   "title": "1928: Il Gran consiglio del fascismo diventa istituzione a livello costituzionale.",
-   "summary": "Il Gran consiglio del fascismo diventa istituzione a livello costituzionale.",
-   "detail": "Il Gran consiglio del fascismo diventa istituzione a livello costituzionale. — Il Gran consiglio del fascismo fu il massimo organo del Partito Nazionale Fascista e, in seguito, anche il massimo organo costituzionale del Regno d'Italia.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Lesser_coat_of_arms_of_the_Kingdom_of_Italy_%281929-1943%29.svg/langit-1920px-Lesser_coat_of_arms_of_the_Kingdom_of_Italy_%281929-1943%29.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-15T21:41:11.019Z"
+   "url": "https://it.wikipedia.org/wiki/Riserva_federale",
+   "title": "1914: La Federal Reserve degli Stati Uniti d'America inizia l'attività.",
+   "summary": "La Federal Reserve degli Stati Uniti d'America inizia l'attività.",
+   "detail": "La Federal Reserve degli Stati Uniti d'America inizia l'attività. — La Riserva federale è la banca centrale degli Stati Uniti d'America.",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_Federal_Reserve_System.svg/langit-250px-Seal_of_the_United_States_Federal_Reserve_System.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "date": "2026-11-16T01:53:09.849Z"
   },
   {
    "topic": "Mondo",
    "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-in-campo-belgio-italia-4-1-diretta_c9e4e2b8-d8e7-489f-8d65-615b5bb7a7a4.html",
-   "title": "Nations League: in campo Belgio-Italia 4-1 DIRETTA",
-   "summary": "Rete di Pio Esposito, poi De Cuyper, Ngoy, Doku e Moreira",
-   "detail": "Rete di Pio Esposito, poi De Cuyper, Ngoy, Doku e Moreira",
-   "image": "",
-   "date": "2026-11-15T21:28:41.000Z"
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "detail": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-16T01:47:57.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+   "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+   "detail": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
+   "date": "2026-11-16T01:05:44.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+   "title": "Black Friday and tax return scams - don't fall for these",
+   "summary": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+   "detail": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ab33/live/9ed5ff60-dea9-11f1-98eb-79ee6ea9ba56.jpg",
+   "date": "2026-11-16T00:50:39.000Z"
   },
   {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-ben-shelton-nuovo-record-servizio-a-239-kmh_cb0c3282-7df5-4292-9c29-c36fc3b5a9e6.html",
-   "title": "Atp Finals: Ben Shelton nuovo record, servizio a 239 km/h",
-   "summary": "Superato il primato dell'anno scorso a 235 km/h",
-   "detail": "Superato il primato dell'anno scorso a 235 km/h",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/16/wta-finals-errani-paoloini-ko-nella-finale-di-indian-wells_a5557029-d8e4-45c6-8989-04ea4c29f4a7.html",
+   "title": "Errani-Paoloini ko nella finale di Indian Wells",
+   "summary": "Le azzurre hanno perso 6-4,6-3 contro Siniakova e Townsend",
+   "detail": "Le azzurre hanno perso 6-4,6-3 contro Siniakova e Townsend",
    "image": "",
-   "date": "2026-11-15T21:28:26.000Z"
+   "date": "2026-11-16T00:48:36.000Z"
+  },
+  {
+   "topic": "Salute",
+   "type": "notizia",
+   "source": "BBC Health",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
+   "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
+   "summary": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
+   "detail": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/07cd/live/8214d800-df5e-11f1-a8af-15d7a25dc0d1.png",
+   "date": "2026-11-16T00:47:04.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/la7-programmi-di-martedi-17-novembre_1a37e552-e5ca-4e9b-a912-cae31e58ba94.html",
+   "title": "La7: programmi di martedì 17 novembre",
+   "summary": "La7: programmi di martedì 17 novembre",
+   "detail": "La7: programmi di martedì 17 novembre",
+   "image": "",
+   "date": "2026-11-16T00:01:21.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/raidue-programmi-di-martedi-17-novembre_65892278-12f3-4933-8e0f-fe9a06146fb5.html",
+   "title": "Raidue: programmi di martedì 17 novembre",
+   "summary": "Raidue: programmi di martedì 17 novembre",
+   "detail": "Raidue: programmi di martedì 17 novembre",
+   "image": "",
+   "date": "2026-11-16T00:01:06.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/15/hackaday-links-november-15-2026/",
+   "title": "Hackaday Links: November 15, 2026",
+   "summary": "Another Hackaday Supercon is in the history books. The new venue was amazing. We had more attendees than ever and still had room to spare. You can find many of …read more",
+   "detail": "Another Hackaday Supercon is in the history books. The new venue was amazing. We had more attendees than ever and still had room to spare. You can find many of …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg",
+   "date": "2026-11-16T00:00:27.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+   "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+   "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+   "detail": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a295/live/b9635e50-e14b-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-15T23:52:10.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+   "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+   "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+   "detail": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+   "date": "2026-11-15T23:11:54.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-italia-passo-indietro-e-travolta-in-belgio-e-saluta-la-nations-league_c9e4e2b8-d8e7-489f-8d65-615b5bb7a7a4.html",
+   "title": "Nations League: Italia passo indietro, è travolta in Belgio e saluta la Nations League",
+   "summary": "A Bruxelles finisce 4-1, Pio illude ma poi gli azzurri soccombono",
+   "detail": "A Bruxelles finisce 4-1, Pio illude ma poi gli azzurri soccombono",
+   "image": "",
+   "date": "2026-11-15T23:02:54.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/16/nations-league-lamarezza-di-mancini-serata-negativa-ma-da-partite-cosi-si-impara_173f4b2a-bf1e-4856-bfe0-22db0a79c9aa.html",
+   "title": "Nations League, l'amarezza di Mancini: 'Serata negativa, ma da partite così si impara'",
+   "summary": "Il ct dopo il 4-1 di Bruxelles: 'Loro superiori, abbiamo pagato la stanchezza'",
+   "detail": "Il ct dopo il 4-1 di Bruxelles: 'Loro superiori, abbiamo pagato la stanchezza'",
+   "image": "",
+   "date": "2026-11-15T23:01:29.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+   "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+   "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+   "detail": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f55e/live/4bc0f750-e140-11f1-859a-418a418deb7d.jpg",
+   "date": "2026-11-15T22:57:27.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/15/atp-finals-shelton-soffre-allesordio-ma-batte-fils_8059f2b5-6794-4759-85f6-705eaf3fed94.html",
+   "title": "Atp Finals: Shelton soffre all'esordio ma batte Fils",
+   "summary": "Punteggio finale 6-2, 3-6, 6-3 per lo statunitense",
+   "detail": "Punteggio finale 6-2, 3-6, 6-3 per lo statunitense",
+   "image": "",
+   "date": "2026-11-15T22:47:24.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/la-russa-andreeva-vince-le-wta-finals-battuta-in-finale-lucraina-svitolina_d229a9bd-9539-434f-ad77-89787723068f.html",
+   "title": "La russa Andreeva vince le Wta Finals, battuta in finale l'ucraina Svitolina",
+   "summary": "Successo alla prima partecipazione. Nessun saluto alla fine, poi la 19enne si congratula",
+   "detail": "Successo alla prima partecipazione. Nessun saluto alla fine, poi la 19enne si congratula",
+   "image": "",
+   "date": "2026-11-15T22:43:53.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+   "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+   "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+   "detail": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ad4a/live/a30d20c0-e117-11f1-a7db-d90284d21c62.png",
+   "date": "2026-11-15T22:30:03.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+   "title": "Police ban protests near 10 schools and five universities in Paris",
+   "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+   "detail": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg",
+   "date": "2026-11-15T22:28:54.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-mancini-il-belgio-gioca-bene-fa-gol-giusto-che-vinca_a6fe1f48-63f9-4da7-b5a4-768cb14b7620.html",
+   "title": "Nations League: Mancini, 'il Belgio gioca bene, fa gol, giusto che vinca'",
+   "summary": "Il ct: \"Stasera è andato tutto storto, pagato fisicamente il match con la Francia\"",
+   "detail": "Il ct: \"Stasera è andato tutto storto, pagato fisicamente il match con la Francia\"",
+   "image": "",
+   "date": "2026-11-15T22:16:09.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-la-spagna-perde-limbattibilita-con-linghilterra-francia-prima_bb5d6a57-896f-4da8-9433-a07b59203d6c.html",
+   "title": "Nations League: la Spagna perde l'imbattibilità con l'Inghilterra",
+   "summary": "Kane e compagni fermano la serie di 43 risultati utili consecutivi iberici",
+   "detail": "Kane e compagni fermano la serie di 43 risultati utili consecutivi iberici",
+   "image": "",
+   "date": "2026-11-15T22:08:47.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/barella-stasera-delusi-ma-nations-dimostra-che-ci-siamo_283e5814-874c-434a-9995-a28372e52b16.html",
+   "title": "Barella: 'stasera delusi, ma Nations dimostra che ci siamo'",
+   "summary": "Centrocampista: 'ricordiamoci da dove venivamo, e restiamo equilibrati'",
+   "detail": "Centrocampista: 'ricordiamoci da dove venivamo, e restiamo equilibrati'",
+   "image": "",
+   "date": "2026-11-15T22:05:36.000Z"
+  },
+  {
+   "topic": "Salute",
+   "type": "notizia",
+   "source": "BBC Health",
+   "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+   "title": "Tories pledge to halt screen-based school exams and cut coursework",
+   "summary": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
+   "detail": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b92b/live/47994770-e110-11f1-b3df-4961589d9b68.jpg",
+   "date": "2026-11-15T22:00:37.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+   "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+   "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+   "detail": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/81c7/live/353868b0-6be8-11f1-aa71-afd82ef74c53.jpg",
+   "date": "2026-11-15T22:00:24.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-mancini-belgio-superiore-da-serate-cosi-si-impara_e9651c24-4116-4de4-8a10-4421679eafe5.html",
+   "title": "Nations League: Mancini, 'Belgio superiore, da serate così si impara'",
+   "summary": "\"Dispiace per la qualificazione, ma sapevamo che percorso era lungo\"",
+   "detail": "\"Dispiace per la qualificazione, ma sapevamo che percorso era lungo\"",
+   "image": "",
+   "date": "2026-11-15T21:51:50.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-shelton-soffre-allesordio-ma-batte-fils_0ce621e3-57f0-47f5-889e-9355f6016614.html",
+   "title": "Atp Finals: Shelton soffre all'esordio ma batte Fils",
+   "summary": "Punteggio finale 6-2, 3-6, 6-3 per lo statunitense",
+   "detail": "Punteggio finale 6-2, 3-6, 6-3 per lo statunitense",
+   "image": "",
+   "date": "2026-11-15T21:47:32.000Z"
   },
   {
    "topic": "Mondo",
@@ -79,17 +321,6 @@
    "date": "2026-11-15T21:00:35.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/15/scherma-tappa-di-cdm-a-plodvid-italia-oro-nel-fioretto-a-squadre-donne_20f94fc5-9e28-42c6-89a0-4781e6f21909.html",
-   "title": "Scherma: tappa di Cdm a Plovdiv, Italia oro nel fioretto a squadre donne e uomini",
-   "summary": "Azzurre e azzurri trionfano in finale contro Francia e Russia",
-   "detail": "Azzurre e azzurri trionfano in finale contro Francia e Russia",
-   "image": "",
-   "date": "2026-11-15T20:42:00.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -112,17 +343,6 @@
    "date": "2026-11-15T20:18:55.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/11/15/pallavolo-perugia-vince-la-supercoppa-rimontata-civitanova_ee21987a-efd3-4c13-83f0-1b4c6a7b14d4.html",
-   "title": "Pallavolo: Perugia vince la Supercoppa, rimontata Civitanova",
-   "summary": "Gli umbri erano sotto 2-0 ma si rialzano grazie ad uno strepitoso Semeniuk",
-   "detail": "Gli umbri erano sotto 2-0 ma si rialzano grazie ad uno strepitoso Semeniuk",
-   "image": "",
-   "date": "2026-11-15T20:09:27.000Z"
-  },
-  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -139,32 +359,10 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-   "detail": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+   "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+   "detail": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
    "date": "2026-11-15T19:32:39.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/15/ronaldinho-torna-in-campo-titolare-ed-entra-nellazione-del-gol-del-ravenna_c5db5fb8-4ef0-4810-a737-19967e4af683.html",
-   "title": "Ronaldinho mania, torna in campo a 46 anni ed è show mondiale",
-   "summary": "Big e tutto esaurito a Ravenna. Poca corsa ma classe intatta per il brasiliano",
-   "detail": "Big e tutto esaurito a Ravenna. Poca corsa ma classe intatta per il brasiliano",
-   "image": "",
-   "date": "2026-11-15T19:23:10.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-   "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-   "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-   "detail": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
-   "date": "2026-11-15T19:20:53.000Z"
   },
   {
    "topic": "Mondo",
@@ -178,17 +376,6 @@
    "date": "2026-11-15T19:19:15.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-esordio-vincente-per-coppia-arevalo-pavic_ee71f14a-8474-4168-a664-b39630c28960.html",
-   "title": "Atp Finals: esordio vincente per coppia Arevalo-Pavic",
-   "summary": "Sconfitti i francesi Olivetti-Arribage in due set",
-   "detail": "Sconfitti i francesi Olivetti-Arribage in due set",
-   "image": "",
-   "date": "2026-11-15T19:13:46.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -200,28 +387,6 @@
    "date": "2026-11-15T19:11:06.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/baldini-avverte-la-sua-under-21-bisogna-mantenere-la-costanza-nel-gioco_218b6f31-3147-463a-adbd-eef21f8f2b0c.html",
-   "title": "L'Under 21 di Baldini fa sul serio, col Belgio cerca l'ottava di fila",
-   "summary": "Amichevole a Livorno, il ct: 'Mantenere costanza nel gioco e intensità'",
-   "detail": "Amichevole a Livorno, il ct: 'Mantenere costanza nel gioco e intensità'",
-   "image": "",
-   "date": "2026-11-15T19:04:27.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/15/questa-vittoria-e-per-te-il-tenerife-torna-in-campo-e-celebra-de-miguel_dbb3c790-eedc-46b9-9266-1f1087f4281a.html",
-   "title": "'Questa vittoria è per te', il Tenerife torna in campo e celebra de Miguel",
-   "summary": "Un minuto di silenzio al 9' nella gara contro il Ceuta. La commozione dello stadio",
-   "detail": "Un minuto di silenzio al 9' nella gara contro il Ceuta. La commozione dello stadio",
-   "image": "",
-   "date": "2026-11-15T18:55:24.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "ANSA Economia",
@@ -231,17 +396,6 @@
    "detail": "Nodi dal superbonus alla scuola e sanità. Dalle opposizioni pacchetto di proposte unitarie",
    "image": "",
    "date": "2026-11-15T18:47:17.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-mancini-sceglie-koleosho-e-pisilli-con-pio-esposito_ba6771ae-435b-4ecc-b3aa-89ecd8448d62.html",
-   "title": "Nations League: Mancini sceglie Koleosho e Pisilli con Pio Esposito",
-   "summary": "Contro il Belgio Fagioli a centrocampo l'altro cambio",
-   "detail": "Contro il Belgio Fagioli a centrocampo l'altro cambio",
-   "image": "",
-   "date": "2026-11-15T18:40:34.000Z"
   },
   {
    "topic": "Mondo",
@@ -286,17 +440,6 @@
    "detail": "Most people know about orbital sanders, as the cousin of sheet sanders, with many people using them every day to make wood and other surfaces smooth. Yet if you have …read more",
    "image": "https://hackaday.com/wp-content/uploads/2026/11/orbital_sander_brake_and_damper_ring_five_duck_studio_youtube.jpg",
    "date": "2026-11-15T18:00:48.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/11/15/ciclismo-facciamoci-vedere-facciamoci-sentire-in-tutta-italia-per-la-sicurezza_93f72661-d377-46d6-95ac-779b7530fcea.html",
-   "title": "Ciclismo: \"Facciamoci vedere, facciamoci sentire\", in tutta Italia per la sicurezza",
-   "summary": "Eventi Fci da Roma a Milano: obiettivo, proteggere chi usa ogni giorno la strada in bici",
-   "detail": "Eventi Fci da Roma a Milano: obiettivo, proteggere chi usa ogni giorno la strada in bici",
-   "image": "",
-   "date": "2026-11-15T17:52:07.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -376,39 +519,6 @@
    "date": "2026-11-15T16:18:14.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-   "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-   "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-   "detail": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
-   "date": "2026-11-15T16:15:20.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/15/blade-runner-2099-arriva-la-serie-futurista-con-al-centro-due-donne_2c850f13-2983-47a8-bf19-9959316412bb.html",
-   "title": "Blade Runner 2099, arriva la serie futurista con al centro due donne",
-   "summary": "Con Michelle Yeoh e Hunter Schafer, il 25 novembre in esclusiva su Prime Video",
-   "detail": "Con Michelle Yeoh e Hunter Schafer, il 25 novembre in esclusiva su Prime Video",
-   "image": "",
-   "date": "2026-11-15T16:07:09.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
-   "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia",
-   "summary": "Il regista, che non ha annunciato ancora il nuovo film, premiato al Cairo alla carriera",
-   "detail": "Il regista, che non ha annunciato ancora il nuovo film, premiato al Cairo alla carriera",
-   "image": "",
-   "date": "2026-11-15T16:07:03.000Z"
-  },
-  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -418,17 +528,6 @@
    "detail": "Il riconoscimento per la miglior regia a Niccolò Gentili per \"Dov'è la fiesta?\"",
    "image": "",
    "date": "2026-11-15T16:06:48.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-   "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-   "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-   "detail": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-15T15:57:03.000Z"
   },
   {
    "topic": "Spazio",
@@ -473,17 +572,6 @@
    "detail": "\"T CrB *will* erupt sometime soon. Everyone is very confident on this.\"",
    "image": "https://cdn.mos.cms.futurecdn.net/Csp6Uze99ETyWPNPNUP2K4-1920-80.jpg",
    "date": "2026-11-15T15:00:00.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "detail": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-15T14:56:21.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -572,17 +660,6 @@
    "detail": "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s. New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their magnetic fields. Remarkably, the models indicate that their magnetic poles could shift by tens of degrees within just a few decades, far faster than Earth's.",
    "image": "",
    "date": "2026-11-15T13:43:22.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-   "title": "Iran targets US military base in Bahrain with drone attack",
-   "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-   "detail": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-15T13:42:58.000Z"
   },
   {
    "topic": "Mondo",
@@ -816,17 +893,6 @@
    "date": "2026-11-15T03:00:54.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/14/rpn-loved-honk-if-or-write-your-own-postscript-interpreter/",
-   "title": "RPN Loved Honk If (or, Write Your Own PostScript Interpreter)",
-   "summary": "Maybe you like old laser printers. Maybe you were a fan of [Don Lancaster]. Maybe you like Forth, HP calculators, and everything RPN. Whichever it is, why not write your …read more",
-   "detail": "Maybe you like old laser printers. Maybe you were a fan of [Don Lancaster]. Maybe you like Forth, HP calculators, and everything RPN. Whichever it is, why not write your …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/post.png",
-   "date": "2026-11-15T03:00:49.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -1058,17 +1124,6 @@
    "date": "2026-11-13T19:53:57.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-   "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-   "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
-   "detail": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
-   "date": "2026-11-13T19:49:16.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "IEEE Spectrum",
@@ -1190,17 +1245,6 @@
    "date": "2026-11-13T11:00:02.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-   "title": "Heat pumps: How much heat does your home really need?",
-   "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
-   "detail": "Knowing how much heat your home loses is important before installing a new heating system.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-13T09:29:25.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "NASA",
@@ -1223,17 +1267,6 @@
    "date": "2026-11-13T05:01:00.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-   "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-   "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-   "detail": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-   "date": "2026-11-13T03:57:01.000Z"
-  },
-  {
    "topic": "Salute",
    "type": "notizia",
    "source": "BBC Health",
@@ -1243,17 +1276,6 @@
    "detail": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f050/live/f25348a0-df53-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-13T00:55:31.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-   "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-   "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-   "detail": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
-   "date": "2026-11-13T00:13:35.000Z"
   },
   {
    "topic": "Spazio",
@@ -1487,17 +1509,6 @@
    "date": "2026-11-06T00:42:05.000Z"
   },
   {
-   "topic": "Salute",
-   "type": "notizia",
-   "source": "BBC Health",
-   "url": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss",
-   "title": "UK doctor infected with Ebola being treated at London hospital",
-   "summary": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
-   "detail": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/923f/live/26c0cf50-d94f-11f1-b2ee-87d22b17ac74.jpg",
-   "date": "2026-11-05T21:26:09.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "IEEE Spectrum",
@@ -1529,17 +1540,6 @@
    "detail": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza , it appears that a few puffy white clouds have started to block the sun. That’s vexing. A group of researchers, some wearing cardboard eclipse glasses, is clustered around sets of portable telescopes and cameras connected to laptops. All this gear is scattered on tabletops perched on the mountainside. On the computer screens, the sun’s disk looks like a deep orange crescent that is slowly waning. That’s because the moon began to crawl across it about half an hour ago. In 25 minutes, it will obscure the sun completely, producing an eerie and wondrous…",
    "image": "https://spectrum.ieee.org/media-library/a-black-disk-is-surrounded-by-the-solar-corona-which-appears-in-the-image-as-hairlike-white-strands-extending-far-out-into-a-su.jpg?id=68586921&width=980",
    "date": "2026-11-05T14:00:02.000Z"
-  },
-  {
-   "topic": "Salute",
-   "type": "notizia",
-   "source": "BBC Health",
-   "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&at_campaign=rss",
-   "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
-   "summary": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
-   "detail": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/32e4/live/bcaf3470-d878-11f1-a364-a1fce50dd192.jpg",
-   "date": "2026-11-04T17:58:59.000Z"
   },
   {
    "topic": "Natura",
