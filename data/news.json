@@ -1,27 +1,379 @@
 {
- "updated": "2026-11-16T20:20:10.834Z",
+ "updated": "2026-11-17T03:42:56.595Z",
  "items": [
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Boeing_X-43",
-   "title": "2004: Un Boeing X-43 della NASA stabilisce il nuovo record di velocità per un aereo: 11.200…",
-   "summary": "Un Boeing X-43 della NASA stabilisce il nuovo record di velocità per un aereo: 11.200 km/h.",
-   "detail": "Un Boeing X-43 della NASA stabilisce il nuovo record di velocità per un aereo: 11.200 km/h. — Il Boeing X-43 è un aereo ipersonico, sperimentale, senza pilota, un dimostratore tecnologico con varianti pianificate in diverse dimensioni per testare i vari aspetti del volo supersonico ad alte prestazioni.",
-   "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/X-43_NASA.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-16T20:20:06.618Z"
+   "url": "https://it.wikipedia.org/wiki/Cecoslovacchia",
+   "title": "1989: In Cecoslovacchia inizia la rivoluzione di velluto.",
+   "summary": "In Cecoslovacchia inizia la rivoluzione di velluto.",
+   "detail": "In Cecoslovacchia inizia la rivoluzione di velluto. — La Cecoslovacchia fu uno Stato europeo indipendente esistito dal 1918 al 1992.",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langit-960px-Flag_of_the_Czech_Republic.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "date": "2026-11-17T03:42:56.032Z"
   },
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Riserva_federale",
-   "title": "1914: La Federal Reserve degli Stati Uniti d'America inizia l'attività.",
-   "summary": "La Federal Reserve degli Stati Uniti d'America inizia l'attività.",
-   "detail": "La Federal Reserve degli Stati Uniti d'America inizia l'attività. — La Riserva federale è la banca centrale degli Stati Uniti d'America.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_Federal_Reserve_System.svg/langit-250px-Seal_of_the_United_States_Federal_Reserve_System.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-16T20:20:06.618Z"
+   "url": "https://it.wikipedia.org/wiki/Canale_di_Suez",
+   "title": "1869: Viene inaugurato il canale di Suez, che collega il Mar Mediterraneo al Mar Rosso.",
+   "summary": "Viene inaugurato il canale di Suez, che collega il Mar Mediterraneo al Mar Rosso.",
+   "detail": "Viene inaugurato il canale di Suez, che collega il Mar Mediterraneo al Mar Rosso. — Il canale di Suez è un alveo artificiale navigabile situato in Egitto, a ovest della penisola del Sinai, tra Porto Said sul mar Mediterraneo e Suez (al-Suways) sul Mar Rosso.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Eg-map.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-17T03:42:56.032Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/16/water-in-the-ancient-desert/",
+   "title": "Water in the Ancient Desert",
+   "summary": "The desert of the Iranian Plateau receives very little rainfall, and most of it falls in the mountains before flowing underneath the porous ground of the region. The ancient Persians …read more",
+   "detail": "The desert of the Iranian Plateau receives very little rainfall, and most of it falls in the mountains before flowing underneath the porous ground of the region. The ancient Persians …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/The-Greatest-Empire-was-built-on-This-Secret.-0-5-20.jpeg",
+   "date": "2026-11-17T03:00:29.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_187bd30b-f38c-4795-85cd-e36ed45edec5.html",
+   "title": "'Gli 007 americani avvertono: 'L'Iran sta sviluppando piani per una bomba sporca a Washington'",
+   "summary": "La Casa Bianca: 'Monitoriamo ma al momento non ci sono minacce credibili'",
+   "detail": "La Casa Bianca: 'Monitoriamo ma al momento non ci sono minacce credibili'",
+   "image": "",
+   "date": "2026-11-17T02:59:47.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+   "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+   "detail": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+   "date": "2026-11-17T02:37:53.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+   "title": "Customers report service outages at major US banks",
+   "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+   "detail": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
+   "date": "2026-11-17T00:18:01.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/16/cant-get-the-right-cassette-mechanism-have-a-go-at-making-your-own/",
+   "title": "Can’t Get the Right Cassette Mechanism? Have a Go at Making Your Own!",
+   "summary": "In the world of cassette tape enthusiasts, it’s an oft-repeated factoid that there is only one tape deck mechanism still being manufactured. The truth may be a tiny bit murky …read more",
+   "detail": "In the world of cassette tape enthusiasts, it’s an oft-repeated factoid that there is only one tape deck mechanism still being manufactured. The truth may be a tiny bit murky …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/cassette-deck-featured.jpg",
+   "date": "2026-11-17T00:00:27.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+   "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+   "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+   "detail": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+   "date": "2026-11-17T00:00:03.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+   "title": "We couldn't afford a house alone, so we bought one with strangers",
+   "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+   "detail": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg",
+   "date": "2026-11-17T00:00:02.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/app-e-siti-delle-banche-usa-in-tilt-dopo-il-caos-di-microsoft-e-dei_83dcdcf2-04de-4161-8b52-cd5eddce321d.html",
+   "title": "In tilt app e siti delle principali banche Usa. Guasto ai sistemi di United Airlines, poi risolto",
+   "summary": "Dopo il caso di Microsoft e gli aerei a terra. Chase Bank: 'Nessuna prova di cyberattacco, è un bug nel software' La Federal Reserve funziona regolarmente. La compagnia aerea cala a Wall Street: 'E'…",
+   "detail": "Dopo il caso di Microsoft e gli aerei a terra. Chase Bank: 'Nessuna prova di cyberattacco, è un bug nel software' La Federal Reserve funziona regolarmente. La compagnia aerea cala a Wall Street: 'E' un problema tecnico'",
+   "image": "",
+   "date": "2026-11-16T23:26:27.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+   "title": "Five EU countries announce migrant deportation centre in Rwanda",
+   "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+   "detail": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+   "date": "2026-11-16T23:20:45.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+   "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+   "summary": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac…",
+   "detail": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of Jezero crater — the Perseverance rover team has been captivated by a cluster of eerily bright, light-toned rocks in […]",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg?w=1588&h=1200&fit=clip",
+   "date": "2026-11-16T23:12:45.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+   "title": "California sues OpenAI over Hugging Face attack",
+   "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+   "detail": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+   "date": "2026-11-16T23:12:24.000Z"
+  },
+  {
+   "topic": "Musica",
+   "type": "notizia",
+   "source": "Pitchfork",
+   "url": "https://pitchfork.com/story/hayley-williams-outbreak-fest-2027-lineup/",
+   "title": "Hayley Williams-Curated Outbreak Fest Features Dinosaur Jr., Blood Orange",
+   "summary": "Also: Mannequin Pussy, Rico Nasty, Ear, Soul Glo, and, yes, Hayley Williams",
+   "detail": "Also: Mannequin Pussy, Rico Nasty, Ear, Soul Glo, and, yes, Hayley Williams",
+   "image": "https://media.pitchfork.com/photos/6afb8986d8ec8e2ceb506290/master/pass/MixCollage-16-Nov-2026-05-25-PM-3668.jpg",
+   "date": "2026-11-16T22:58:42.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+   "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+   "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+   "detail": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+   "date": "2026-11-16T22:58:27.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/16/atp-finals-cobolli-stecca-la-prima-con-medvedev-una-sconfitta-che_76b3d219-b65a-44b1-8bfa-44aa29029416.html",
+   "title": "Atp Finals: Cobolli stecca la prima, con Medvedev una sconfitta che brucia: il russo vince in due set",
+   "summary": "Ora ci vuole un'impresa per le semifinali",
+   "detail": "Ora ci vuole un'impresa per le semifinali",
+   "image": "",
+   "date": "2026-11-16T22:48:34.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/16/atp-finals-medvedev-ho-servito-bene-e-mi-ha-dato-molta-fiducia_c6ccffe2-53d6-4052-90bc-6cd94ceb4525.html",
+   "title": "Atp Finals: Medvedev, 'ho servito bene e mi ha dato molta fiducia'",
+   "summary": "\"Alcaraz? E' un giocatore straordinario e può battere chiunque e ovunque\"",
+   "detail": "\"Alcaraz? E' un giocatore straordinario e può battere chiunque e ovunque\"",
+   "image": "",
+   "date": "2026-11-16T22:39:59.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/16/atp-finals-cobolli-lassenza-di-jannik-non-mi-aiuta_64efedd4-0bfb-40eb-90a9-f8dfae649536.html",
+   "title": "Atp Finals: Cobolli, 'l'assenza di Jannik non mi aiuta'",
+   "summary": "\"Mi avrebbe tolto un po' di pressione. Oggi Medvedev ha meritato\"",
+   "detail": "\"Mi avrebbe tolto un po' di pressione. Oggi Medvedev ha meritato\"",
+   "image": "",
+   "date": "2026-11-16T22:33:44.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+   "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+   "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+   "detail": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg",
+   "date": "2026-11-16T22:32:47.000Z"
+  },
+  {
+   "topic": "Salute",
+   "type": "notizia",
+   "source": "BBC Health",
+   "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+   "title": "Cass report author says she does not support draft conversion practices bill",
+   "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+   "detail": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/67e4/live/e4fbabb0-e1f2-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-16T22:08:03.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+   "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+   "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s…",
+   "detail": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. These images were […]",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26804/PIA26804.jpg?w=1536&h=1536&fit=clip",
+   "date": "2026-11-16T22:05:23.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/16/nations-league-impresa-della-germania-5-0-allolanda-e-pass-per-i-quarti_33e520bf-b3bd-4e3c-9d39-2376b6473acb.html",
+   "title": "Nations League: impresa della Germania, 5-0 all'Olanda e pass per i quarti",
+   "summary": "Tedeschi primi nel girone 2. Esce la Grecia a cui non basta l'1-0 sulla Serbia",
+   "detail": "Tedeschi primi nel girone 2. Esce la Grecia a cui non basta l'1-0 sulla Serbia",
+   "image": "",
+   "date": "2026-11-16T21:58:00.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+   "title": "Three small failures combined to take down Microsoft 365",
+   "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+   "detail": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
+   "date": "2026-11-16T21:56:39.000Z"
+  },
+  {
+   "topic": "Musica",
+   "type": "notizia",
+   "source": "Pitchfork",
+   "url": "https://pitchfork.com/story/tv-on-the-radio-to-headline-music-hall-of-williamsburgs-final-shows/",
+   "title": "TV on the Radio to Headline Music Hall of Williamsburg’s Final Shows",
+   "summary": "The Brooklyn stalwarts will bring the curtain down once and for all on December 5 and 6",
+   "detail": "The Brooklyn stalwarts will bring the curtain down once and for all on December 5 and 6",
+   "image": "https://media.pitchfork.com/photos/6afb6604a9d568336bb37df8/master/pass/TV-on-the-Radio.jpeg",
+   "date": "2026-11-16T21:48:50.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+   "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+   "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+   "detail": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-16T21:40:07.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
+   "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
+   "summary": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
+   "detail": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
+   "image": "https://cdn.mos.cms.futurecdn.net/fsUicFVD4jgiZ2EbS7pCQK-1920-80.jpg",
+   "date": "2026-11-16T21:34:36.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
+   "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+   "summary": "See the most epic photos from SpaceX's Starship Flight 15 test flight and historic launch tower catch.",
+   "detail": "See the most epic photos from SpaceX's Starship Flight 15 test flight and historic launch tower catch.",
+   "image": "https://cdn.mos.cms.futurecdn.net/YttcVYXYfcRTqnR6tXAC2B-1920-80.jpg",
+   "date": "2026-11-16T21:26:29.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/16/atp-finals-cobolli-stecca-la-prima-vince-medvedev_724d0021-6d28-4999-8ed0-df7273f7075a.html",
+   "title": "Atp Finals: Cobolli stecca la prima, vince Medvedev",
+   "summary": "Azzurro sconfitto in due set per 7-6 6-3",
+   "detail": "Azzurro sconfitto in due set per 7-6 6-3",
+   "image": "",
+   "date": "2026-11-16T21:25:25.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/16/binocular-chair-lets-you-stargaze-in-comfort/",
+   "title": "Binocular Chair Lets You Stargaze in Comfort",
+   "summary": "Telescopes are great, but sometimes binoculars are the right tool for stargazing. Holding them in front of your face for a long night of observation can get onerous though, so …read more",
+   "detail": "Telescopes are great, but sometimes binoculars are the right tool for stargazing. Holding them in front of your face for a long night of observation can get onerous though, so …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/Binocular-Chair-Milky-Way-Lounge-thumb-wide.jpg",
+   "date": "2026-11-16T21:00:55.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+   "title": "Hyperscale data centers use 2% of US electricity",
+   "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
+   "detail": "Study attempts to tally hyperscalers’ energy use and emissions.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
+   "date": "2026-11-16T20:52:10.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+   "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+   "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+   "detail": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg",
+   "date": "2026-11-16T20:37:47.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+   "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+   "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+   "detail": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
+   "date": "2026-11-16T20:33:57.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
+   "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+   "summary": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit…",
+   "detail": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position. “Our responsibility […]",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp?w=1920",
+   "date": "2026-11-16T20:30:40.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+   "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+   "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
+   "detail": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
+   "date": "2026-11-16T20:27:58.000Z"
   },
   {
    "topic": "Sport",
@@ -60,17 +412,6 @@
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/app-e-siti-delle-banche-usa-in-tilt-dopo-il-caos-di-microsoft-e-dei_83dcdcf2-04de-4161-8b52-cd5eddce321d.html",
-   "title": "App e siti delle banche Usa in tilt dopo il caos di Microsoft e dei voli",
-   "summary": "Chase rassicura: 'Solo un guasto tecnico'. La Federal Reserve funziona regolarmente",
-   "detail": "Chase rassicura: 'Solo un guasto tecnico'. La Federal Reserve funziona regolarmente",
-   "image": "",
-   "date": "2026-11-16T20:05:30.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
    "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/16/la-strage-di-via-damelio-gianni-de-gennaro-indagato-per-depistaggio_f194921d-4c33-4bf6-99bc-f4bae25314ce.html",
    "title": "Chiesto l'arresto dell'ex capo della Polizia De Gennaro, il gip dice no",
    "summary": "Indagato a Caltanissetta per depistaggio, l'1 dicembre l'interrogatorio",
@@ -88,17 +429,6 @@
    "detail": "Just a day after SpaceX caught the upper stage of its Starship megarocket back at the launch pad for the first time ever, Elon Musk told us that the spacecraft will get even bigger.",
    "image": "https://cdn.mos.cms.futurecdn.net/3Fkrm7hcfY8Smci3nzStBA-1920-80.jpg",
    "date": "2026-11-16T20:04:22.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-   "title": "Forensic expert says his analysis raises doubts about how Epstein died",
-   "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-   "detail": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
-   "date": "2026-11-16T20:03:30.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -200,17 +530,6 @@
    "date": "2026-11-16T19:28:02.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/16/atp-finals-cobolli-allesordio-nel-torneo-ora-la-sfida-con-medvedev_76b3d219-b65a-44b1-8bfa-44aa29029416.html",
-   "title": "Atp Finals: Cobolli all'esordio nel torneo, ora la sfida con Medvedev",
-   "summary": "Le foto",
-   "detail": "Le foto",
-   "image": "",
-   "date": "2026-11-16T19:26:57.000Z"
-  },
-  {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
@@ -222,28 +541,6 @@
    "date": "2026-11-16T19:23:05.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "detail": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-   "date": "2026-11-16T19:16:52.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/trump-putin-non-va-allaffondo-vuole-la-fine-della-guerra_719b0e4a-833e-4411-9f49-e3bdeca194d9.html",
-   "title": "Trump: 'Putin non va all'affondo, vuole la fine della guerra'",
-   "summary": "'Potrebbe essere più duro', a Shenzen non escluso un bilaterale. Potrebbe vedere anche Kim",
-   "detail": "'Potrebbe essere più duro', a Shenzen non escluso un bilaterale. Potrebbe vedere anche Kim",
-   "image": "",
-   "date": "2026-11-16T19:12:51.000Z"
-  },
-  {
    "topic": "Tecnologia",
    "type": "notizia",
    "source": "Ars Technica",
@@ -253,17 +550,6 @@
    "detail": "Trump bets China won’t mind US blocking remote access to AI chips.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
    "date": "2026-11-16T19:10:09.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/16/u21-litalia-pareggia-2-2-col-belgio-in-amichevole_a7f04abd-7c6f-455e-b82d-d6ea760cf315.html",
-   "title": "U21: l'Italia pareggia 2-2 col Belgio in amichevole",
-   "summary": "A Livorno in gol Cherubini ed Ekhator su rigore per gli azzurrini",
-   "detail": "A Livorno in gol Cherubini ed Ekhator su rigore per gli azzurrini",
-   "image": "",
-   "date": "2026-11-16T19:07:29.000Z"
   },
   {
    "topic": "Elettronica",
@@ -288,17 +574,6 @@
    "date": "2026-11-16T19:00:00.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/16/la-reyer-venezia-gestira-la-nuova-arena-per-40-anni_6a98479a-0038-482b-8f0a-236e863ee08d.html",
-   "title": "La Reyer Venezia gestirà la nuova Arena per 40 anni",
-   "summary": "Firmato il contratto di concessione, per la società impegno di 154 milioni",
-   "detail": "Firmato il contratto di concessione, per la società impegno di 154 milioni",
-   "image": "",
-   "date": "2026-11-16T18:58:21.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "NASA",
@@ -321,17 +596,6 @@
    "date": "2026-11-16T18:42:10.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/16/figc-galliani-se-vincessi-le-elezioni-confermerei-mancini_1efa000a-8aa9-44a0-8aeb-70065da93d2f.html",
-   "title": "Figc: Galliani, se vincessi le elezioni confermerei Mancini",
-   "summary": "Il candidato, non si può dare la doppia firma ma al calcio italiano serve serenità",
-   "detail": "Il candidato, non si può dare la doppia firma ma al calcio italiano serve serenità",
-   "image": "",
-   "date": "2026-11-16T18:40:11.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "NASA",
@@ -341,17 +605,6 @@
    "detail": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’s 250th anniversary. Image […]",
    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/11072026-ksc-max-power-airdotshow-2orig.jpg?w=2048",
    "date": "2026-11-16T18:34:47.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/16/calcio-ancelotti-replica-a-romario-libero-di-dire-bugie-verita-o-sciocchezze_90a1c2ce-4800-4ab8-81f3-58bac888097e.html",
-   "title": "Calcio: Ancelotti replica a Romario, 'libero di dire bugie, verità o sciocchezze'",
-   "summary": "Ma dopo il ko con il Giappone il tecnico ammette, 'devo fare di più'",
-   "detail": "Ma dopo il ko con il Giappone il tecnico ammette, 'devo fare di più'",
-   "image": "",
-   "date": "2026-11-16T18:24:39.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -607,17 +860,6 @@
    "date": "2026-11-16T16:30:32.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-   "title": "Five EU countries announce migrant deportation centre in Rwanda",
-   "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-   "detail": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-   "date": "2026-11-16T16:27:24.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "Space.com",
@@ -728,17 +970,6 @@
    "date": "2026-11-16T14:16:56.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-   "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-   "detail": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
-   "date": "2026-11-16T14:06:16.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -748,17 +979,6 @@
    "detail": "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars.",
    "image": "",
    "date": "2026-11-16T14:02:10.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
-   "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
-   "summary": "The point-to-point driver assist is coming to the US and Germany in 2027.",
-   "detail": "The point-to-point driver assist is coming to the US and Germany in 2027.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg",
-   "date": "2026-11-16T14:00:05.000Z"
   },
   {
    "topic": "Elettronica",
@@ -882,17 +1102,6 @@
    "date": "2026-11-16T13:12:29.000Z"
   },
   {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/a-magna-carta-for-the-stars-king-charles-iii-takes-on-space-sustainability",
-   "title": "A Magna Carta for the stars: King Charles III takes on space sustainability",
-   "summary": "\"I think once people are aware of it, they want the same sustainability standards for protecting our planet\".",
-   "detail": "\"I think once people are aware of it, they want the same sustainability standards for protecting our planet\".",
-   "image": "https://cdn.mos.cms.futurecdn.net/7PXmLixSAtL4bHuXbpKk8U-1920-80.jpg",
-   "date": "2026-11-16T13:00:00.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -913,28 +1122,6 @@
    "detail": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer's risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surprising differences in immune activity and gut-brain interactions, opening the door to more personalized treatments for neurological disorders.",
    "image": "",
    "date": "2026-11-16T12:41:09.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
-   "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
-   "summary": "For those who have lived under armed drones, the sound overhead can be distressing.",
-   "detail": "For those who have lived under armed drones, the sound overhead can be distressing.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2298538124-1152x648.jpg",
-   "date": "2026-11-16T12:00:57.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/16/esp32-wifi-jam-detector-finds-the-raspberry/",
-   "title": "ESP32 WIFI Jam Detector Finds the Raspberry",
-   "summary": "We’ve seen plenty of ESP32 WiFi projects that test wifi systems with attacks such as Deauth, and even jamming. Today’s project is a bit different. [TheDigital1] created an ESP32 project …read more",
-   "detail": "We’ve seen plenty of ESP32 WiFi projects that test wifi systems with attacks such as Deauth, and even jamming. Today’s project is a bit different. [TheDigital1] created an ESP32 project …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/wifi-jam.png",
-   "date": "2026-11-16T12:00:47.000Z"
   },
   {
    "topic": "Natura",
@@ -959,17 +1146,6 @@
    "date": "2026-11-16T11:45:33.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-   "title": "Yemeni forces retreat to defend port city from Houthis",
-   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-   "detail": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
-   "date": "2026-11-16T11:09:38.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "IEEE Spectrum",
@@ -979,17 +1155,6 @@
    "detail": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This webinar shows how in-line inspection and offline characterization combine into one workflow, from tool monitoring to root-cause analysis. In the first half, Dr. Bitan Chakraborty from Intel, explains how surface scan metrology fits into station monitors for thin film tools. The session shows how baseline signatures and real-time monitoring reveal hardware wear, particle generation, and process drift…",
    "image": "https://assets.rbl.ms/68617442/origin.png",
    "date": "2026-11-16T11:00:03.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/voyager/nasas-interstellar-voyager-1-probe-is-about-to-reach-1-light-day-from-earth-after-nearly-50-years-in-space",
-   "title": "NASA's interstellar Voyager 1 probe is about to reach 1 light-day from Earth after nearly 50 years in space",
-   "summary": "Voyager 1 is celebrating a big milestone as it approaches its 50th birthday: reaching one light-day away from Earth.",
-   "detail": "Voyager 1 is celebrating a big milestone as it approaches its 50th birthday: reaching one light-day away from Earth.",
-   "image": "https://cdn.mos.cms.futurecdn.net/FbpUYGY9M3AheaaKciVQSb-1920-80.jpg",
-   "date": "2026-11-16T11:00:00.000Z"
   },
   {
    "topic": "Mondo",
@@ -1036,28 +1201,6 @@
    "date": "2026-11-16T10:00:01.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-   "title": "Avoid this Black Friday scam - how to check it's a real deal",
-   "summary": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
-   "detail": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4f34/live/a04a1d00-e1c3-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-16T09:58:52.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/16/follow-the-grid-with-an-arduino-uno/",
-   "title": "Follow The Grid With An Arduino Uno",
-   "summary": "We all know the frequency of our AC grid. 60Hz for Americans, or 50Hz for Europeans, for example. But the real story has some complexity. In a plural but interconnected …read more",
-   "detail": "We all know the frequency of our AC grid. 60Hz for Americans, or 50Hz for Europeans, for example. But the real story has some complexity. In a plural but interconnected …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/grid-monitor-featured.jpg",
-   "date": "2026-11-16T09:00:13.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -1100,17 +1243,6 @@
    "detail": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/015f/live/3d2a7950-e190-11f1-b441-2b33b063138f.jpg",
    "date": "2026-11-16T06:24:08.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/15/its-a-nas-for-sony-mavica-disks/",
-   "title": "It’s A NAS, For Sony Mavica Disks",
-   "summary": "At the dawn of the consumer digital camera age, manufacturers tested this new market with a wide array of interesting and unorthodox designs. This era only lasted a few years …read more",
-   "detail": "At the dawn of the consumer digital camera age, manufacturers tested this new market with a wide array of interesting and unorthodox designs. This era only lasted a few years …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/mavica-nas-featured.jpg",
-   "date": "2026-11-16T06:00:27.000Z"
   },
   {
    "topic": "Spazio",
@@ -1168,17 +1300,6 @@
    "date": "2026-11-16T02:56:02.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "detail": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-16T01:47:57.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -1199,17 +1320,6 @@
    "detail": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/07cd/live/8214d800-df5e-11f1-a8af-15d7a25dc0d1.png",
    "date": "2026-11-16T00:47:04.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-   "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-   "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-   "detail": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
-   "date": "2026-11-15T23:11:54.000Z"
   },
   {
    "topic": "Salute",
@@ -1234,28 +1344,6 @@
    "date": "2026-11-15T20:18:55.000Z"
   },
   {
-   "topic": "Musica",
-   "type": "notizia",
-   "source": "Pitchfork",
-   "url": "https://pitchfork.com/story/deftones-lauren-mayberry-peter-hook-play-joy-division-and-new-order-songs-at-2026-rock-hall/",
-   "title": "Peter Hook, Lauren Mayberry, Deftones Play Joy Division and New Order Songs at 2026 Rock Hall",
-   "summary": "They christened the 2026 induction ceremony with “Love Will Tear Us Apart” and “Bizarre Love Triangle”",
-   "detail": "They christened the 2026 induction ceremony with “Love Will Tear Us Apart” and “Bizarre Love Triangle”",
-   "image": "https://media.pitchfork.com/photos/6af9f2bec11e02ee7f005b7e/master/pass/GettyImages-2304682563.jpg",
-   "date": "2026-11-15T18:36:24.000Z"
-  },
-  {
-   "topic": "Musica",
-   "type": "notizia",
-   "source": "Pitchfork",
-   "url": "https://pitchfork.com/story/watch-wu-tang-clan-perform-at-the-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
-   "title": "Watch Wu-Tang Clan Perform at the Rock & Roll Hall of Fame 2026 Induction Ceremony",
-   "summary": "RZA, GZA, Method Man, Raekwon, Ghostface Killah, and co. broke out the hits for the occasion",
-   "detail": "RZA, GZA, Method Man, Raekwon, Ghostface Killah, and co. broke out the hits for the occasion",
-   "image": "https://media.pitchfork.com/photos/6af9e3fdc3ef3a8ed8a8ca8f/master/pass/GettyImages-2305179706.jpg",
-   "date": "2026-11-15T17:14:57.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -1265,50 +1353,6 @@
    "detail": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk.",
    "image": "",
    "date": "2026-11-15T14:13:18.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-   "title": "Minister backs legal right to job support for young people",
-   "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
-   "detail": "The work and pensions secretary said the level of support currently on offer was too vague.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5ee9/live/2745bfb0-e103-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-15T13:06:15.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-   "title": "How the world’s fires changed while humanity hit pause",
-   "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
-   "detail": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg",
-   "date": "2026-11-15T12:07:34.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-   "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-   "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-   "detail": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
-   "date": "2026-11-15T00:01:07.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-   "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-   "detail": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
-   "date": "2026-11-13T23:00:31.000Z"
   },
   {
    "topic": "Elettronica",
@@ -1377,28 +1421,6 @@
    "date": "2026-11-13T11:00:02.000Z"
   },
   {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
-   "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
-   "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a…",
-   "detail": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=2048&h=1451&fit=clip&crop=faces%2Cfocalpoint",
-   "date": "2026-11-13T05:05:00.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
-   "title": "A Global Rebound for Mangroves",
-   "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
-   "detail": "After decades of decline, this ecologically significant type of forest is making a comeback.",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
-   "date": "2026-11-13T05:01:00.000Z"
-  },
-  {
    "topic": "Salute",
    "type": "notizia",
    "source": "BBC Health",
@@ -1408,17 +1430,6 @@
    "detail": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f050/live/f25348a0-df53-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-13T00:55:31.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
-   "title": "I Am Artemis Katie Spicer",
-   "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the…",
-   "detail": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the […]",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e402724-i-am-artemis-katie.jpeg?w=1536",
-   "date": "2026-11-12T20:10:02.000Z"
   },
   {
    "topic": "Salute",
@@ -1518,17 +1529,6 @@
    "detail": "Dona Beatriz Kimpa Vita believed herself to be possessed by the spirit of St. Anthony. The movement she led in the early 1700s promoted an Indigenous African form of the Christian faith",
    "image": "https://th-thumbnailer.cdn-si-edu.com/0rH-sy1dgMUpI_6eVIwJluYmvyE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/21/03/2103412e-31dd-49e9-9c62-13c4b49fb81b/kimpa-vita2.png",
    "date": "2026-11-09T12:45:00.000Z"
-  },
-  {
-   "topic": "Salute",
-   "type": "notizia",
-   "source": "BBC Health",
-   "url": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
-   "title": "What's your love language - and does it actually mean anything?",
-   "summary": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
-   "detail": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6efb/live/24613860-d9e7-11f1-bbe5-797ee05bee69.jpg",
-   "date": "2026-11-09T00:55:35.000Z"
   },
   {
    "topic": "Elettronica",
