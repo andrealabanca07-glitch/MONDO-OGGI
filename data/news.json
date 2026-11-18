@@ -1,38 +1,258 @@
 {
- "updated": "2026-11-17T22:12:12.888Z",
+ "updated": "2026-11-18T04:10:24.665Z",
  "items": [
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Cecoslovacchia",
-   "title": "1989: In Cecoslovacchia inizia la rivoluzione di velluto.",
-   "summary": "In Cecoslovacchia inizia la rivoluzione di velluto.",
-   "detail": "In Cecoslovacchia inizia la rivoluzione di velluto. — La Cecoslovacchia fu uno Stato europeo indipendente esistito dal 1918 al 1992.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langit-960px-Flag_of_the_Czech_Republic.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-17T22:12:08.233Z"
+   "url": "https://it.wikipedia.org/wiki/Novara",
+   "title": "2007: A Novara viene beatificato il filosofo roveretano Antonio Rosmini.",
+   "summary": "A Novara viene beatificato il filosofo roveretano Antonio Rosmini.",
+   "detail": "A Novara viene beatificato il filosofo roveretano Antonio Rosmini. — Novara, è un comune italiano di 103 829 abitanti, capoluogo dell'omonima provincia e seconda città per popolazione del Piemonte.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Novara_panorama11.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-18T04:10:24.664Z"
   },
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Canale_di_Suez",
-   "title": "1869: Viene inaugurato il canale di Suez, che collega il Mar Mediterraneo al Mar Rosso.",
-   "summary": "Viene inaugurato il canale di Suez, che collega il Mar Mediterraneo al Mar Rosso.",
-   "detail": "Viene inaugurato il canale di Suez, che collega il Mar Mediterraneo al Mar Rosso. — Il canale di Suez è un alveo artificiale navigabile situato in Egitto, a ovest della penisola del Sinai, tra Porto Said sul mar Mediterraneo e Suez (al-Suways) sul Mar Rosso.",
-   "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Eg-map.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-17T22:12:08.233Z"
+   "url": "https://it.wikipedia.org/wiki/Lettonia",
+   "title": "1918: La Lettonia dichiara l'indipendenza dalla Russia.",
+   "summary": "La Lettonia dichiara l'indipendenza dalla Russia.",
+   "detail": "La Lettonia dichiara l'indipendenza dalla Russia. — La Lettonia, ufficialmente Repubblica di Lettonia, è uno Stato membro dell'Unione europea. Situata nell'Europa nord-orientale, confina a nord con l'Estonia (267 km), a est con la Russia (217 km), a sud-est con la Bielorussia (141 km) e a sud con la Lituania (453 km), ed è bagnata a ovest dal Mar Baltico.",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/langit-1280px-Flag_of_Latvia.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "date": "2026-11-18T04:10:24.664Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-serve-maggiore-cooperazione-internazionale-sullintelligenza-artificiale_2073d2bc-0210-4844-b465-7f9bf8d99c1d.html",
+   "title": "Xi: 'Serve maggiore cooperazione internazionale sull'intelligenza artificiale'",
+   "summary": "'Promuovere partenariati per l'innovazione scientifica e tecnologica'",
+   "detail": "'Promuovere partenariati per l'innovazione scientifica e tecnologica'",
+   "image": "",
+   "date": "2026-11-18T04:05:13.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+   "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+   "detail": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-18T04:00:54.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+   "title": "Waymo pulls driverless taxis from all US freeways",
+   "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+   "detail": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
+   "date": "2026-11-18T03:07:22.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/17/coding-on-windows-redmond-may-already-know/",
+   "title": "Coding on Windows? Redmond May Already Know.",
+   "summary": "File this one under “shocked, but not that shocked”– hacker [Xusheng Li] did some digging on a recent Windows 11 build and found that it seems to be phoning home …read more",
+   "detail": "File this one under “shocked, but not that shocked”– hacker [Xusheng Li] did some digging on a recent Windows 11 build and found that it seems to be phoning home …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/agent-names.jpeg",
+   "date": "2026-11-18T03:00:42.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+   "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+   "detail": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-18T01:18:18.000Z"
+  },
+  {
+   "topic": "Salute",
+   "type": "notizia",
+   "source": "BBC Health",
+   "url": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
+   "title": "Voy at-home test kit adverts banned over low testosterone claims",
+   "summary": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
+   "detail": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b4b0/live/d8c4a540-e2b5-11f1-bee0-ef418afc697f.jpg",
+   "date": "2026-11-18T01:11:07.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+   "detail": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+   "date": "2026-11-18T00:27:29.000Z"
   },
   {
    "topic": "Economia",
    "type": "notizia",
    "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/17/huang-pronto-a-tornare-se-lo-vuole-il-board.-nvidia-batte-le-attese-su-utili-e-ricavinel_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html",
-   "title": "Huang: 'Pronto a tornare se lo vuole il board'. Nvidia batte le attese su utili e ricavi nel terzo trimestre",
-   "summary": "L'ex ceo rompe il silenzio nel giorno dei conti. Polemiche sulla figlia e sul marito di Alice. Kress: 'La nostra ambizione non è mai stata così grande'",
-   "detail": "L'ex ceo rompe il silenzio nel giorno dei conti. Polemiche sulla figlia e sul marito di Alice. Kress: 'La nostra ambizione non è mai stata così grande'",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/18/borsa-tokyo-apertura-in-lieve-rialzo-025_004051c6-0e8f-4a17-8349-2f99f58d6f13.html",
+   "title": "Borsa: Tokyo, apertura in lieve rialzo (+0,25%)",
+   "summary": "Nvidia ridà fiato al comparto dei chip dopo trimestrale",
+   "detail": "Nvidia ridà fiato al comparto dei chip dopo trimestrale",
    "image": "",
-   "date": "2026-11-17T22:05:58.000Z"
+   "date": "2026-11-18T00:21:17.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/17/a-pen-plotter-to-draw-you-up-on-the-wall/",
+   "title": "A Pen Plotter to Draw You Up (on) the Wall",
+   "summary": "Back in our day you were told not to draw on the walls; nowadays we have robots for that– like Mural 2.0 by [Nik Ivanov]. If the name doesn’t give …read more",
+   "detail": "Back in our day you were told not to draw on the walls; nowadays we have robots for that– like Mural 2.0 by [Nik Ivanov]. If the name doesn’t give …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/mural-penplotter2.jpg",
+   "date": "2026-11-18T00:00:35.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+   "title": "Europe plans to catch the next computer chip wave",
+   "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+   "detail": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-18T00:00:24.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
+   "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono",
+   "summary": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
+   "detail": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
+   "image": "",
+   "date": "2026-11-17T23:28:31.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_fef81d69-9cd3-4bef-8409-79e71f8c4e8a.html",
+   "title": "Ddl antisemitismo è legge.No di M5s, Avs,nel Pd strappo dei riformisti",
+   "summary": "Alla Camera 147 sì. La spaccatura nei dem. Da Iv ok insieme alla maggioranza",
+   "detail": "Alla Camera 147 sì. La spaccatura nei dem. Da Iv ok insieme alla maggioranza",
+   "image": "",
+   "date": "2026-11-17T23:27:43.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/17/mr-invidia-pronto-a-tornare.-ma-il-board-non-prevede-di-reintegrare-jensen-huang_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html",
+   "title": "Mr Invidia: 'Pronto a tornare'. Ma il board non prevede di reintegrare Jensen Huang",
+   "summary": "L'ex ceo rompe il silenzio nel giorno dei conti. Dalla Trimestrale utili e ricavi oltre attese. Polemiche sulla figlia e sul marito di Alice. Kress: 'La nostra ambizione non è mai stata così grande'",
+   "detail": "L'ex ceo rompe il silenzio nel giorno dei conti. Dalla Trimestrale utili e ricavi oltre attese. Polemiche sulla figlia e sul marito di Alice. Kress: 'La nostra ambizione non è mai stata così grande'",
+   "image": "",
+   "date": "2026-11-17T23:25:28.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+   "title": "San Diego dumps both Flock cameras and smart streetlights",
+   "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
+   "detail": "500+ cameras will go dark just 3 years after mayor urged approval.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+   "date": "2026-11-17T23:09:09.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+   "detail": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-17T23:02:12.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+   "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+   "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+   "detail": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
+   "date": "2026-11-17T22:46:30.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+   "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+   "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+   "detail": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
+   "date": "2026-11-17T22:44:46.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+   "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+   "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+   "detail": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-17T22:44:15.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+   "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+   "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+   "detail": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
+   "date": "2026-11-17T22:32:16.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/17/eurolega-torna-a-vincere-anche-la-virtus-panathinaikos-battuto-84-79-al-paladozza_d24dc7e0-7c87-476c-8184-71e527b3b388.html",
+   "title": "Eurolega: torna a vincere anche la Virtus, Panathinaikos battuto 84-79 al PalaDozza",
+   "summary": "Fermata la striscia di 5 ko di fila, Diarra e Diouf trascinano le V Nere",
+   "detail": "Fermata la striscia di 5 ko di fila, Diarra e Diouf trascinano le V Nere",
+   "image": "",
+   "date": "2026-11-17T22:17:02.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+   "title": "NASA Launches Nuclear Power Systems Student Contest",
+   "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the…",
+   "detail": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg?w=1201&h=676&fit=clip",
+   "date": "2026-11-17T22:02:48.000Z"
   },
   {
    "topic": "Spazio",
@@ -57,15 +277,15 @@
    "date": "2026-11-17T21:53:57.000Z"
   },
   {
-   "topic": "Economia",
+   "topic": "Spazio",
    "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-   "title": "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit",
-   "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
-   "detail": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6cab/live/73487450-e2cc-11f1-99ed-7de3e5932968.jpg",
-   "date": "2026-11-17T21:45:13.000Z"
+   "source": "NASA",
+   "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
+   "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+   "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites…",
+   "detail": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg?w=2048&h=1706&fit=clip",
+   "date": "2026-11-17T21:50:34.000Z"
   },
   {
    "topic": "Sport",
@@ -105,22 +325,11 @@
    "type": "notizia",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-   "title": "Russian military plane crashes killing all 19 on board",
+   "title": "Russian military plane crashes, killing all 19 on board",
    "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
    "detail": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
    "date": "2026-11-17T21:06:11.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
-   "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono",
-   "summary": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
-   "detail": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
-   "image": "",
-   "date": "2026-11-17T21:05:32.000Z"
   },
   {
    "topic": "Mondo",
@@ -165,17 +374,6 @@
    "detail": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
    "image": "https://media.pitchfork.com/photos/6afcbeba34d0e47dd81db1e8/master/pass/P4K26-1117_Selects_2x1.gif",
    "date": "2026-11-17T20:55:47.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-   "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-   "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-   "detail": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
-   "date": "2026-11-17T20:44:54.000Z"
   },
   {
    "topic": "Spazio",
@@ -231,28 +429,6 @@
    "detail": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe where stars are currently being born and […]",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg?w=1198&h=1280&fit=clip",
    "date": "2026-11-17T20:26:17.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-   "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-   "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-   "detail": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-17T20:25:46.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_fef81d69-9cd3-4bef-8409-79e71f8c4e8a.html",
-   "title": "Ddl antisemitismo è legge.No di M5s, Avs,nel Pd strappo dei riformisti",
-   "summary": "Alla Camera 147 sì. La spaccatura nei dem. Da Iv ok insieme alla maggioranza",
-   "detail": "Alla Camera 147 sì. La spaccatura nei dem. Da Iv ok insieme alla maggioranza",
-   "image": "",
-   "date": "2026-11-17T20:25:02.000Z"
   },
   {
    "topic": "Mondo",
@@ -398,17 +574,6 @@
    "date": "2026-11-17T18:57:01.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/roggero-condannato-i-giudici-da-parte-sua-una-deliberata-aggressione_6a42fa5e-4664-466d-affb-bfc112233623.html",
-   "title": "La Cassazione: 'Roggero si è fatto giustizia da sé'",
-   "summary": "'Aggressione deliberata, non c'era necessità di difesa'. La Lega: 'Sempre al suo fianco'",
-   "detail": "'Aggressione deliberata, non c'era necessità di difesa'. La Lega: 'Sempre al suo fianco'",
-   "image": "",
-   "date": "2026-11-17T18:51:14.000Z"
-  },
-  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -453,6 +618,17 @@
    "date": "2026-11-17T18:48:18.000Z"
   },
   {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+   "title": "Government backs welfare shake-up to prevent 'lost generation'",
+   "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+   "detail": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg",
+   "date": "2026-11-17T18:43:05.000Z"
+  },
+  {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
@@ -462,17 +638,6 @@
    "detail": "Il club 'forniremo aggiornamenti, la priorità è sostenere il giocatore'",
    "image": "",
    "date": "2026-11-17T18:33:09.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/17/torna-in-gruppo-dybala-la-roma-punta-il-parma-sabato_f2460d5b-fc0b-4fa9-95d9-3f2f29e16af3.html",
-   "title": "Torna in gruppo Dybala, la Roma punta il Parma sabato",
-   "summary": "Gasperini aspetta i nazionali e prepara il tour de force fino a Natale",
-   "detail": "Gasperini aspetta i nazionali e prepara il tour de force fino a Natale",
-   "image": "",
-   "date": "2026-11-17T18:33:05.000Z"
   },
   {
    "topic": "Sport",
@@ -530,9 +695,9 @@
    "date": "2026-11-17T18:26:26.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Economia",
    "type": "notizia",
-   "source": "BBC News",
+   "source": "BBC Business",
    "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
    "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
    "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
@@ -904,28 +1069,6 @@
    "date": "2026-11-17T15:38:10.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
-   "title": "House Democrats promise a US return to global climate talks",
-   "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
-   "detail": "A new House majority can push climate policy, but a full US return remains uncertain.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1-1024x648.jpg",
-   "date": "2026-11-17T15:32:43.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-   "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-   "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-   "detail": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
-   "date": "2026-11-17T15:28:59.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "Hackaday",
@@ -959,17 +1102,6 @@
    "date": "2026-11-17T15:00:00.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/17/borsa-leuropa-peggiora-con-wall-street-milano-06_be71f140-f391-481b-8e0b-8cc66304279c.html",
-   "title": "Borsa: l'Europa peggiora con Wall Street, Milano -0,6%",
-   "summary": "In rialzo petrolio e gas, poco mossi i titoli di Stato. A Piazza Affari balzo di Avio",
-   "detail": "In rialzo petrolio e gas, poco mossi i titoli di Stato. A Piazza Affari balzo di Avio",
-   "image": "",
-   "date": "2026-11-17T14:48:39.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -979,28 +1111,6 @@
    "detail": "“Cloud of Beaujolais” portends the Course in Fable follow-up, Darkening the Glass",
    "image": "https://media.pitchfork.com/photos/6afc5d02a5a57915ac4fff3e/master/pass/Ryley-Walker-new-album.jpg",
    "date": "2026-11-17T14:43:21.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-   "title": "How new US chip restrictions on South East Asia will hit China",
-   "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-   "detail": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
-   "date": "2026-11-17T14:25:45.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-   "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-   "detail": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
-   "date": "2026-11-17T14:00:29.000Z"
   },
   {
    "topic": "Elettronica",
@@ -1050,34 +1160,12 @@
    "topic": "Economia",
    "type": "notizia",
    "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-   "title": "Government must act now or lose Royal Mail, former minister warns",
-   "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-   "detail": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9890/live/489f1940-e1c1-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-17T12:43:07.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
    "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
    "title": "Where are the most jobs for 18-24 year-olds?",
    "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
    "detail": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
    "date": "2026-11-17T12:35:53.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-   "title": "Artist brings old Space Shuttle tank back to life",
-   "summary": "\"It's definitely the largest art project I've ever worked on.\"",
-   "detail": "\"It's definitely the largest art project I've ever worked on.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111326aa-lg-1152x648.jpg",
-   "date": "2026-11-17T12:15:54.000Z"
   },
   {
    "topic": "Scienza",
@@ -1100,17 +1188,6 @@
    "detail": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time they spend using them.",
    "image": "",
    "date": "2026-11-17T12:03:58.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/17/newer-rigol-scopes-get-a-custom-linux-firmware/",
-   "title": "Newer Rigol Scopes Get a Custom Linux Firmware",
-   "summary": "Electronics test equipment is a topic near and dear to many Hackaday readers. The average reader of this article is most likely within 50 feet of a multimeter, and it …read more",
-   "detail": "Electronics test equipment is a topic near and dear to many Hackaday readers. The average reader of this article is most likely within 50 feet of a multimeter, and it …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/pane-spectrum.png",
-   "date": "2026-11-17T12:00:42.000Z"
   },
   {
    "topic": "Salute",
@@ -1179,17 +1256,6 @@
    "date": "2026-11-17T11:29:36.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-   "title": "US government confirms investigation into tech firm Megaspeed",
-   "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-   "detail": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
-   "date": "2026-11-17T11:17:32.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "IEEE Spectrum",
@@ -1210,17 +1276,6 @@
    "detail": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/64f6/live/4c3df530-e261-11f1-a094-5fdc692f3e33.jpg",
    "date": "2026-11-17T10:36:21.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/17/a-3d-printed-pixel-clock-with-a-twist/",
-   "title": "A 3D Printed Pixel Clock, with a Twist",
-   "summary": "The availability of cheap addressable RGB LED strips has been a huge boon for hardware hackers, as it makes many projects far more accessible. This usually requires a lot of …read more",
-   "detail": "The availability of cheap addressable RGB LED strips has been a huge boon for hardware hackers, as it makes many projects far more accessible. This usually requires a lot of …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/pixelclock_feat.jpg",
-   "date": "2026-11-17T09:00:56.000Z"
   },
   {
    "topic": "Mondo",
@@ -1256,28 +1311,6 @@
    "date": "2026-11-17T06:54:38.000Z"
   },
   {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
-   "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
-   "summary": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a…",
-   "detail": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Milky Way […]",
-   "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-   "date": "2026-11-17T05:05:00.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
-   "title": "Tossing Fireworks from Cloud to Cloud",
-   "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
-   "detail": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
-   "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-   "date": "2026-11-17T05:01:00.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -1309,28 +1342,6 @@
    "detail": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides verifiable error margins that could help unlock the full potential of quantum computing.",
    "image": "",
    "date": "2026-11-17T00:20:40.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-   "title": "We couldn't afford a house alone, so we bought one with strangers",
-   "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-   "detail": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
-   "date": "2026-11-17T00:00:02.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-   "title": "OpenAI sued by California over Hugging Face attack",
-   "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-   "detail": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
-   "date": "2026-11-16T23:12:24.000Z"
   },
   {
    "topic": "Musica",
@@ -1551,17 +1562,6 @@
    "detail": "This article is brought to you by Innomotics . In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner von Siemens in 1866, this groundbreaking principle remains fundamental to modern electrical engineering more than a century and a half later – and continues to shape the technology portfolio of Innomotics , a globally leading provider of electric motors and large drive systems. What began as a breakthrough in electromechanical energy conversion has evolved into a cornerstone of global industry – powering everything from brewery operations in Qingdao to high-voltage drive systems in…",
    "image": "https://spectrum.ieee.org/media-library/graphic-of-an-electric-motor-with-bold-text-reading-160-years.jpg?id=68515186&width=980",
    "date": "2026-11-11T11:00:02.000Z"
-  },
-  {
-   "topic": "Salute",
-   "type": "notizia",
-   "source": "BBC Health",
-   "url": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss",
-   "title": "Governments 'asleep at the wheel' over social care, says head of review",
-   "summary": "Baroness Casey criticises variability of services and fees charged to self-funders in England.",
-   "detail": "Baroness Casey criticises variability of services and fees charged to self-funders in England.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4dca/live/70fe5e10-ddba-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-11T09:08:48.000Z"
   },
   {
    "topic": "Elettronica",
