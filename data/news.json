@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:23:00.784Z",
+ "updated": "2026-11-21T23:04:24.367Z",
  "items": [
   {
    "topic": "Storia",
@@ -10,7 +10,7 @@
    "summary": "La NATO invita Bulgaria, Estonia, Lettonia, Lituania, Romania, Slovacchia e Slovenia a diventare membri.",
    "detail": "La NATO invita Bulgaria, Estonia, Lettonia, Lituania, Romania, Slovacchia e Slovenia a diventare membri. — La NATO, Organizzazione del Trattato dell'Atlantico del Nord è un'alleanza militare intergovernativa nel settore della difesa, che include trentadue Stati membri, di cui trenta europei e due nordamericani, e che è stata istituita all'indomani della Seconda guerra mondiale. Il trattato istitutivo della NATO, il Patto Atlantico, fu firmato a Washington il 4 aprile 1949 ed entrò in vigore il 24 agosto dello stesso anno.",
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/langit-960px-NATO_OTAN_landscape_logo.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-21T17:22:42.915Z"
+   "date": "2026-11-21T23:04:23.838Z"
   },
   {
    "topic": "Storia",
@@ -21,106 +21,293 @@
    "summary": "La Carolina del Nord ratifica la costituzione degli Stati Uniti d'America e viene ammessa come 12º stato.",
    "detail": "La Carolina del Nord ratifica la costituzione degli Stati Uniti d'America e viene ammessa come 12º stato. — La Carolina del Nord ; sigla NC) è uno dei tredici Stati originari degli Stati Uniti d'America. Geograficamente si trova fra l'Atlantico e i monti Appalachi, comprendendo anche parte dei monti Blue Ridge ed è uno stato in gran parte agricolo, con forte produzione di tabacco e allevamenti di maiali, oltre a un'industria turistica sulla riva atlantica e nelle montagne.",
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/langit-960px-Flag_of_North_Carolina.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-21T17:22:42.915Z"
+   "date": "2026-11-21T23:04:23.838Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Sport",
    "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/serie-a-parma-roma-in-campo-sabato-alle-18-diretta_eac36e08-8500-445a-90ff-af44d78dac5a.html",
-   "title": "Calcio: Serie A, in campo Parma-Roma DIRETTA",
-   "summary": "Si gioca la 12ma giornata di campionato",
-   "detail": "Si gioca la 12ma giornata di campionato",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/serie-a-abate-buonissima-prestazione-ma-usciamo-a-mani-vuote-ce-rammarico_4b7918c9-428a-4efb-9150-a336a9a1b4c3.html",
+   "title": "Serie A: Abate, 'buonissima prestazione ma usciamo a mani vuote, c'è rammarico'",
+   "summary": "Il tecnico del Torino: \"Squadra ha dato tutto però ci manca ancora qualcosa\"",
+   "detail": "Il tecnico del Torino: \"Squadra ha dato tutto però ci manca ancora qualcosa\"",
    "image": "",
-   "date": "2026-11-21T17:06:31.000Z"
+   "date": "2026-11-21T22:46:46.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Sport",
    "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/un-vicino-di-de-gennaro-negli-ultimi-tempi-non-aveva-voglia-di-sorridere_7d4d7b82-e5c8-4959-ab2a-f16af5a1468d.html",
-   "title": "Nessun biglietto ritrovato nella casa di De Gennaro. Un vicino: 'Negli ultimi tempi non aveva voglia di sorridere'",
-   "summary": "'Ieri sera la luce della sua camera era accesa, ma nessun movimento strano'",
-   "detail": "'Ieri sera la luce della sua camera era accesa, ma nessun movimento strano'",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/21/atp-finals-zverev-per-come-sta-giocando-alcaraz-e-forse-il-piu_d0839cd0-3026-4c50-bd1e-5765ee504016.html",
+   "title": "Atp Finals: Zverev, 'per come sta giocando Alcaraz è forse il più forte di tutti'",
+   "summary": "Il tedesco: \"A me piacciono le sfide. Mi piace misurarmi con i migliori\"",
+   "detail": "Il tedesco: \"A me piacciono le sfide. Mi piace misurarmi con i migliori\"",
    "image": "",
-   "date": "2026-11-21T17:03:01.000Z"
+   "date": "2026-11-21T22:44:38.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/21/atp-finals-medvedev-finale-interessante-alcaraz-sa-rispondere-bene_d591accc-b383-4661-a16f-0f692d741575.html",
+   "title": "Atp Finals: Medvedev, 'finale interessante, Alcaraz sa rispondere bene'",
+   "summary": "Il russo sconfitto: \"Vedremo e che vinca il migliore\"",
+   "detail": "Il russo sconfitto: \"Vedremo e che vinca il migliore\"",
+   "image": "",
+   "date": "2026-11-21T22:36:30.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/serie-a-allegri-bella-vittoria-di-sofferenza-che-ci-mancava_9c899926-9d58-40ff-b8c2-d07d73dc006d.html",
+   "title": "Serie A: Allegri, 'bella vittoria di sofferenza che ci mancava'",
+   "summary": "Il tecnico del Napoli: \"Squadra ha preso atto del momento, insieme ne usciremo\"",
+   "detail": "Il tecnico del Napoli: \"Squadra ha preso atto del momento, insieme ne usciremo\"",
+   "image": "",
+   "date": "2026-11-21T22:33:12.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/21/rugby-sara-francia-sudafrica-la-finale-del-primo-nations-championship_f3c3535e-ac25-4536-b188-d259a36b8a42.html",
+   "title": "Rugby: sarà Francia-Sudafrica la finale del primo Nations Championship",
+   "summary": "Galletti a punteggio pieno nel girone europeo, gli Springboks la spuntano nonostante il ko",
+   "detail": "Galletti a punteggio pieno nel girone europeo, gli Springboks la spuntano nonostante il ko",
+   "image": "",
+   "date": "2026-11-21T22:31:25.000Z"
   },
   {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
    "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
-   "title": "L'ex capo della Polizia De Gennaro si è ucciso sparandosi. La procura indaga per istigazione al suicidio",
-   "summary": "Si è tolto la vita nella sua casa di campagna in Maremma. Anche il Ris al lavoro sul posto",
-   "detail": "Si è tolto la vita nella sua casa di campagna in Maremma. Anche il Ris al lavoro sul posto",
+   "title": "L'ex capo della Polizia De Gennaro si è ucciso, sconvolto dalle indagini su Via d'Amelio",
+   "summary": "L'ex capo della Polizia si spara nella sua casa in campagna. Era atteso dal Riesame",
+   "detail": "L'ex capo della Polizia si spara nella sua casa in campagna. Era atteso dal Riesame",
    "image": "",
-   "date": "2026-11-21T17:00:33.000Z"
+   "date": "2026-11-21T22:28:04.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "detail": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+   "date": "2026-11-21T22:19:43.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+   "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+   "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+   "detail": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg",
+   "date": "2026-11-21T22:12:41.000Z"
   },
   {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/calcio-frattesi-obiettivo-lazio-sono-i-40-punti-per-gattuso-farei-ogni_ced73355-29c5-4c59-bfad-57de13f00b18.html",
-   "title": "Calcio: Frattesi 'obiettivo Lazio sono i 40 punti, per Gattuso farei ogni cosa'",
-   "summary": "Centrocampista biancoceleste: \"Mister ti entra in testa, mi ha ridato entusiasmo\"",
-   "detail": "Centrocampista biancoceleste: \"Mister ti entra in testa, mi ha ridato entusiasmo\"",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/liga-mbappe-sbaglia-il-rigore-ma-il-real-rimonta-lo-stesso-e-batte-il-celta_9e00f63c-a843-4326-b6a8-08baafa9ff95.html",
+   "title": "Liga: Mbappé sbaglia il rigore, ma il Real rimonta lo stesso e batte il Celta",
+   "summary": "Ancora decisivo il giovane centravanti Espí, al Bernabeu finisce 2-1",
+   "detail": "Ancora decisivo il giovane centravanti Espí, al Bernabeu finisce 2-1",
    "image": "",
-   "date": "2026-11-21T16:55:10.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/serie-a-la-lazio-capolista-continua-a-volare-3-0-al-lecce-e-decima-vittoria_05227143-7aa6-4a9f-b9b1-0ba49f83d91d.html",
-   "title": "Serie A: La Lazio capolista continua a volare, 3-0 al Lecce e decima vittoria",
-   "summary": "La doppietta di Noslin e il gol di Frattesi stendono la squadra di Di Francesco",
-   "detail": "La doppietta di Noslin e il gol di Frattesi stendono la squadra di Di Francesco",
-   "image": "",
-   "date": "2026-11-21T16:54:18.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/21/serie-a-di-francesco-la-lazio-piu-forte-ma-per-il-lecce-passivo-troppo-pesante_c9fac6a6-1e06-4efe-9ce6-29a2a02691b4.html",
-   "title": "Serie A; Di Francesco: 'La Lazio più forte, ma per il Lecce passivo troppo pesante'",
-   "summary": "Il tecnico giallorosso: \"Bisogna concretizzare le occasioni, davanti chiedo di più\"",
-   "detail": "Il tecnico giallorosso: \"Bisogna concretizzare le occasioni, davanti chiedo di più\"",
-   "image": "",
-   "date": "2026-11-21T16:50:30.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/serie-a-un-gol-per-tempo-e-il-como-riparte-cagliari-ko-sul-lago_4b3e2afb-bd7a-45ec-9fa2-c85122e95160.html",
-   "title": "Serie A: un gol per tempo e il Como riparte, Cagliari ko sul lago",
-   "summary": "Ramon e Da Cunha firmano il ritorno al successo della squadra di Fabregas",
-   "detail": "Ramon e Da Cunha firmano il ritorno al successo della squadra di Fabregas",
-   "image": "",
-   "date": "2026-11-21T16:45:48.000Z"
+   "date": "2026-11-21T22:09:27.000Z"
   },
   {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
-   "url": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/21/morto-paolo-bulgari-grande-gioielliere-aveva-89-anni_638fc3ea-0eef-45d0-abf3-6c92929a1619.html",
-   "title": "Morto Paolo Bulgari, il \"Re\" dell'alta gioielleria",
-   "summary": "L'omaggio di Arnault: 'Artefice chiave del successo del marchio'",
-   "detail": "L'omaggio di Arnault: 'Artefice chiave del successo del marchio'",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/serie-a-un-super-mctominay-regala-al-napoli-la-vittoria-scacciacrisi_289b27ac-0805-4344-91a4-55efce609725.html",
+   "title": "Serie A, un super McTominay regala al Napoli la vittoria scacciacrisi",
+   "summary": "Torino sconfitto 1-0 con Perri in grande evidenza. La Lazio capolista continua a volare. Roma avanti a suon di gol",
+   "detail": "Torino sconfitto 1-0 con Perri in grande evidenza. La Lazio capolista continua a volare. Roma avanti a suon di gol",
    "image": "",
-   "date": "2026-11-21T16:43:26.000Z"
+   "date": "2026-11-21T22:07:36.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+   "title": "Lock of former US President George Washington's hair sells for $4,000",
+   "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+   "detail": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
+   "date": "2026-11-21T22:01:19.000Z"
   },
   {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/serie-a-di-francesco-lazio-piu-forte-ma-per-il-lecce-passivo-troppo-pesante_4b240976-2c49-4590-ba71-7e01093df99b.html",
-   "title": "Serie A: Di Francesco, 'Lazio più forte, ma per il Lecce passivo troppo pesante'",
-   "summary": "Tecnico giallorosso: \"Bisogna concretizzare le occasioni, davanti chiedo di più\"",
-   "detail": "Tecnico giallorosso: \"Bisogna concretizzare le occasioni, davanti chiedo di più\"",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/serie-a-saetta-di-mctominay-da-lontano-il-napoli-batte-il-torino_bdec195e-671e-484f-b977-b90774fe6f18.html",
+   "title": "Serie A: saetta di McTominay da lontano, il Napoli batte il Torino",
+   "summary": "Il gol nella ripresa, la squadra di Allegri sale a 18 punti",
+   "detail": "Il gol nella ripresa, la squadra di Allegri sale a 18 punti",
    "image": "",
-   "date": "2026-11-21T16:35:54.000Z"
+   "date": "2026-11-21T21:39:39.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/21/atp-finals-zverev-supera-medvedev-ora-e-finale-contro-alcaraz_8d0a7ea7-0443-48ab-9db9-9dfaf4cbdaca.html",
+   "title": "Atp Finals: Zverev supera Medvedev, ora è finale contro Alcaraz",
+   "summary": "Il tedesco vince in due set col punteggio di 7-6 6-4",
+   "detail": "Il tedesco vince in due set col punteggio di 7-6 6-4",
+   "image": "",
+   "date": "2026-11-21T21:13:34.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "detail": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-21T21:05:29.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/",
+   "title": "ESP32 Drives MDA Display For Wireless Terminal",
+   "summary": "Don’t you miss the days where you had to point a particle accelerator at your face for a full shift? Well, maybe not when we think of it that way, …read more",
+   "detail": "Don’t you miss the days where you had to point a particle accelerator at your face for a full shift? Well, maybe not when we think of it that way, …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/ESP32-TLL-CRT.jpg",
+   "date": "2026-11-21T21:00:25.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/fifa-anche-la-caf-sostiene-infantino-standing-ovation-davanti-a-diallo_45b1d3dc-9948-4055-8488-64f4846f9c39.html",
+   "title": "Fifa: anche la Caf sostiene Infantino, standing ovation davanti a Diallo",
+   "summary": "L'appoggio dell'Africa arriva dopo quello di Sud America e Paesi arabi",
+   "detail": "L'appoggio dell'Africa arriva dopo quello di Sud America e Paesi arabi",
+   "image": "",
+   "date": "2026-11-21T20:57:30.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/le-ultime-ore-di-gianni-de-gennaro-da-solo-la-pistola-trovata-accanto-al-corpo_62566f21-e7ca-4243-a0b3-26a71e01c4ea.html",
+   "title": "Le ultime ore di Gianni De Gennaro da solo, la pistola trovata accanto al corpo",
+   "summary": "L'allarme dal custode, biglietti per familiari e documenti. Indagini per istigazione al suicidio. Il reportage dell'inviato",
+   "detail": "L'allarme dal custode, biglietti per familiari e documenti. Indagini per istigazione al suicidio. Il reportage dell'inviato",
+   "image": "",
+   "date": "2026-11-21T19:52:01.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/gatto-a-spasso-in-cabina-volo-della-delta-bloccato-a-boston_50bc666a-ec8d-4139-a6f2-cc436eea8fb5.html",
+   "title": "Gatto a spasso in cabina, volo della Delta bloccato a Boston",
+   "summary": "La torre di controllo: 'Questa è nuova. Buona giornata e miao'",
+   "detail": "La torre di controllo: 'Questa è nuova. Buona giornata e miao'",
+   "image": "",
+   "date": "2026-11-21T19:38:32.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/alta-tensione-nel-mar-baltico-colpita-una-nave-cargo-russa-_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
+   "title": "Alta tensione nel mar Baltico, colpita una nave cargo russa",
+   "summary": "Il premier finlandese: 'La guerra si estende'. Mosca attacca un mercantile a sud di Odessa",
+   "detail": "Il premier finlandese: 'La guerra si estende'. Mosca attacca un mercantile a sud di Odessa",
+   "image": "",
+   "date": "2026-11-21T19:22:22.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/meloni-profondamente-scioccata-per-de-gennaro.-il-figlio-di-borsellino-potrebbe-essersene-andato_42ef82fc-43b8-4902-a35d-dd280c6de41c.html",
+   "title": "'Gianni De Gennaro vittima di un massacro giudiziario', l'accusa del centrodestra",
+   "summary": "Meloni 'scioccata'. I distinguo a sinistra. La Russa: \"A volte il suicidio è anche coraggio\"",
+   "detail": "Meloni 'scioccata'. I distinguo a sinistra. La Russa: \"A volte il suicidio è anche coraggio\"",
+   "image": "",
+   "date": "2026-11-21T19:21:26.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "title": "Russia-bound ship attacked in Gulf of Finland",
+   "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+   "detail": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
+   "date": "2026-11-21T19:20:22.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/21/tagli-al-bilancio-ue-ce-una-digital-tax-da-52-miliardi_0e90b338-3f27-4ac8-83c2-5f3ac96954ff.html",
+   "title": "Nuovi tagli al bilancio Ue, c'è una digital tax da 5,2 miliardi",
+   "summary": "Costa: 'Proposta ambiziosa'. Ma i Paesi frugali e l'Eurocamera sono ancora scontenti",
+   "detail": "Costa: 'Proposta ambiziosa'. Ma i Paesi frugali e l'Eurocamera sono ancora scontenti",
+   "image": "",
+   "date": "2026-11-21T19:01:20.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/21/mps-lopas-di-intesa-congrua-dopo-il-rilancio-e-le-garanzie-su-siena_02968d27-bddb-4349-a9f5-be183321f9c3.html",
+   "title": "Mps: 'L'Opas di Intesa congrua ma non riflette il nostro valore'",
+   "summary": "'Dalle prospettive stand alone al ruolo di Siena, nove punti da valutare attentamente'",
+   "detail": "'Dalle prospettive stand alone al ruolo di Siena, nove punti da valutare attentamente'",
+   "image": "",
+   "date": "2026-11-21T18:56:30.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/videogallery/mondo/2026/11/21/grecia-polemiche-per-video-di-mitsotakis-ai-giovani-chiederete-gta-vi-per-natale_08d3597a-2ee2-4c3a-80da-e699960ed526.html",
+   "title": "Grecia, polemiche per video di Mitsotakis ai giovani: \"Chiederete GTA VI per Natale?\"",
+   "summary": "Il primo ministro su TikTok: \"Sappiamo tutti che nonni e nonne raramente dicono di no ai nipoti\"",
+   "detail": "Il primo ministro su TikTok: \"Sappiamo tutti che nonni e nonne raramente dicono di no ai nipoti\"",
+   "image": "",
+   "date": "2026-11-21T18:23:12.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/21/automation-for-the-swimming-pool/",
+   "title": "Automation For The Swimming Pool",
+   "summary": "Swimming pools demand constant maintenance if they are to avoid becoming disgusting pools of fetid, bacterial soup. [ingTacchelli] has been working on an automation system for this very purpose.…",
+   "detail": "Swimming pools demand constant maintenance if they are to avoid becoming disgusting pools of fetid, bacterial soup. [ingTacchelli] has been working on an automation system for this very purpose. Swimming …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/4805701792398468069-e1795094773583.png",
+   "date": "2026-11-21T18:00:23.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/21/a-pupi-avati-il-premio-humanitas-custode-della-memoria_43558768-9e47-4430-97de-546d03746645.html",
+   "title": "A Pupi Avati il \"premio humanitas - custode della memoria\"",
+   "summary": "Venerdì 11 dicembre a Castel Gandolfo l'omaggio dell'Hallelujah Film Festival",
+   "detail": "Venerdì 11 dicembre a Castel Gandolfo l'omaggio dell'Hallelujah Film Festival",
+   "image": "",
+   "date": "2026-11-21T17:17:34.000Z"
   },
   {
    "topic": "Mondo",
@@ -132,17 +319,6 @@
    "detail": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
    "date": "2026-11-21T16:35:15.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/meloni-profondamente-scioccata-per-de-gennaro.-il-figlio-di-borsellino-potrebbe-essersene-andato_42ef82fc-43b8-4902-a35d-dd280c6de41c.html",
-   "title": "Mattarella chiama il fratello di De Gennaro. Meloni: 'Scioccata'. La Russa: 'Il suicidio è anche coraggio'",
-   "summary": "Tanti messaggi di cordoglio per l'ex capo della polizia. Telefonata di Mattarella al fratello di De Gennaro",
-   "detail": "Tanti messaggi di cordoglio per l'ex capo della polizia. Telefonata di Mattarella al fratello di De Gennaro",
-   "image": "",
-   "date": "2026-11-21T16:24:47.000Z"
   },
   {
    "topic": "Spazio",
@@ -165,28 +341,6 @@
    "detail": "L'omaggio di Arnault, artefice chiave del successo del marchio",
    "image": "",
    "date": "2026-11-21T16:15:53.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/serie-a-lazio-e-como-non-sbagliano-vittorie-casalinghe-con-lecce-e-cagliari_446e67e2-6860-4c4a-a3f3-8e4d80d418c7.html",
-   "title": "Serie A: Lazio e Como non sbagliano, vittorie casalinghe con Lecce e Cagliari",
-   "summary": "Gattuso ancora primo con doppio Noslin e Frattesi. Ramon e Da Cunha spingono i lariani",
-   "detail": "Gattuso ancora primo con doppio Noslin e Frattesi. Ramon e Da Cunha spingono i lariani",
-   "image": "",
-   "date": "2026-11-21T15:58:51.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/calcio-cardinale-milan-sta-bene-e-col-frosinone-importante-vincere_a930e418-b8b1-4aef-a8a8-47896a6d88ac.html",
-   "title": "Calcio: Cardinale, Milan sta bene e col Frosinone importante vincere",
-   "summary": "\"Rinnovo Rabiot? Spero presto, lo adoro e deve essere simbolo del club\"",
-   "detail": "\"Rinnovo Rabiot? Spero presto, lo adoro e deve essere simbolo del club\"",
-   "image": "",
-   "date": "2026-11-21T15:54:47.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -222,17 +376,6 @@
    "date": "2026-11-21T15:47:31.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/21/atp-finals-alcaraz-in-rimonta-batte-shelton-e-vola-in-finale_7645182b-db51-4991-9818-b1d9f8db988f.html",
-   "title": "Atp Finals: Alcaraz in rimonta, batte Shelton e vola in finale",
-   "summary": "Statunitense sconfitto in tre set",
-   "detail": "Statunitense sconfitto in tre set",
-   "image": "",
-   "date": "2026-11-21T15:45:18.000Z"
-  },
-  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -242,28 +385,6 @@
    "detail": "In sala e poi su Netflix il sequel adrenalinico firmato Fincher",
    "image": "",
    "date": "2026-11-21T15:41:28.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/21/calcio-juve-spalletti-conte-normale-sperare-in-panchine-importanti_8d344896-f8f1-42a1-b528-766e6b0915d6.html",
-   "title": "Calcio: Juve; Spalletti, 'Conte? Normale sperare in panchine importanti'",
-   "summary": "Tecnico bianconero: 'non trovo il motivo di tutto questo rumore'",
-   "detail": "Tecnico bianconero: 'non trovo il motivo di tutto questo rumore'",
-   "image": "",
-   "date": "2026-11-21T15:40:18.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/21/tagli-al-bilancio-ue-ce-una-digital-tax-da-52-miliardi_0e90b338-3f27-4ac8-83c2-5f3ac96954ff.html",
-   "title": "Tagli al bilancio Ue, c'è una digital tax da 5,2 miliardi",
-   "summary": "Costa: 'Proposta ambiziosa'. Ma i Paesi frugali e l'Eurocamera sono ancora scontenti",
-   "detail": "Costa: 'Proposta ambiziosa'. Ma i Paesi frugali e l'Eurocamera sono ancora scontenti",
-   "image": "",
-   "date": "2026-11-21T15:32:28.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -365,28 +486,6 @@
    "date": "2026-11-21T14:56:16.000Z"
   },
   {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/21/claudio-bisio-nominato-commendatore-da-mattarella-pensavo-fosse-uno-scherzo_c3b97e8b-a42f-406f-989d-a7797963e902.html",
-   "title": "Claudio Bisio nominato Commendatore da Mattarella, \"pensavo fosse uno scherzo\"",
-   "summary": "Attore e conduttore tv, 'è accaduto qualche settimana fa. Ho provato emozione'",
-   "detail": "Attore e conduttore tv, 'è accaduto qualche settimana fa. Ho provato emozione'",
-   "image": "",
-   "date": "2026-11-21T14:54:35.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "detail": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-   "date": "2026-11-21T14:54:24.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -412,6 +511,17 @@
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
+   "url": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/11/21/cresce-lallarme-sulle-truffe-cyber-in-vista-del-black-friday_ce7e5b47-8775-4d58-b7af-71c8aecf38f6.html",
+   "title": "Cresce l'allarme sulle truffe cyber in vista del Black Friday",
+   "summary": "Ricerca, un messaggio spam su due a tema promozionale nasconde un tentativo di frode",
+   "detail": "Ricerca, un messaggio spam su due a tema promozionale nasconde un tentativo di frode",
+   "image": "",
+   "date": "2026-11-21T13:39:53.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
    "url": "https://www.ansa.it/sito/photogallery/primopiano/2026/11/21/capo-della-polizia-poi-007-la-vita-di-gianni-de-gennaro-nelle-foto_3948a551-2975-420c-aa7c-ac4b28509bfb.html",
    "title": "Capo della Polizia, poi 007: la vita di Gianni De Gennaro nelle foto d'archivio",
    "summary": "Capo della Polizia, poi 007: la vita di Gianni De Gennaro nelle foto d'archivio",
@@ -429,17 +539,6 @@
    "detail": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
    "date": "2026-11-21T13:17:38.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "detail": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-21T13:15:21.000Z"
   },
   {
    "topic": "Spazio",
@@ -530,17 +629,6 @@
    "date": "2026-11-21T09:40:55.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/videogallery/mondo/2026/11/21/in-giappone-un-passeggero-vola-su-un-aerotaxi-a-decollo-e-atterraggio-verticale-senza-pilota_d9855f78-33ee-4c39-bf27-dd6980049c48.html",
-   "title": "In Giappone un passeggero vola su un aerotaxi a decollo e atterraggio verticale senza pilota",
-   "summary": "Il volo dimostrativo del velivolo elettrico si è svolto nella prefettura di Yamanashi",
-   "detail": "Il volo dimostrativo del velivolo elettrico si è svolto nella prefettura di Yamanashi",
-   "image": "",
-   "date": "2026-11-21T09:38:17.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "ANSA Economia",
@@ -572,28 +660,6 @@
    "detail": "Indagine Confcommercio, abbigliamento ed elettronica si confermano in cima alle preferenze",
    "image": "",
    "date": "2026-11-21T08:54:01.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/21/mps-lopas-di-intesa-congrua-dopo-il-rilancio-e-le-garanzie-su-siena_02968d27-bddb-4349-a9f5-be183321f9c3.html",
-   "title": "Mps: 'L'Opas di Intesa congrua dopo il rilancio e le garanzie su Siena'",
-   "summary": "Tuttavia il corrispettivo non riflette appieno valore e prospettive di crescita del gruppo",
-   "detail": "Tuttavia il corrispettivo non riflette appieno valore e prospettive di crescita del gruppo",
-   "image": "",
-   "date": "2026-11-21T08:04:08.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/20/a-milano-il-rock-dei-muse-diventa-uno-spettacolo-nello-spazio_37d28725-6aaa-4f85-b897-4c8fb11e0925.html",
-   "title": "A Milano il rock dei Muse diventa uno spettacolo nello spazio",
-   "summary": "Tra laser, grandi classici e nostalgia, Bellamy conquista l'Unipol Dome",
-   "detail": "Tra laser, grandi classici e nostalgia, Bellamy conquista l'Unipol Dome",
-   "image": "",
-   "date": "2026-11-21T07:40:21.000Z"
   },
   {
    "topic": "Economia",
@@ -695,28 +761,6 @@
    "date": "2026-11-21T00:02:09.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/20/decapitation-seems-like-a-great-way-to-start-x-mas-decorating/",
-   "title": "Decapitation Seems Like a Great Way to Start X-Mas Decorating",
-   "summary": "American cultural osmosis being what it is, it’s likely more people know the story of Frosty the Snowman than have ever actually had the chance to build a snowman. What …read more",
-   "detail": "American cultural osmosis being what it is, it’s likely more people know the story of Frosty the Snowman than have ever actually had the chance to build a snowman. What …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Snowman-armature-and-dressed.webp",
-   "date": "2026-11-21T00:00:51.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-   "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-   "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-   "detail": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-20T23:08:57.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "BBC Business",
@@ -728,9 +772,9 @@
    "date": "2026-11-20T22:53:24.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Economia",
    "type": "notizia",
-   "source": "BBC News",
+   "source": "BBC Business",
    "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
    "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
@@ -814,17 +858,6 @@
    "detail": "On Nov. 20, 1998, the first piece of the International Space Station launched into orbit. It was just one piece, but the foundation of something much larger.",
    "image": "https://cdn.mos.cms.futurecdn.net/K3vjRotmYAeC2b3V9r2VRe-1920-80.jpg",
    "date": "2026-11-20T21:19:33.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/20/old-firewire-audio-interface-gets-usb-c-upgrade/",
-   "title": "Old FireWire Audio Interface Gets USB C Upgrade",
-   "summary": "[bonsembiante] had a PreSonus Firestudio Project on hand. It’s a very capable audio interface with 8 inputs and 8 outputs, along with MIDI to boot. However, it’s got one problem—it …read more",
-   "detail": "[bonsembiante] had a PreSonus Firestudio Project on hand. It’s a very capable audio interface with 8 inputs and 8 outputs, along with MIDI to boot. However, it’s got one problem—it …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/fuegocable_presonus_fsp_finishing_01-d158c-3264-e1795088226682.webp",
-   "date": "2026-11-20T21:00:28.000Z"
   },
   {
    "topic": "Spazio",
@@ -948,17 +981,6 @@
    "date": "2026-11-20T19:37:17.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-   "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-   "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
-   "detail": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg",
-   "date": "2026-11-20T19:21:50.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "ANSA Economia",
@@ -1056,17 +1078,6 @@
    "detail": "The keenly awaited loosie has found a home on the blockbuster game’s soundtrack",
    "image": "https://media.pitchfork.com/photos/6b006a18cf9176131d6d997d/master/pass/lana-del-rey-gta-vi-crazy-for-you.jpg",
    "date": "2026-11-20T15:42:36.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/instagram-si-aggiorna-arrivano-le-storie-modificabili-dopo-la-pubblicazione_7136b2e9-b0b7-4163-a93a-29c25d77515e.html",
-   "title": "Instagram si aggiorna, arrivano le 'storie' modificabili dopo la pubblicazione",
-   "summary": "15 minuti di tempo per modificare testi e grafiche senza perdere like e commenti",
-   "detail": "15 minuti di tempo per modificare testi e grafiche senza perdere like e commenti",
-   "image": "",
-   "date": "2026-11-20T15:42:22.000Z"
   },
   {
    "topic": "Musica",
