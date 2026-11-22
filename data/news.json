@@ -1,27 +1,82 @@
 {
- "updated": "2026-11-21T23:04:24.367Z",
+ "updated": "2026-11-22T03:02:13.029Z",
  "items": [
   {
-   "topic": "Storia",
+   "topic": "Spazio",
    "type": "curiosità",
-   "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/NATO",
-   "title": "2002: La NATO invita Bulgaria, Estonia, Lettonia, Lituania, Romania, Slovacchia e Slovenia a…",
-   "summary": "La NATO invita Bulgaria, Estonia, Lettonia, Lituania, Romania, Slovacchia e Slovenia a diventare membri.",
-   "detail": "La NATO invita Bulgaria, Estonia, Lettonia, Lituania, Romania, Slovacchia e Slovenia a diventare membri. — La NATO, Organizzazione del Trattato dell'Atlantico del Nord è un'alleanza militare intergovernativa nel settore della difesa, che include trentadue Stati membri, di cui trenta europei e due nordamericani, e che è stata istituita all'indomani della Seconda guerra mondiale. Il trattato istitutivo della NATO, il Patto Atlantico, fu firmato a Washington il 4 aprile 1949 ed entrò in vigore il 24 agosto dello stesso anno.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/langit-960px-NATO_OTAN_landscape_logo.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-21T23:04:23.838Z"
+   "source": "NASA · Foto del giorno",
+   "url": "https://apod.nasa.gov/apod/astropix.html",
+   "title": "NASA Science",
+   "summary": "Cruising through the outer solar system, the Voyager 2 spacecraft made its closest approach to Neptune on August 25, 1989, the only spacecraft to visit the most distant ice giant planet. Based on the…",
+   "detail": "Cruising through the outer solar system, the Voyager 2 spacecraft made its closest approach to Neptune on August 25, 1989, the only spacecraft to visit the most distant ice giant planet. Based on the images recorded during its close encounter and in the following days, this inspired composited scene covers the dim outer planet, largest moon Triton, and faint system of rings. From just beyond Neptune's orbit, the interplanetary perspective looks back toward the Sun, capturing the planet and Triton as thin sunlit crescents. Cirrus clouds and a dark band circle Neptune's south polar region, with a cloudy vortex above the pole itself. Parts of the very faint ring system along with the three bright ring arcs were first imaged by Voyager during the fly-by, though the faintest segments are modeled in this composited picture. Spanning 7.5 degrees, the background starfield is composed from sky…",
+   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+   "date": "2026-11-22T03:02:13.028Z"
   },
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Carolina_del_Nord",
-   "title": "1789: La Carolina del Nord ratifica la costituzione degli Stati Uniti d'America e viene ammessa…",
-   "summary": "La Carolina del Nord ratifica la costituzione degli Stati Uniti d'America e viene ammessa come 12º stato.",
-   "detail": "La Carolina del Nord ratifica la costituzione degli Stati Uniti d'America e viene ammessa come 12º stato. — La Carolina del Nord ; sigla NC) è uno dei tredici Stati originari degli Stati Uniti d'America. Geograficamente si trova fra l'Atlantico e i monti Appalachi, comprendendo anche parte dei monti Blue Ridge ed è uno stato in gran parte agricolo, con forte produzione di tabacco e allevamenti di maiali, oltre a un'industria turistica sulla riva atlantica e nelle montagne.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/langit-960px-Flag_of_North_Carolina.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-21T23:04:23.838Z"
+   "url": "https://it.wikipedia.org/wiki/Nazionale_maschile_di_rugby_a_15_dell'Inghilterra",
+   "title": "2003: L'Inghilterra batte l'Australia e vince la sua prima Coppa del Mondo di rugby.",
+   "summary": "L'Inghilterra batte l'Australia e vince la sua prima Coppa del Mondo di rugby.",
+   "detail": "L'Inghilterra batte l'Australia e vince la sua prima Coppa del Mondo di rugby. — La nazionale di rugby a 15 dell'Inghilterra è la squadra nazionale di rugby a 15 maschile che rappresenta l'Inghilterra in ambito internazionale; opera sotto la giurisdizione della Rugby Football Union (RFU).",
+   "image": "https://thumb.wikimedia.org/wikipedia/it/thumb/3/39/England_national_rugby_team_logo.svg/langit-250px-England_national_rugby_team_logo.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "date": "2026-11-22T03:02:12.854Z"
+  },
+  {
+   "topic": "Storia",
+   "type": "curiosità",
+   "source": "Wikipedia · Accadde oggi",
+   "url": "https://it.wikipedia.org/wiki/John_Fitzgerald_Kennedy",
+   "title": "1963: John Fitzgerald Kennedy viene assassinato a Dallas.",
+   "summary": "John Fitzgerald Kennedy viene assassinato a Dallas.",
+   "detail": "John Fitzgerald Kennedy viene assassinato a Dallas. — John Fitzgerald Kennedy, detto Jack o JFK, è stato un politico statunitense, 35º presidente degli Stati Uniti d'America dal 1961 al 1963.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-22T03:02:12.854Z"
+  },
+  {
+   "topic": "Storia",
+   "type": "curiosità",
+   "source": "Wikipedia · Accadde oggi",
+   "url": "https://it.wikipedia.org/wiki/BBC",
+   "title": "1936: La BBC diventa la prima emittente televisiva al mondo a fornire un servizio regolare.",
+   "summary": "La BBC diventa la prima emittente televisiva al mondo a fornire un servizio regolare.",
+   "detail": "La BBC diventa la prima emittente televisiva al mondo a fornire un servizio regolare. — La BBC è la società concessionaria britannica in esclusiva del servizio pubblico radiotelevisivo nel Regno Unito ed è il più grande editore radiotelevisivo della nazione, con sede principale negli storici studi di Broadcasting House a Westminster, Londra.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/BBCBroadcastingHouse.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-22T03:02:12.854Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "detail": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-22T01:25:03.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "detail": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-22T00:10:44.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/21/thermite-powered-instant-phone-charger/",
+   "title": "Thermite Powered Instant Phone Charger",
+   "summary": "Thermite is an amazing material, using mostly easily obtainable ingredients like aluminium and iron(III) oxide in a redox reaction to create a rather spectacular amount of thermal energy in very…",
+   "detail": "Thermite is an amazing material, using mostly easily obtainable ingredients like aluminium and iron(III) oxide in a redox reaction to create a rather spectacular amount of thermal energy in very …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/thermite_phone_charger_the_thought_emporium_youtube.jpg",
+   "date": "2026-11-22T00:00:29.000Z"
   },
   {
    "topic": "Sport",
@@ -167,17 +222,6 @@
    "date": "2026-11-21T21:13:34.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "detail": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-21T21:05:29.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "Hackaday",
@@ -308,17 +352,6 @@
    "detail": "Venerdì 11 dicembre a Castel Gandolfo l'omaggio dell'Hallelujah Film Festival",
    "image": "",
    "date": "2026-11-21T17:17:34.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-   "detail": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-21T16:35:15.000Z"
   },
   {
    "topic": "Spazio",
@@ -715,17 +748,6 @@
    "detail": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
    "date": "2026-11-21T04:34:00.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/20/improving-aluminium-anodes-for-lithium-batteries-with-magnesium/",
-   "title": "Improving Aluminium Anodes for Lithium Batteries With Manganese",
-   "summary": "Generally lithium-ion cells feature graphite anodes, but their chemical stability comes with the trade-off of poor capacity. Metal alloy anodes such as aluminium, silver and magnesium provide many…",
-   "detail": "Generally lithium-ion cells feature graphite anodes, but their chemical stability comes with the trade-off of poor capacity. Metal alloy anodes such as aluminium, silver and magnesium provide many advantages here, …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/43246_2026_1377_Fig1_HTML.jpg",
-   "date": "2026-11-21T03:00:30.000Z"
   },
   {
    "topic": "Scienza",
