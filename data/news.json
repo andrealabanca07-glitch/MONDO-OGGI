@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:38:01.581Z",
+ "updated": "2026-11-25T22:25:11.938Z",
  "items": [
   {
    "topic": "Storia",
@@ -10,7 +10,7 @@
    "summary": "L'assemblea federale della Cecoslovacchia vota per dividere la nazione in Repubblica Ceca e Slovacchia a partire dal 1º gennaio 1993.",
    "detail": "L'assemblea federale della Cecoslovacchia vota per dividere la nazione in Repubblica Ceca e Slovacchia a partire dal 1º gennaio 1993. — La Cecoslovacchia fu uno Stato europeo indipendente esistito dal 1918 al 1992.",
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langit-960px-Flag_of_the_Czech_Republic.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-25T12:38:00.833Z"
+   "date": "2026-11-25T22:25:11.319Z"
   },
   {
    "topic": "Storia",
@@ -21,29 +21,887 @@
    "summary": "La Germania nazista e il Giappone firmano il patto anticomintern.",
    "detail": "La Germania nazista e il Giappone firmano il patto anticomintern. — Germania nazionalsocialista, nota più comunemente come Germania nazista o Terzo Reich, sono le definizioni con cui generalmente ci si riferisce alla Germania tra il 1933, quando venne governata dal regime totalitario del Partito Nazionalsocialista Tedesco dei Lavoratori guidato dal cancelliere Adolf Hitler, che assunse il titolo di Führer, fino al 1945, quando venne invasa e totalmente sconfitta dagli Alleati.",
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/langit-1280px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-25T12:38:00.833Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/flash/2026/11/25/-capotreno-ucciso-condannato-allergastolo-marin-jelenic-_4cc37a9a-4887-445b-9cc8-31b375edefc9.html",
-   "title": "++ Capotreno ucciso, condannato all'ergastolo Marin Jelenic ++",
-   "summary": "A Bologna la sentenza per l'omicidio di Alessandro Ambrosio",
-   "detail": "A Bologna la sentenza per l'omicidio di Alessandro Ambrosio",
-   "image": "",
-   "date": "2026-11-25T12:27:36.000Z"
+   "date": "2026-11-25T22:25:11.319Z"
   },
   {
    "topic": "Mondo",
    "type": "notizia",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
-   "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-   "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
-   "detail": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/62c6/live/0b9efbb0-e88c-11f1-b10e-f37861cef9d5.jpg",
-   "date": "2026-11-25T12:24:12.000Z"
+   "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+   "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+   "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+   "detail": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/49ab/live/4933ad90-e913-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-25T22:18:06.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon",
+   "title": "December full moon 2026: When, where and how to see the Cold Moon",
+   "summary": "Your guide to December's full Cold Moon, from peak times to skywatching highlights.",
+   "detail": "Your guide to December's full Cold Moon, from peak times to skywatching highlights.",
+   "image": "https://cdn.mos.cms.futurecdn.net/yXTMppHWSFX67pVvTxZ3fS-1920-80.jpg",
+   "date": "2026-11-25T22:00:00.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/champions-linter-batte-lo-stoccarda-la-roma-pareggia-col-psg_fc440be7-2d3f-4bfa-8ff2-271c307f48de.html",
+   "title": "Champions: l'Inter batte lo Stoccarda, la Roma pareggia col Psg",
+   "summary": "A San Siro finisce 2-0, buon 2-2 dei giallorossi a Parigi",
+   "detail": "A San Siro finisce 2-0, buon 2-2 dei giallorossi a Parigi",
+   "image": "",
+   "date": "2026-11-25T21:57:05.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/25/morto-andy-taylor-ex-chitarrista-dei-duran-duran-_af6007f1-1f71-4392-84ac-08b6060d3c63.html",
+   "title": "Morto Andy Taylor, ex chitarrista dei Duran Duran",
+   "summary": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
+   "detail": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
+   "image": "",
+   "date": "2026-11-25T21:54:50.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/25/morto-andy-taylor-ex-chitarrista-dei-duran-duran_13951f50-513a-413c-904c-be04a59f8242.html",
+   "title": "Morto Andy Taylor, ex chitarrista dei Duran Duran",
+   "summary": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
+   "detail": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
+   "image": "",
+   "date": "2026-11-25T21:51:58.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+   "title": "North Korea expels Swiss diplomat in sanctions row",
+   "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+   "detail": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-25T21:51:17.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "title": "US stocks fall further as fears over AI intensify",
+   "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+   "detail": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-25T21:43:18.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "title": "Poundland collapses putting 11,000 jobs at risk",
+   "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+   "detail": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-25T21:31:10.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/le-lettere-di-de-gennaro-lhard-disk-non-ve-lho-dato-perche-non-avreste_990dcfdb-4804-4496-9613-4036357dd514.html",
+   "title": "Le accuse a De Luca ultimo atto di De Gennaro prima di morire",
+   "summary": "Altre lettere il 17 novembre. 'Sono uomo di Stato'. Testamento integrale noto dopo funerali",
+   "detail": "Altre lettere il 17 novembre. 'Sono uomo di Stato'. Testamento integrale noto dopo funerali",
+   "image": "",
+   "date": "2026-11-25T21:23:58.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026",
+   "title": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
+   "summary": "On Nov. 25, 1970, an experimental aircraft called the Northrop M2-F3 made its first powered flight. Here's why it mattered.",
+   "detail": "On Nov. 25, 1970, an experimental aircraft called the Northrop M2-F3 made its first powered flight. Here's why it mattered.",
+   "image": "https://cdn.mos.cms.futurecdn.net/URffNfRfWDDK8WBZgHsEMJ-1920-80.jpg",
+   "date": "2026-11-25T21:22:27.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/tg1-la-cassetta-con-voce-del-telefonista-a-casa-dello-zio-di-emanuela_3c3039fb-9eff-41c6-a3e9-34866e31167b.html",
+   "title": "Tg1, la cassetta con la voce del telefonista a casa dello zio di Emanuela Orlandi",
+   "summary": "Le registrazioni trovate durante una perquisizione due anni fa",
+   "detail": "Le registrazioni trovate durante una perquisizione due anni fa",
+   "image": "",
+   "date": "2026-11-25T21:08:51.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/25/daisy-chaining-stepper-motors/",
+   "title": "Daisy Chaining Stepper Motors",
+   "summary": "Let’s say you want to control a whole bunch of stepper motors. You can use a multi-channel controller board, or whip something up with a microcontroller or two. Or, you …read more",
+   "detail": "Let’s say you want to control a whole bunch of stepper motors. You can use a multi-channel controller board, or whip something up with a microcontroller or two. Or, you …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/DSC_1176_edited_1dd27e30-f5b8-4135-b2d5-0197d679d29a-e1795599260716.webp",
+   "date": "2026-11-25T21:00:31.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+   "title": "Google search alternative Kagi launches Gmail rival",
+   "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+   "detail": "The pitch is an unusual combination of privacy promises and AI features.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
+   "date": "2026-11-25T20:57:09.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/davis-cobolli-ho-lottato-ma-la-reazione-di-kwon-mi-ha-sorpreso_7d5010c0-e53a-43b5-8a13-09779ca35699.html",
+   "title": "Davis: Cobolli, ho lottato ma la reazione di Kwon mi ha sorpreso",
+   "summary": "L'azzuro 'mi spiace aver perso,ora siamo concentrati sul doppio'",
+   "detail": "L'azzuro 'mi spiace aver perso,ora siamo concentrati sul doppio'",
+   "image": "",
+   "date": "2026-11-25T20:56:49.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/champions-league-psg-roma-in-campo-alle-21-diretta_79b2acc9-4618-4d82-97c2-c782b24ce140.html",
+   "title": "Champions League: Psg-Roma in campo - DIRETTA",
+   "summary": "Giallorossi sfidano l'ex Luis Enrique. Dybala: 'Voglio chiudere la carriera qui'",
+   "detail": "Giallorossi sfidano l'ex Luis Enrique. Dybala: 'Voglio chiudere la carriera qui'",
+   "image": "",
+   "date": "2026-11-25T20:53:03.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/champions-league-inter-stoccarda-in-campo-alle-21-diretta_18785d3c-d5c8-4d4f-8324-b974fac1568b.html",
+   "title": "Champions League: Inter-Stoccarda in campo 0-0 DIRETTA",
+   "summary": "Barella: 'Non ammetto disfattismi'. Ma serve vincere contro lo Stoccarda",
+   "detail": "Barella: 'Non ammetto disfattismi'. Ma serve vincere contro lo Stoccarda",
+   "image": "",
+   "date": "2026-11-25T20:40:32.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/davis-cobolli-sconfitto-italia-corea-del-sud-1-1_9c90b980-d111-4bfc-9a8d-f53c6f38db53.html",
+   "title": "Davis: Cobolli sconfitto, Italia-Corea del Sud 1-1",
+   "summary": "Soonwoo Kwon batte in tre set l'azzurro, ora decisivo il doppio",
+   "detail": "Soonwoo Kwon batte in tre set l'azzurro, ora decisivo il doppio",
+   "image": "",
+   "date": "2026-11-25T20:12:46.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/violenza-donne-gesto-sensibilizzazione-del-presidente-di-lega-b-a-mantova_4490c32d-ee10-4d79-9733-36e106842680.html",
+   "title": "Violenza donne: gesto sensibilizzazione del presidente di Lega B a Mantova",
+   "summary": "Bedin consegna un pallone rosso alle dirigenti dei club prima del march con l'Arezzo",
+   "detail": "Bedin consegna un pallone rosso alle dirigenti dei club prima del march con l'Arezzo",
+   "image": "",
+   "date": "2026-11-25T20:03:22.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/wall-street-recupera-dj-044-nasdaq-078_71c41bba-e936-4677-a001-9227fde4b430.html",
+   "title": "Wall Street recupera, Dj +0,44%, Nasdaq -0,78%",
+   "summary": "S 500 perde lo 0,33%",
+   "detail": "S 500 perde lo 0,33%",
+   "image": "",
+   "date": "2026-11-25T19:56:11.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+   "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+   "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+   "detail": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
+   "date": "2026-11-25T19:54:52.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+   "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+   "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+   "detail": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-25T19:47:39.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/mps-la-fondazione-mps-aderisce-allopas-di-intesa-sanpaolo_330a71b3-f141-4f3b-9431-7c96926c0dfe.html",
+   "title": "Mps: la Fondazione Mps aderisce all'Opas di Intesa Sanpaolo",
+   "summary": "\"Impegno a tutelare valore secolare attività Banca cercando di evitare che si disgreghi'",
+   "detail": "\"Impegno a tutelare valore secolare attività Banca cercando di evitare che si disgreghi'",
+   "image": "",
+   "date": "2026-11-25T19:44:24.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/il-petrolio-chiude-in-rialzo-a-new-york-a-8368-dollari_60cd3bc2-2b66-45f2-9e88-469c3650bbd2.html",
+   "title": "Il petrolio chiude in rialzo a New York a 83,68 dollari",
+   "summary": "Quotazioni salgono dell'1,99%",
+   "detail": "Quotazioni salgono dell'1,99%",
+   "image": "",
+   "date": "2026-11-25T19:38:38.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/25/ansa-la-nuova-guida-de-lespresso-tra-grandi-chef-e-nuovi-talenti_d1e84483-e253-4f63-971c-75aca4d78591.html",
+   "title": ">>>ANSA/ La nuova guida de L'Espresso tra grandi chef e nuovi talenti",
+   "summary": "Con la 47esima edizione premiati trecento ristoranti e trecento cantine",
+   "detail": "Con la 47esima edizione premiati trecento ristoranti e trecento cantine",
+   "image": "",
+   "date": "2026-11-25T19:38:13.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/25/the-curious-case-of-the-second-spacebar/",
+   "title": "The Curious Case of the Second Spacebar",
+   "summary": "[Adrian] shared a very unusual Commodore 64 he came across with some unique modifications made to it. Not only did it have an unexplained DIP socket on the back, it …read more",
+   "detail": "[Adrian] shared a very unusual Commodore 64 he came across with some unique modifications made to it. Not only did it have an unexplained DIP socket on the back, it …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/Wait-.-what_-Why-is-there-an-extra-spacebar_-40-22-screenshot-banner.png",
+   "date": "2026-11-25T19:30:21.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/25/oltre-la-malattia-colin-farrell-in-un-documentario-che-celebra-la-vita_4190e595-1337-4dc8-b468-25d39524eb55.html",
+   "title": "Oltre la malattia, Colin Farrell in un documentario \"che celebra la vita\"",
+   "summary": "Su Hbo The Slightest Touch, 'ci sono persone a cui ci sentiamo irresistibilmente affini'",
+   "detail": "Su Hbo The Slightest Touch, 'ci sono persone a cui ci sentiamo irresistibilmente affini'",
+   "image": "",
+   "date": "2026-11-25T19:20:43.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/europa-league-amorim-olympiacos-forte-ma-nessuno-stadio-e-piu-difficile-di-san_cfb36419-9931-450c-b17e-ece41a592c55.html",
+   "title": "Europa League: Amorim, Olympiacos forte ma nessuno stadio è più difficile di San Siro",
+   "summary": "'Lo scudetto resta difficile quest'anno, dai complimenti alle critiche basta poco'",
+   "detail": "'Lo scudetto resta difficile quest'anno, dai complimenti alle critiche basta poco'",
+   "image": "",
+   "date": "2026-11-25T19:20:17.000Z"
+  },
+  {
+   "topic": "Musica",
+   "type": "notizia",
+   "source": "Pitchfork",
+   "url": "https://pitchfork.com/story/bradford-cox-reveals-autism-diagnosis/",
+   "title": "Bradford Cox Reveals Autism Diagnosis",
+   "summary": "“I didn’t understand that I was unable to stop talking, that I was in this neurodivergent state”",
+   "detail": "“I didn’t understand that I was unable to stop talking, that I was in this neurodivergent state”",
+   "image": "https://media.pitchfork.com/photos/6b0733d778b1273b01619caf/master/pass/GettyImages-1163951445.jpg",
+   "date": "2026-11-25T19:17:29.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/brignone-si-ritira-la-gamba-fa-troppo-male-la-mia-carriera-finisce-qui_0964617a-2e66-4c3b-9af5-bf49abd25048.html",
+   "title": "Brignone dice basta ma col sorriso: 'La gamba mi fa troppo male'",
+   "summary": "\"Faro' solo un'ultima gara. Il momento top? La Coppa del Mondo generale nel 2025\"",
+   "detail": "\"Faro' solo un'ultima gara. Il momento top? La Coppa del Mondo generale nel 2025\"",
+   "image": "",
+   "date": "2026-11-25T19:16:00.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/25/viaggio-nelle-tante-anime-di-collodi-a-200-anni-dalla-nascita_11adfe56-cd68-41b5-9713-60a67c9b952f.html",
+   "title": "Viaggio nelle tante anime di Collodi, a 200 anni dalla nascita",
+   "summary": "Al via le iniziative della società Dante Alighieri, si parte con una mostra",
+   "detail": "Al via le iniziative della società Dante Alighieri, si parte con una mostra",
+   "image": "",
+   "date": "2026-11-25T19:09:57.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/europa-league-amorim-dobbiamo-solo-vincere-se-non-lo-facessimo_d83e0bc4-56fa-498f-9a7e-707a51492933.html",
+   "title": "Europa League: Amorim 'dobbiamo solo vincere, se non lo facessimo…'",
+   "summary": "Milan non ha perso solo per turnover, nei grandi club non ci sono alibi",
+   "detail": "Milan non ha perso solo per turnover, nei grandi club non ci sono alibi",
+   "image": "",
+   "date": "2026-11-25T19:09:28.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/federica-brignone-ori-infortuni-e-inchini-la-tigre-di-la-salle-e-la-piu-vincente-di-sempre_0206bce7-1ee9-4e96-9f0e-d7370d6e7858.html",
+   "title": "Federica Brignone: Ori, infortuni e inchini, la tigre di La Salle è la più vincente di sempre",
+   "summary": "Figlia di Ninna Quario, la vetta ai Giochi 2026 con due titoli a 10 mesi dall'incidente",
+   "detail": "Figlia di Ninna Quario, la vetta ai Giochi 2026 con due titoli a 10 mesi dall'incidente",
+   "image": "",
+   "date": "2026-11-25T19:09:22.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+   "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+   "summary": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently…",
+   "detail": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE […]",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/lrs00622.jpg?w=2048",
+   "date": "2026-11-25T19:06:56.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
+   "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
+   "summary": "Explore Ashley Zelinskie's 'The Weight of Space' Monuments in marble, Ejecta prints, Launch Sequence sculptures and interactive Crowded Sky at Heft Gallery in New York City.",
+   "detail": "Explore Ashley Zelinskie's 'The Weight of Space' Monuments in marble, Ejecta prints, Launch Sequence sculptures and interactive Crowded Sky at Heft Gallery in New York City.",
+   "image": "https://cdn.mos.cms.futurecdn.net/ZmyNoEJvmwEtjVZwYSbbVE-1920-80.jpg",
+   "date": "2026-11-25T19:00:00.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/25/viaggio-nelle-tante-anime-di-collodi-a-200-anni-dalla-nascita_77c5e422-6a44-4c7e-a57a-3fe43e49ecc3.html",
+   "title": "Viaggio nelle tante anime di Collodi, a 200 anni dalla nascita",
+   "summary": "Al via le iniziative della società Dante Alighieri, si parte con una mostra",
+   "detail": "Al via le iniziative della società Dante Alighieri, si parte con una mostra",
+   "image": "",
+   "date": "2026-11-25T18:54:43.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/s-mette-sotto-osservazione-il-rating-di-nvidia-non-esclude-declassamento_3bbcf9f1-f146-47fa-999c-f2b90a83580c.html",
+   "title": "S mette sotto osservazione il rating di Nvidia, non esclude declassamento",
+   "summary": "Potrebbe essere di un gradino, decisione entro 90 giorni",
+   "detail": "Potrebbe essere di un gradino, decisione entro 90 giorni",
+   "image": "",
+   "date": "2026-11-25T18:52:38.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/25/ansa-box-cecchettin-alla-camera-parlare-di-educazione-affettiva-nelle-scuole_393599f5-6204-4fe0-96a1-067ec5e442dd.html",
+   "title": ">ANSA-BOX/ Cecchettin alla Camera, 'parlare di educazione affettiva nelle scuole'",
+   "summary": "Dopo il film 'Se domani non torno' saluta gli studenti \"spero vi aiuti tanto\"",
+   "detail": "Dopo il film 'Se domani non torno' saluta gli studenti \"spero vi aiuti tanto\"",
+   "image": "",
+   "date": "2026-11-25T18:49:21.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
+   "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
+   "summary": "The FCC has given SpaceX approval to deploy one million of its Starmind AI data-center satellites in orbit, a move that could transform the landscape of the final frontier.",
+   "detail": "The FCC has given SpaceX approval to deploy one million of its Starmind AI data-center satellites in orbit, a move that could transform the landscape of the final frontier.",
+   "image": "https://cdn.mos.cms.futurecdn.net/Y2b9XP3PZ2w8rCDW9psmjS-1920-80.jpg",
+   "date": "2026-11-25T18:49:15.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/25/sara-gordon-ramsay-a-presentare-top-gear-storico-show-tv-dei-motori_e275e051-e362-446b-b16d-48029fd771ab.html",
+   "title": "Sarà Gordon Ramsay a presentare Top Gear, storico show tv dei motori della Bbc",
+   "summary": "Chef appassionato di auto tenta il rilancio del più celebre programma di genere al mondo",
+   "detail": "Chef appassionato di auto tenta il rilancio del più celebre programma di genere al mondo",
+   "image": "",
+   "date": "2026-11-25T18:38:46.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+   "title": "Backblaze explains why it's sharing customer information with advertisers",
+   "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+   "detail": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
+   "date": "2026-11-25T18:38:29.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/25/golden-globe-in-lizza-fra-88-titoli-lestranea-di-strippoli-e-il-vangelo-di-giuda_508bc502-7976-4fa3-9bfd-0704b5526a8c.html",
+   "title": "Golden Globe, in lizza fra 88 titoli L'Estranea di Strippoli e Il Vangelo di Giuda",
+   "summary": "Variety ottiene la lista dei film eleggibili distribuiti ai giurati",
+   "detail": "Variety ottiene la lista dei film eleggibili distribuiti ai giurati",
+   "image": "",
+   "date": "2026-11-25T18:36:11.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/25/rugby-nations-championship-fatto-il-xv-azzurro-contro-le-figi_de68f5dc-872f-4f45-9554-5b71f249cbc9.html",
+   "title": "Rugby: Nations Championship; fatto il XV azzurro contro le Figi",
+   "summary": "Quesada opera 5 cambi per la sfida Londra rispetto alla partita di Udine",
+   "detail": "Quesada opera 5 cambi per la sfida Londra rispetto alla partita di Udine",
+   "image": "",
+   "date": "2026-11-25T18:34:17.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/11/25/-un-cratere-grande-come-uno-stadio-sul-primo-asteroide-deviato-_98de1741-73e4-4000-abaf-e6f1a914550f.html",
+   "title": "Un cratere grande come uno stadio sul primo asteroide deviato VIDEO",
+   "summary": "Visto dalla missione Hera. Ruota in modo caotico, fra centinaia di massi",
+   "detail": "Visto dalla missione Hera. Ruota in modo caotico, fra centinaia di massi",
+   "image": "",
+   "date": "2026-11-25T18:33:05.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/25/viaggio-nelle-tante-anime-di-collodi-a-200-anni-dalla-nascita_977037b4-0a88-4a36-8003-65d9c66a7293.html",
+   "title": "Viaggio nelle tante anime di Collodi, a 200 anni dalla nascita",
+   "summary": "Al via le iniziative della società Dante Alighieri, si parte con una mostra",
+   "detail": "Al via le iniziative della società Dante Alighieri, si parte con una mostra",
+   "image": "",
+   "date": "2026-11-25T18:32:40.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-milano-zavorrata-da-prysmian-e-stm-in-luce-stellantis_c150f3fa-df21-45a3-ae80-b234db7662a0.html",
+   "title": "Borsa: Milano zavorrata da Prysmian e Stm, in luce Stellantis",
+   "summary": "Giù sul listino le banche. In controtendenza gli automobilistici",
+   "detail": "Giù sul listino le banche. In controtendenza gli automobilistici",
+   "image": "",
+   "date": "2026-11-25T18:29:09.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/conference-league-sarri-niente-presunzione-o-prendiamo-una-lezione_b0790968-7069-4be6-b4fa-afed20868a0e.html",
+   "title": "Conference League: Sarri, 'niente presunzione o prendiamo una lezione'",
+   "summary": "Il tecnico atalantino: \"Borac squadra tecnica con giovani importanti\"",
+   "detail": "Il tecnico atalantino: \"Borac squadra tecnica con giovani importanti\"",
+   "image": "",
+   "date": "2026-11-25T18:27:55.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/25/michieletto-il-mio-otello-alla-scala-uno-psicotico-che-va-a-pezzi_6f44aedb-d1dd-4b5b-88ee-72f7fd414917.html",
+   "title": "Michieletto, 'il mio Otello alla Scala uno psicotico che va a pezzi'",
+   "summary": "Il regista presenta l'opera che aprirà la stagione",
+   "detail": "Il regista presenta l'opera che aprirà la stagione",
+   "image": "",
+   "date": "2026-11-25T18:27:53.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+   "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+   "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+   "detail": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
+   "date": "2026-11-25T18:22:38.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/zverev-sulla-vicenda-legale-con-la-ex-ne-ho-parlato-abbastanza-io-innocente_093145be-7f32-4e3e-ab2d-823af1ca5d2e.html",
+   "title": "Zverev sulla vicenda legale con la ex, 'ne ho parlato abbastanza, io innocente'",
+   "summary": "Il tedesco 'ingiusto il commento di Gaudenzi sull'uso degli antidolorifici'",
+   "detail": "Il tedesco 'ingiusto il commento di Gaudenzi sull'uso degli antidolorifici'",
+   "image": "",
+   "date": "2026-11-25T18:21:48.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview",
+   "title": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)",
+   "summary": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
+   "detail": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
+   "image": "https://cdn.mos.cms.futurecdn.net/EpwERbzbDTNH5mFmr59JS3-1920-80.jpg",
+   "date": "2026-11-25T18:00:00.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
+   "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
+   "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
+   "detail": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
+   "image": "https://cdn.mos.cms.futurecdn.net/dfoNQZBjEHoCTsU9VRVJHW-1920-80.jpg",
+   "date": "2026-11-25T18:00:00.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/bologna-regina-delle-citta-eco-mobili-buon-trasporto-pubblico-e-sharing_9da3cf4b-a775-4944-9bf8-4ce6556f48b8.html",
+   "title": "Bologna regina delle città 'eco-mobili', buon trasporto pubblico e sharing efficiente",
+   "summary": "Rapporto Euromobility su 50 città, Roma 21/a e maglia nera a Catania",
+   "detail": "Rapporto Euromobility su 50 città, Roma 21/a e maglia nera a Catania",
+   "image": "",
+   "date": "2026-11-25T17:56:24.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/lupi-si-lavora-a-cancellare-la-misura-sul-superbonus_6ac88a9b-28a5-49d7-9508-d5458686b386.html",
+   "title": "Lupi, si lavora a cancellare la misura sul Superbonus",
+   "summary": "'La richiesta è quella di garantire la certezza della norma e quindi tornare indietro'",
+   "detail": "'La richiesta è quella di garantire la certezza della norma e quindi tornare indietro'",
+   "image": "",
+   "date": "2026-11-25T17:55:52.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+   "title": "NASA Eyes Crop Candidates for Future Menus",
+   "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can…",
+   "detail": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Recent testing points to strawberries, […]",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/SpaceCrops_thanksgiving.jpg?w=1366&h=618&fit=clip",
+   "date": "2026-11-25T17:53:42.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-becomes-1st-international-visitor-to-chinas-tiangong-space-station-photos",
+   "title": "Pakistani astronaut becomes 1st international visitor to China's Tiangong space station (photos)",
+   "summary": "Pakistan's Muhammad Zeeshan Ali became the first international astronaut to visit China's Tiangong space station today (Nov. 25), when he and his Shenzhou-24 crewmates docked with the outpost.",
+   "detail": "Pakistan's Muhammad Zeeshan Ali became the first international astronaut to visit China's Tiangong space station today (Nov. 25), when he and his Shenzhou-24 crewmates docked with the outpost.",
+   "image": "https://cdn.mos.cms.futurecdn.net/ggDj48avvvarVWRD8tDCah-1920-80.png",
+   "date": "2026-11-25T17:41:11.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/resta-invariata-la-lista-fsb-delle-29-banche-globali-sistemiche_47f9368b-9336-410e-8c78-215db3c7b138.html",
+   "title": "Resta invariata la lista Fsb delle 29 banche globali sistemiche",
+   "summary": "Per Bnp Paribas passaggio a livello 3 con richieste più stringenti su capitale",
+   "detail": "Per Bnp Paribas passaggio a livello 3 con richieste più stringenti su capitale",
+   "image": "",
+   "date": "2026-11-25T17:33:50.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+   "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+   "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+   "detail": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
+   "date": "2026-11-25T17:33:30.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+   "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+   "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+   "detail": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-25T17:30:16.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/astronomy/asteroids/hera-spacecraft-gets-1st-up-close-look-at-stadium-sized-hole-punched-in-asteroid-by-nasa-dart-mission",
+   "title": "Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission",
+   "summary": "NASA's DART Earth-defence mission punched a stadium-sized hole in a distant asteroid, and we have seen it for the first time thanks to the Hera spacecraft.",
+   "detail": "NASA's DART Earth-defence mission punched a stadium-sized hole in a distant asteroid, and we have seen it for the first time thanks to the Hera spacecraft.",
+   "image": "https://cdn.mos.cms.futurecdn.net/NjNgXEyBEC5QKcUS4QYVGH-1920-80.png",
+   "date": "2026-11-25T17:30:00.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+   "title": "Etsy clarifies AI terms after seller backlash",
+   "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+   "detail": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678-1152x648.jpg",
+   "date": "2026-11-25T17:12:57.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/il-prezzo-del-gas-e-in-discesa-a-86-euro-ad-amsterdam_11a0bb65-bfcb-4498-ba6b-2e1565b46149.html",
+   "title": "Il prezzo del gas è in discesa a 86 euro ad Amsterdam",
+   "summary": "Ttf perde il 6%",
+   "detail": "Ttf perde il 6%",
+   "image": "",
+   "date": "2026-11-25T17:10:50.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/lo-spread-btp-bund-conclude-in-aumento-a-1119-punti_dcbcb8c9-2fb9-4310-b4cb-3f34bf2ae1d3.html",
+   "title": "Lo spread Btp-Bund conclude in aumento a 111,9 punti",
+   "summary": "Il rendimento italiano al 4,34%",
+   "detail": "Il rendimento italiano al 4,34%",
+   "image": "",
+   "date": "2026-11-25T17:10:20.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+   "title": "What's gone wrong at Poundland?",
+   "summary": "Poundland has collapse into administration. Why?",
+   "detail": "Poundland has collapse into administration. Why?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fbc6/live/78341a50-e8f8-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-25T17:00:32.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/",
+   "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+   "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about…",
+   "detail": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” […]",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ashley-knight-and-parents.jpg?w=1504",
+   "date": "2026-11-25T16:47:29.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+   "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+   "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+   "detail": "Militaries have many reasons to target data centers and the cloud in wartime.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+   "date": "2026-11-25T16:47:14.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+   "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+   "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+   "detail": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-25T16:42:11.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+   "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+   "summary": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
+   "detail": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306257922-1024x648.jpg",
+   "date": "2026-11-25T16:33:45.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/25/voyager-1-stops-sending-data-reaches-one-light-day-from-earth/",
+   "title": "Voyager 1 Stops Sending Data, Reaches One Light-Day from Earth",
+   "summary": "Recently NASA confirmed that the Voyager 1 spacecraft is now one light-day from Earth, taking more than 49 years to reach this point since its launch in 1977. Marring this …read more",
+   "detail": "Recently NASA confirmed that the Voyager 1 spacecraft is now one light-day from Earth, taking more than 49 years to reach this point since its launch in 1977. Marring this …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/voyager_1_spacecraft-profile-1.jpg",
+   "date": "2026-11-25T16:30:55.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/technology/aerospace/nasa-sends-planes-to-monitor-us-armys-lead-detonation-irresponsible-to-compare-it-to-chernobyl-agency-chief-says",
+   "title": "NASA sends planes to monitor US Army's lead detonation. 'Irresponsible' to compare it to Chernobyl, agency chief says",
+   "summary": "NASA is sending research aircraft and using satellites as the Army prepares to detonate degrading explosives in Iowa.",
+   "detail": "NASA is sending research aircraft and using satellites as the Army prepares to detonate degrading explosives in Iowa.",
+   "image": "https://cdn.mos.cms.futurecdn.net/fomaAbgipYdapvaDYkLAth-1920-80.png",
+   "date": "2026-11-25T16:24:24.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "title": "US announces new tariffs on host of countries including China",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "detail": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-25T16:21:34.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
+   "title": "Eye of the Sahara",
+   "summary": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years…",
+   "detail": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks […]",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg?w=2048",
+   "date": "2026-11-25T16:21:04.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/25/londa-di-giovani-vecchi-i-nati-dopo-il-2000-rischiano-di-invecchiare-prima_31dc7594-10dc-464e-8b34-d13c1edb8319.html",
+   "title": "L'onda dei 'giovani vecchi', i nati dopo il 2000 rischiano di invecchiare prima",
+   "summary": "Geriatri, 'e peggio dei genitori, è deriva generazionale'. Tra cause obesità, ansia, stress",
+   "detail": "Geriatri, 'e peggio dei genitori, è deriva generazionale'. Tra cause obesità, ansia, stress",
+   "image": "",
+   "date": "2026-11-25T15:37:58.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+   "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+   "summary": "Prior modeling estimated the plume would cover hundreds of square miles.",
+   "detail": "Prior modeling estimated the plume would cover hundreds of square miles.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom-1024x648.jpg",
+   "date": "2026-11-25T15:35:17.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/25/first-smartphone-think-blue/",
+   "title": "First Smartphone? Think Blue",
+   "summary": "If you ask most people when the smartphone arrived, they will usually say 2007 with the first iPhone. Others might argue for a BlackBerry or a Nokia Communicator. But the …read more",
+   "detail": "If you ask most people when the smartphone arrived, they will usually say 2007 with the first iPhone. Others might argue for a BlackBerry or a Nokia Communicator. But the …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/Simon.jpg",
+   "date": "2026-11-25T15:00:24.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
+   "title": "Satellites watch volcanic eruptions add new beaches on Iwo Jima | Space photo of the day for Nov. 25, 2026",
+   "summary": "Iwo Jima looks remarkably different from space after a volcanic eruption created new land extending the Japanese island's beaches.",
+   "detail": "Iwo Jima looks remarkably different from space after a volcanic eruption created new land extending the Japanese island's beaches.",
+   "image": "https://cdn.mos.cms.futurecdn.net/M7kfhVaefcfvdpMp4CWBk5-1920-80.png",
+   "date": "2026-11-25T15:00:00.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+   "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+   "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search…",
+   "detail": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/milky-way/Hubble_GalacticBulge_HD70_1_FINAL.jpg?w=1536&h=1536&fit=clip",
+   "date": "2026-11-25T14:56:54.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+   "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+   "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+   "detail": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/freezer-cleanup-1024x648.jpg",
+   "date": "2026-11-25T14:29:43.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+   "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+   "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+   "detail": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-25T14:06:13.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "title": "Energy bills to rise by 26% from January after gas prices surge",
+   "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+   "detail": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/654f/live/9096f7c0-e8df-11f1-a3b9-79c60ec9ab33.jpg",
+   "date": "2026-11-25T13:42:08.000Z"
+  },
+  {
+   "topic": "Musica",
+   "type": "notizia",
+   "source": "Pitchfork",
+   "url": "https://pitchfork.com/story/erykah-badu-does-breezy-salutes-elton-john-on-fallon/",
+   "title": "Erykah Badu Does “Breezy,” Salutes Elton John on Fallon",
+   "summary": "Her rendition of the Alchemist-assisted single interpolated “Bennie and the Jets”",
+   "detail": "Her rendition of the Alchemist-assisted single interpolated “Bennie and the Jets”",
+   "image": "https://media.pitchfork.com/photos/6b06deb5efeade4df721e4b2/master/pass/erykah-badu-fallon.jpg",
+   "date": "2026-11-25T13:15:56.000Z"
   },
   {
    "topic": "Mondo",
@@ -57,39 +915,6 @@
    "date": "2026-11-25T12:21:49.000Z"
   },
   {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/25/le-furiose-di-silvia-romani_4c533ba7-63ee-42f4-b733-a7f6fba2c581.html",
-   "title": "Le 'Furiose' di Silvia Romani",
-   "summary": "Le figure del mito antico in dialogo con le loro reincarnazioni",
-   "detail": "Le figure del mito antico in dialogo con le loro reincarnazioni",
-   "image": "",
-   "date": "2026-11-25T12:21:14.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/israele-change-bloc-punta-a-insediare-un-nuovo-governo-mercoledi-prossimo_d382b6df-0b01-413e-94f9-859e88c479f3.html",
-   "title": "La Knesset approva in lettura preliminare la commissione statale sul 7 ottobre",
-   "summary": "Israele, Change bloc punta a insediare un nuovo governo mercoledì prossimo",
-   "detail": "Israele, Change bloc punta a insediare un nuovo governo mercoledì prossimo",
-   "image": "",
-   "date": "2026-11-25T12:19:58.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/bce-nel-2026-sorpasso-dei-pagamenti-con-carta-sul-contante_6c5aea6e-f915-4a62-921c-c335159214c7.html",
-   "title": "Bce: 'Nel 2026 sorpasso dei pagamenti con carta sul contante nei negozi europei'",
-   "summary": "Sono il 45% contro il 44%. Cipollone: 'Ciò che importa ai cittadini è poter scegliere'",
-   "detail": "Sono il 45% contro il 44%. Cipollone: 'Ciò che importa ai cittadini è poter scegliere'",
-   "image": "",
-   "date": "2026-11-25T12:14:22.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "BBC Business",
@@ -99,28 +924,6 @@
    "detail": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
    "date": "2026-11-25T12:12:11.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/25/editoria-2.5-il-mercato-del-libro-trade-nel-2026-grazie-al-bonus_2b8cc811-7aa5-4a6e-a3f8-1fc2bd894888.html",
-   "title": "Editoria, +2.5% il mercato del libro trade nel 2026 grazie al Bonus biblioteche",
-   "summary": "I dati Aie il 4 dicembre alla fiera Più Libri Più Liberi a Roma",
-   "detail": "I dati Aie il 4 dicembre alla fiera Più Libri Più Liberi a Roma",
-   "image": "",
-   "date": "2026-11-25T12:01:33.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/25/editoria-2.5-il-mercato-del-libro-trade-nel-2026-grazie-al-bonus_e0c05dd1-3bd4-45d6-a25d-db41676573e2.html",
-   "title": "Editoria, +2.5% il mercato del libro trade nel 2026 grazie al Bonus biblioteche",
-   "summary": "I dati Aie il 4 dicembre alla fiera Più Libri Più Liberi a Roma",
-   "detail": "I dati Aie il 4 dicembre alla fiera Più Libri Più Liberi a Roma",
-   "image": "",
-   "date": "2026-11-25T12:01:30.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -145,149 +948,6 @@
    "date": "2026-11-25T12:00:10.000Z"
   },
   {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/25/a-perugia-a-palazzo-baldeschi-la-mostra-etruschi-tra-terra-e-cielo_86ec2fa6-6419-42a4-8644-f5b8b558f835.html",
-   "title": "A Perugia, a palazzo Baldeschi, la mostra 'Etruschi tra terra e cielo'",
-   "summary": "Esposti oltre 150 reperti archeologici provenienti da 50 istituzioni museali",
-   "detail": "Esposti oltre 150 reperti archeologici provenienti da 50 istituzioni museali",
-   "image": "",
-   "date": "2026-11-25T11:58:45.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/a2a-e-bw-ess-si-aggiudicano-4-contratti-per-400-mw-di-accumulo_3ab5c8eb-f3cc-42b6-938f-a807278d4e93.html",
-   "title": "A2a e Bw Ess si aggiudicano 4 contratti per 400 Mw di accumulo",
-   "summary": "Nell'ambito dell'asta del Macse, il meccanismo per lo stoccaggio di Terna",
-   "detail": "Nell'ambito dell'asta del Macse, il meccanismo per lo stoccaggio di Terna",
-   "image": "",
-   "date": "2026-11-25T11:48:34.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/litalia-eccellenza-nel-riciclo-ma-ha-il-gap-della-vendita-delle-nuove-risorse_98c2be9c-881c-47e2-833e-e71b8fdec5e1.html",
-   "title": "L'Italia eccellenza nel riciclo ma ha il gap della vendita delle nuove risorse",
-   "summary": "Assoambiente, \"Serve una politica industriale per sostenere la domanda",
-   "detail": "Assoambiente, \"Serve una politica industriale per sostenere la domanda",
-   "image": "",
-   "date": "2026-11-25T11:46:23.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/sindacati-domani-presidio-sotto-il-mimit-con-delegazione-lavoratori-barilla_6d949634-74d6-4f32-a1aa-ad754c2cbe49.html",
-   "title": "Sindacati, domani presidio sotto il Mimit con delegazione lavoratori Barilla",
-   "summary": "Incontro in seguito a riorganizzazione che modificherebbe perimetro produttivo del gruppo",
-   "detail": "Incontro in seguito a riorganizzazione che modificherebbe perimetro produttivo del gruppo",
-   "image": "",
-   "date": "2026-11-25T11:45:41.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-   "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-   "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-   "detail": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
-   "date": "2026-11-25T11:45:16.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/25/basket-domani-italia-turchia-a-roma-banchi-presenza-mattarella-una-spinta_4504c1af-9519-412b-a2e9-b333a566cfed.html",
-   "title": "Basket: domani Italia-Turchia a Roma, Banchi 'presenza Mattarella una spinta in più'",
-   "summary": "Ct azzurro: \"Vogliamo onorare impegno, mio doppio ruolo non cambia nulla\"\"",
-   "detail": "Ct azzurro: \"Vogliamo onorare impegno, mio doppio ruolo non cambia nulla\"\"",
-   "image": "",
-   "date": "2026-11-25T11:44:54.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-   "title": "Energy bills to rise by 26% from January after gas prices surge",
-   "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
-   "detail": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-25T11:44:26.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/entro-il-2029-piu-investimenti-in-italia-da-grandi-gruppi-ma-pesa-la-burocrazia_318c7463-4645-4a43-932d-a1fe1356425a.html",
-   "title": "Entro il 2029 più investimenti in Italia da grandi gruppi, ma pesa la burocrazia",
-   "summary": "Rapporto Ced, priorità per data center con piani da oltre 3 miliardi, focus anche su Ia",
-   "detail": "Rapporto Ced, priorità per data center con piani da oltre 3 miliardi, focus anche su Ia",
-   "image": "",
-   "date": "2026-11-25T11:41:45.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/bankitalia-acquisti-attivita-finanziarie-famiglie-a-239-miliardi_d1839b58-f2c9-4d83-8e01-3569c29ce8f4.html",
-   "title": "Bankitalia, acquisti attività finanziarie famiglie a 23,9 miliardi",
-   "summary": "Nel II trimestre, passività imprese salgono di 28,8 miliardi",
-   "detail": "Nel II trimestre, passività imprese salgono di 28,8 miliardi",
-   "image": "",
-   "date": "2026-11-25T11:40:54.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/calderone-5.525-donne-in-percorso-di-protezione-con-assegno-di-inclusione-dal-2024_c33cd42a-f0f5-45e4-a661-0202129c3e7a.html",
-   "title": "Calderone, 5.525 donne in percorso di protezione con assegno di inclusione dal 2024",
-   "summary": "Sono 1890 quelle ancora nel percorso",
-   "detail": "Sono 1890 quelle ancora nel percorso",
-   "image": "",
-   "date": "2026-11-25T11:27:21.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/jannik-sinner-rientrato-a-bolzano-ad-attenderlo-il-fratello-mark_a962eaea-8e98-4314-b94c-5e117fcd9658.html",
-   "title": "Tennis: Sinner rientrato a Bolzano. Chirurgo: 'Obiettivo è pieno recupero ad altissimi livelli'",
-   "summary": "Lempainen: 'Intervento perfettamente riuscito, ora focus sulla riabilitazione'",
-   "detail": "Lempainen: 'Intervento perfettamente riuscito, ora focus sulla riabilitazione'",
-   "image": "",
-   "date": "2026-11-25T11:23:14.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/stargazing/novembers-full-moon-dazzles-skywatchers-with-a-stunning-beaver-moon-supermoon-photos-nov-24-2026",
-   "title": "November's full moon dazzles skywatchers with a stunning Beaver Moon supermoon (photos)",
-   "summary": "From the skyscrapers of New York to the ancient Parthenon in Athens, the Beaver Moon supermoon put on a spectacular show for skywatchers around the world.",
-   "detail": "From the skyscrapers of New York to the ancient Parthenon in Athens, the Beaver Moon supermoon put on a spectacular show for skywatchers around the world.",
-   "image": "https://cdn.mos.cms.futurecdn.net/2kidDxwcZaAKCRR9ZZAN5D-1920-80.jpg",
-   "date": "2026-11-25T11:22:59.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/25/trama-e-ordito-al-museo-bagatti-valsecchi-in-mostra-larte-del-tessile_f4212e43-f650-45c8-ba41-e1c29b1f0741.html",
-   "title": "'Trama e Ordito', al Museo Bagatti Valsecchi in mostra l'arte del tessile",
-   "summary": "Opere di Pistoletto, Daniel Buren, Alghiero Boetti, Jannis Kounellis, Andy Warhol",
-   "detail": "Opere di Pistoletto, Daniel Buren, Alghiero Boetti, Jannis Kounellis, Andy Warhol",
-   "image": "",
-   "date": "2026-11-25T11:19:02.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -297,50 +957,6 @@
    "detail": "Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature death. Despite encouraging progress over the past decade, researchers warn that medication-related harm remains a major and potentially preventable threat to healthy aging.",
    "image": "",
    "date": "2026-11-25T11:13:47.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/europa-league-juve-in-campo-verso-lomonia-alajbegovic-in-gruppo_cb9c81b7-a2f3-4183-98e9-a3d1491cbfaa.html",
-   "title": "Europa League: Juve in campo verso l'Omonia, Alajbegovic in gruppo",
-   "summary": "Il bosniaco ha iniziato la partitella con compagni, out Kalulu e Nico",
-   "detail": "Il bosniaco ha iniziato la partitella con compagni, out Kalulu e Nico",
-   "image": "",
-   "date": "2026-11-25T11:13:41.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/25/ansa-michelle-yeoh-replicante-in-blade-runner-2099-ci-interroga-sullumanita_a75d58ad-b706-4e55-abf9-1e035ab1d91a.html",
-   "title": ">>>ANSA/ Michelle Yeoh replicante in Blade Runner 2099, 'Ci interroga sull'umanità",
-   "summary": "Attrice premio Oscar protagonista della miniserie su Prime Video dal 25 novembre",
-   "detail": "Attrice premio Oscar protagonista della miniserie su Prime Video dal 25 novembre",
-   "image": "",
-   "date": "2026-11-25T11:13:18.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/25/colombari-in-venerdi-13-tra-gioia-e-dolore-dopo-ballando-sono-piu-libera_7cded2ac-2502-4eeb-bef0-3771de6266cb.html",
-   "title": "Colombari, 'in Venerdì 13 tra gioia e dolore, dopo Ballando sono più libera'",
-   "summary": "In scena al Teatro Parioli Costanzo il 25 e 26 novembre",
-   "detail": "In scena al Teatro Parioli Costanzo il 25 e 26 novembre",
-   "image": "",
-   "date": "2026-11-25T11:05:32.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/speciali/25-novembre/2026/11/25/mattarella-uscire-da-violenza-e-possibile-non-dipende-solo-dal-coraggio-di-una_41fb8ea3-bf35-4d18-b6f2-6281126d08a1.html",
-   "title": "Mattarella: 'Uscire dalla violenza è possibile, non dipende solo dal coraggio di una donna'",
-   "summary": "Messaggio per la Giornata internazionale per l'eliminazione della violenza contro le donne: 'Le istituzioni garantiscano protezione, accompagnamento, giustizia. Si promuova l'educazione'. Meloni:…",
-   "detail": "Messaggio per la Giornata internazionale per l'eliminazione della violenza contro le donne: 'Le istituzioni garantiscano protezione, accompagnamento, giustizia. Si promuova l'educazione'. Meloni: 'Nessuna vittima resti sola'",
-   "image": "",
-   "date": "2026-11-25T11:02:44.000Z"
   },
   {
    "topic": "Scienza",
@@ -356,50 +972,6 @@
   {
    "topic": "Economia",
    "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/fibercop-nel-terzo-trimestre-ebitda-organico-153-a-516-milioni_07c6dd8f-6235-4ddc-8b46-d416d8276669.html",
-   "title": "Fibercop, nel terzo trimestre ebitda organico +15,3% a 516 milioni",
-   "summary": "I ricavi nel trimestre sono stati pari a 932 milioni",
-   "detail": "I ricavi nel trimestre sono stati pari a 932 milioni",
-   "image": "",
-   "date": "2026-11-25T10:52:29.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-   "summary": "The verdict follows a months-long trial in New York.",
-   "detail": "The verdict follows a months-long trial in New York.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-   "date": "2026-11-25T10:52:09.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-europa-in-ordine-sparso-future-usa-in-rosso-milano-025_6d908109-05f8-4428-837f-8307c7cc74f2.html",
-   "title": "Borsa: Europa in ordine sparso, future Usa in rosso, Milano -0,25%",
-   "summary": "Bene le auto e il lusso, frenano i semiconduttori e le banche",
-   "detail": "Bene le auto e il lusso, frenano i semiconduttori e le banche",
-   "image": "",
-   "date": "2026-11-25T10:48:47.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/25/oltre-la-malattia-colin-farrell-in-un-documentario-che-celebra-la-vita_4190e595-1337-4dc8-b468-25d39524eb55.html",
-   "title": "Oltre la malattia, Colin Farrell in un documentario \"che celebra la vita\"",
-   "summary": "Su Hbo The Slightest Touch, 'ci sono persone a cui ci sentiamo irresistibilmente affini'",
-   "detail": "Su Hbo The Slightest Touch, 'ci sono persone a cui ci sentiamo irresistibilmente affini'",
-   "image": "",
-   "date": "2026-11-25T10:45:28.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
    "source": "BBC Business",
    "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
    "title": "Energy bills will soar - here's how you can ease the pain",
@@ -407,28 +979,6 @@
    "detail": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
    "date": "2026-11-25T10:42:20.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/25/biennale-arte-a-nick-cave-e-allindia-i-leoni-dei-visitatori_1fe1bb5f-58b7-4af5-8b3c-685375a36e83.html",
-   "title": "Biennale Arte, a Nick Cave e all'India i 'Leoni dei visitatori'",
-   "summary": "Buttafuoco, 'La Biennale trabocca di nuova energia attraverso la presenza di tutti'",
-   "detail": "Buttafuoco, 'La Biennale trabocca di nuova energia attraverso la presenza di tutti'",
-   "image": "",
-   "date": "2026-11-25T10:36:17.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/ricerca-fincantieri-srm-robotica-marina-mercato-a-forte-prospettiva_69aa6740-9423-41c1-b044-69b9a267c7b6.html",
-   "title": "Ricerca Fincantieri-Srm, robotica marina mercato a forte prospettiva",
-   "summary": "Rapporto \"L'underwater nel Mediterraneo\" con approccio multidisciplinare",
-   "detail": "Rapporto \"L'underwater nel Mediterraneo\" con approccio multidisciplinare",
-   "image": "",
-   "date": "2026-11-25T10:35:19.000Z"
   },
   {
    "topic": "Scienza",
@@ -440,61 +990,6 @@
    "detail": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. The icy object is approximately 1.3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to complete.",
    "image": "",
    "date": "2026-11-25T10:35:04.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/25/le-mostre-del-weekend-da-guttuso-e-vedova-a-frida-e-marilyn_f3dfda70-0222-4855-b8e0-3243302f3ade.html",
-   "title": "Le mostre del weekend, da Guttuso e Vedova a Frida e Marilyn",
-   "summary": "A Conversano Impressionisti in Normandia, a Nuoro c'è Ugo La Pietra",
-   "detail": "A Conversano Impressionisti in Normandia, a Nuoro c'è Ugo La Pietra",
-   "image": "",
-   "date": "2026-11-25T10:30:09.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/calcio-guardiola-che-vergona-dire-no-allitalia_acd79220-8669-42d6-b6e3-ed66c4ee7a84.html",
-   "title": "Calcio: Guardiola, \"che vergona dire no all'Italia\"",
-   "summary": "L'allenatore intervistato da Romario, \"Grande onore ma dovevo fermarmi\"",
-   "detail": "L'allenatore intervistato da Romario, \"Grande onore ma dovevo fermarmi\"",
-   "image": "",
-   "date": "2026-11-25T10:21:08.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/tennis-rinderknech-respinge-le-accuse-mai-assunto-sostanze-dopanti_3c158373-5d3d-47e9-9f24-fef593142372.html",
-   "title": "Tennis: Rinderknech respinge le accuse, \"mai assunto sostanze dopanti\"",
-   "summary": "Sotto indagine dell'Itia per aver saltato un test a sorpresa",
-   "detail": "Sotto indagine dell'Itia per aver saltato un test a sorpresa",
-   "image": "",
-   "date": "2026-11-25T10:18:33.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/sinner-chirurgo-lempainen-obiettivo-e-pieno-recupero-ad-altissimi-livelli_6a10ea57-1910-4d5d-ba89-8157fdf87fee.html",
-   "title": "Sinner: chirurgo Lempainen, 'obiettivo è pieno recupero ad altissimi livelli'",
-   "summary": "'Intervento perfettamente riuscito, ora focus sulla riabilitazione'",
-   "detail": "'Intervento perfettamente riuscito, ora focus sulla riabilitazione'",
-   "image": "",
-   "date": "2026-11-25T10:14:55.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/le-lettere-di-de-gennaro-lhard-disk-non-ve-lho-dato-perche-non-avreste_990dcfdb-4804-4496-9613-4036357dd514.html",
-   "title": "Le lettere di De Gennaro: 'L'hard disk non ve l'ho dato perché non avreste capito niente'",
-   "summary": "Alcuni degli scritti lasciati sarebbero datati 17 novembre: 'Sono un uomo dello Stato'",
-   "detail": "Alcuni degli scritti lasciati sarebbero datati 17 novembre: 'Sono un uomo dello Stato'",
-   "image": "",
-   "date": "2026-11-25T10:10:44.000Z"
   },
   {
    "topic": "Scienza",
@@ -519,28 +1014,6 @@
    "date": "2026-11-25T09:54:32.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/champions-league-inter-stoccarda-in-campo-alle-21-_18785d3c-d5c8-4d4f-8324-b974fac1568b.html",
-   "title": "Champions League: Inter-Stoccarda in campo alle 21",
-   "summary": "Barella: 'Non ammetto disfattismi'. Ma serve vincere contro lo Stoccarda",
-   "detail": "Barella: 'Non ammetto disfattismi'. Ma serve vincere contro lo Stoccarda",
-   "image": "",
-   "date": "2026-11-25T09:35:02.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/25/nba-pistons-senza-cunningham-ma-battono-orlando_3c611525-0521-4c72-b6c4-70a3bf63712e.html",
-   "title": "Nba: Pistons senza Cunningham ma battono Orlando",
-   "summary": "I Celtics vincono in casa dei Washinton Wizards",
-   "detail": "I Celtics vincono in casa dei Washinton Wizards",
-   "image": "",
-   "date": "2026-11-25T09:33:24.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -550,17 +1023,6 @@
    "detail": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness.",
    "image": "",
    "date": "2026-11-25T09:30:54.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/politica/2026/11/25/manovra-riunione-governo-maggioranza-a-palazzo-chigi-con-mantovano-e-giorgetti_89646261-4185-4169-ae7b-46ca88eab534.html",
-   "title": "Manovra, riunione governo-maggioranza a Palazzo Chigi con Mantovano e Giorgetti",
-   "summary": "Partecipano anche Perrotta, Ciriani, Mangialavori, capigruppo e relatori",
-   "detail": "Partecipano anche Perrotta, Ciriani, Mangialavori, capigruppo e relatori",
-   "image": "",
-   "date": "2026-11-25T09:25:56.000Z"
   },
   {
    "topic": "Elettronica",
@@ -574,17 +1036,6 @@
    "date": "2026-11-25T09:00:29.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/25/giornalisti-morto-luca-bartolini-colonna-aci-sport-e-automobilismo-sportivo-italiano_2aba5670-6a2a-4065-b68b-364235118d42.html",
-   "title": "Giornalisti: morto Luca Bartolini, colonna Aci Sport e automobilismo sportivo italiano",
-   "summary": "Aveva 70 anni, lottava da tempo contro diversi problemi di salute",
-   "detail": "Aveva 70 anni, lottava da tempo contro diversi problemi di salute",
-   "image": "",
-   "date": "2026-11-25T08:42:09.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -594,50 +1045,6 @@
    "detail": "BANCOMAT Coin sarà il nome della stablecoin di sistema in euro",
    "image": "",
    "date": "2026-11-25T08:18:10.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/una-donna-su-3-non-conosce-la-tecnica-dellautopalpazione-mammaria_2a87d840-f0dc-4735-b761-8916bb60e9d8.html",
-   "title": "Una donna su 3 non conosce la tecnica dell'autopalpazione mammaria",
-   "summary": "I risultati del progetto 'Prevenzione è salute', rischio cardiovascolare per 1 su 2",
-   "detail": "I risultati del progetto 'Prevenzione è salute', rischio cardiovascolare per 1 su 2",
-   "image": "",
-   "date": "2026-11-25T07:56:48.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-   "title": "Two children among six dead after plane crash off Mississippi coast",
-   "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
-   "detail": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cb6d/live/6e173110-e899-11f1-801d-b916df288324.jpg",
-   "date": "2026-11-25T07:08:22.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/canale_scienza/notizie/futuri_digitali/2026/11/25/da-star-trek-a-gattaca-i-futuri-possibili-per-ia-e-robot-nel-2050_71676771-0d10-4e35-927c-6c8fc5aacf72.html",
-   "title": "Da Star Trek a Gattaca, i futuri possibili per IA e robot nel 2050",
-   "summary": "Illustrati nel nuovo rapporto Future Brief di Istituto Italiano di Tecnologia e Isinnova",
-   "detail": "Illustrati nel nuovo rapporto Future Brief di Istituto Italiano di Tecnologia e Isinnova",
-   "image": "",
-   "date": "2026-11-25T06:27:36.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-   "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-   "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-   "detail": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-25T06:00:36.000Z"
   },
   {
    "topic": "Elettronica",
@@ -687,78 +1094,12 @@
    "topic": "Mondo",
    "type": "notizia",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "detail": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-   "date": "2026-11-25T03:44:07.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/24/keeping-your-molten-salt-reactor-fuel-fresh-with-helium-bubbles/",
-   "title": "Keeping your Molten Salt Reactor Fuel Fresh with Helium Bubbles",
-   "summary": "MSRE plant diagram: (1) Reactor vessel, (2) Heat exchanger, (3) Fuel pump, (4) Freeze flange, (5) Thermal shield, (6) Coolant pump, (7) Radiator, (8) Coolant drain tank, (9) Fans, (10) Fuel drain…",
-   "detail": "MSRE plant diagram: (1) Reactor vessel, (2) Heat exchanger, (3) Fuel pump, (4) Freeze flange, (5) Thermal shield, (6) Coolant pump, (7) Radiator, (8) Coolant drain tank, (9) Fans, (10) Fuel drain tanks, (11) Flush tank, (12) Containment vessel, (13) Freeze valve. (Source: ORNL) \" data-large-file=\"https://hackaday.com/wp-content/uploads/2023/05/MSRE_Diagram.png?w=795\" /> Recently [Huihua Yang] and fellow researchers at Argonne National Laboratory and Rensselaer Polytechnic Institute reported a way (paywalled, no preprint available) to keep the inside of molten salt reactors squeaky-clean …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2023/05/MSRE_Diagram.png",
-   "date": "2026-11-25T03:00:01.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-   "title": "Thomas Markle charged in US for possessing child sex abuse images",
-   "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-   "detail": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
-   "date": "2026-11-25T01:40:42.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-   "title": "Trump's rescue of Nvidia's Huang brings political risks",
-   "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-   "detail": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-25T01:03:05.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-blade-runner-2099-online-stream-the-sci-fi-sequel-series-from-anywhere",
-   "title": "How to watch 'Blade Runner 2099' online — stream the sci-fi sequel series from anywhere",
-   "summary": "How to watch \"Blade Runner 2099\", the cyberpunk spinoff starring Hunter Schafer and Michelle Yeoh. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
-   "detail": "How to watch \"Blade Runner 2099\", the cyberpunk spinoff starring Hunter Schafer and Michelle Yeoh. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
-   "image": "https://cdn.mos.cms.futurecdn.net/6ipoxXxoXKpCKKzAzksJjc-1920-80.jpg",
-   "date": "2026-11-25T01:00:00.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
    "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
    "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
    "detail": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
    "date": "2026-11-25T00:54:13.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "title": "US preparing to unveil plan for new tariffs on global trading partners",
-   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "detail": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-   "date": "2026-11-25T00:38:01.000Z"
   },
   {
    "topic": "Economia",
@@ -770,17 +1111,6 @@
    "detail": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
    "date": "2026-11-25T00:34:05.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/24/the-ladybird-browser-reaches-alpha/",
-   "title": "The Ladybird Browser Reaches Alpha",
-   "summary": "If we learned one thing form the browser wars of the 2000s, it’s that having a single ecosystem dominate the internet is best avoided. Yet here we are in 2026, …read more",
-   "detail": "If we learned one thing form the browser wars of the 2000s, it’s that having a single ecosystem dominate the internet is best avoided. Yet here we are in 2026, …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/ladybird-featured.jpg",
-   "date": "2026-11-25T00:00:08.000Z"
   },
   {
    "topic": "Salute",
@@ -805,61 +1135,6 @@
    "date": "2026-11-24T23:06:25.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-   "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-   "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
-   "detail": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
-   "date": "2026-11-24T22:50:11.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
-   "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-   "summary": "SpaceX launched its fifth classified mission for U.S. national security this month today (Nov. 24), from Vandenberg Space Force Base in California.",
-   "detail": "SpaceX launched its fifth classified mission for U.S. national security this month today (Nov. 24), from Vandenberg Space Force Base in California.",
-   "image": "https://cdn.mos.cms.futurecdn.net/RDYvv4JnkCto7FxZcPVJGQ-1920-80.png",
-   "date": "2026-11-24T22:37:19.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-   "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
-   "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
-   "detail": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-1152x648.jpg",
-   "date": "2026-11-24T22:36:28.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/24/allegri-partita-importante-punto-utile-per-la-qualificazione_f57f4d94-40ec-448f-a491-9215cef72fa6.html",
-   "title": "Allegri: \"partita importante, punto utile per la qualificazione\"",
-   "summary": "Il tecnico del Napoli: \"Futuro De Bruyne? Credo che rimarrà fino a giugno\"",
-   "detail": "Il tecnico del Napoli: \"Futuro De Bruyne? Credo che rimarrà fino a giugno\"",
-   "image": "",
-   "date": "2026-11-24T22:28:53.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026",
-   "title": "On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space",
-   "summary": "On Nov. 24, 1947, the U.S. Navy launched the first Aerobee rocket into the sky, but it never reached space. Here's why it mattered.",
-   "detail": "On Nov. 24, 1947, the U.S. Navy launched the first Aerobee rocket into the sky, but it never reached space. Here's why it mattered.",
-   "image": "https://cdn.mos.cms.futurecdn.net/dqpKFdtv7aMUKwNuvQiBnX-1920-80.jpg",
-   "date": "2026-11-24T21:47:34.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "NASA",
@@ -882,61 +1157,6 @@
    "date": "2026-11-24T21:04:32.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/24/watch-this-virtual-mechanical-watch-do-its-thing/",
-   "title": "Watch This (Virtual) Mechanical Watch Do Its Thing",
-   "summary": "Normally, when we write about watches, they are the electronic kind. But we’re also fascinated by mechanical watches. It is amazing that these mechanisms have existed for centuries. [Martin C. …read…",
-   "detail": "Normally, when we write about watches, they are the electronic kind. But we’re also fascinated by mechanical watches. It is amazing that these mechanisms have existed for centuries. [Martin C. …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/watch.png",
-   "date": "2026-11-24T21:00:12.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview",
-   "title": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)",
-   "summary": "'Today, sitting here in November of 2026, the world is catching up quicker to the world of 'Blade Runner.''",
-   "detail": "'Today, sitting here in November of 2026, the world is catching up quicker to the world of 'Blade Runner.''",
-   "image": "https://cdn.mos.cms.futurecdn.net/Yw5sZ8ym3taXR23tvcFszm-1920-80.png",
-   "date": "2026-11-24T21:00:00.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-   "title": "What's going on with the Riemann hypothesis?",
-   "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-   "detail": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
-   "date": "2026-11-24T20:34:53.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
-   "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
-   "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
-   "detail": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg",
-   "date": "2026-11-24T20:00:18.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/24/a-switchboard-operator-simulator-on-real-hardware/",
-   "title": "A Switchboard Operator Simulator, On Real Hardware",
-   "summary": "After having been around computer games since the end of the 1970s, one might think that, to borrow a Who lyric, from Soho down to Brighton, you must have played …read more",
-   "detail": "After having been around computer games since the end of the 1970s, one might think that, to borrow a Who lyric, from Soho down to Brighton, you must have played …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/switchboard-featured.jpg",
-   "date": "2026-11-24T19:30:35.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "NASA",
@@ -946,17 +1166,6 @@
    "detail": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory […]",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/NGC_4993.jpg?w=700&h=748&fit=clip",
    "date": "2026-11-24T19:19:52.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
-   "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
-   "summary": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission…",
-   "detail": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Cygnus XL will launch aboard a […]",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ntv-ng-crs-25-falcon9-cygnus-overview-2160-dark.png?w=2048",
-   "date": "2026-11-24T19:09:16.000Z"
   },
   {
    "topic": "Elettronica",
@@ -970,50 +1179,6 @@
    "date": "2026-11-24T19:00:01.000Z"
   },
   {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death",
-   "title": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death",
-   "summary": "Astronomers have caught a rare transitional phase at the end of a star's life, a fossilized remnant of stellar death throes, that could change our picture of the sun's final days.",
-   "detail": "Astronomers have caught a rare transitional phase at the end of a star's life, a fossilized remnant of stellar death throes, that could change our picture of the sun's final days.",
-   "image": "https://cdn.mos.cms.futurecdn.net/WvXZCwS3PGMh4RzPSCKDMi-1920-80.png",
-   "date": "2026-11-24T19:00:00.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
-   "title": "AGU Hyperwall Schedule",
-   "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution…",
-   "detail": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared […]",
-   "image": "",
-   "date": "2026-11-24T18:55:42.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-   "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-   "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-   "detail": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg",
-   "date": "2026-11-24T18:47:57.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-   "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-   "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-   "detail": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/HSH9kiAbUAAzHdZ-1152x648.jpg",
-   "date": "2026-11-24T18:30:36.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -1025,39 +1190,6 @@
    "date": "2026-11-24T18:25:59.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-   "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-   "detail": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
-   "date": "2026-11-24T18:21:43.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
-   "title": "How brewers can protect beers from smoke-tainted hops",
-   "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
-   "detail": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hops3-1152x648-1795358176.jpg",
-   "date": "2026-11-24T18:18:37.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
-   "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
-   "summary": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
-   "detail": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1010796264-1152x648.jpg",
-   "date": "2026-11-24T18:03:58.000Z"
-  },
-  {
    "topic": "Natura",
    "type": "notizia",
    "source": "Smithsonian",
@@ -1067,28 +1199,6 @@
    "detail": "Countries at this month’s United Nations Climate Change Conference could not reach consensus, after clashes over fossil fuel phase-out and climate finance derailed negotiations",
    "image": "https://th-thumbnailer.cdn-si-edu.com/olVsQmyH9FoiHqMgFzn25jmH5GI=/420x240/filters:focal(355x237:356x238)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/df/18/df187712-e67d-4a10-8629-782b11326887/gettyimages-2305334274.jpg",
    "date": "2026-11-24T17:35:08.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-   "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-   "detail": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
-   "date": "2026-11-24T17:34:34.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
-   "title": "Webb Reveals New Details in Supernova Remnant",
-   "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of…",
-   "detail": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and […]",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png?w=2048",
-   "date": "2026-11-24T16:51:27.000Z"
   },
   {
    "topic": "Mondo",
@@ -1113,28 +1223,6 @@
    "date": "2026-11-24T15:44:52.000Z"
   },
   {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
-   "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
-   "summary": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its…",
-   "detail": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to characterize Titan’s surface at multiple scales during […]",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/dragonfly/DragonCamInstall.jpg?w=1280&h=853&fit=clip",
-   "date": "2026-11-24T15:44:38.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/responsabilmente/notizie/oltre_il_traguardo/2026/11/24/mondiali-parasurfing-in-california-azzurri-conquistano-4-medaglie_df694e7a-25e1-4967-87c9-3f33f8f1b8b1.html",
-   "title": "Mondiali parasurfing, in California azzurri conquistano 4 medaglie",
-   "summary": "Settimo posto di squadra per il team della Fissw assieme a un oro, un argento e due bronzi",
-   "detail": "Settimo posto di squadra per il team della Fissw assieme a un oro, un argento e due bronzi",
-   "image": "",
-   "date": "2026-11-24T15:38:08.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -1144,61 +1232,6 @@
    "detail": "The Wilcoworld Tour includes a five-night residency at the San Francisco Fillmore",
    "image": "https://media.pitchfork.com/photos/6b058f98e101ab5f5d5d7a52/master/pass/Wilco-tour.jpg",
    "date": "2026-11-24T15:02:40.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/technology/yunlone-galaxy-star-projector-review",
-   "title": "YunLone Galaxy star projector review — a sub-$30 customizable night light",
-   "summary": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
-   "detail": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
-   "image": "https://cdn.mos.cms.futurecdn.net/tAoiTfHAthygj2RWYL6cCW-1920-80.jpg",
-   "date": "2026-11-24T15:00:00.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/astronomy/asteroids/double-asteroid-solar-eclipse-caught-on-camera-space-photo-of-the-day-for-nov-24-2026",
-   "title": "Double asteroid solar eclipse caught on camera | Space photo of the day for Nov. 24, 2026",
-   "summary": "A spacecraft far from Earth beamed home a rare sight: a solar eclipse caused by one asteroid casting its shadow on another.",
-   "detail": "A spacecraft far from Earth beamed home a rare sight: a solar eclipse caused by one asteroid casting its shadow on another.",
-   "image": "https://cdn.mos.cms.futurecdn.net/cBVLFAtMnFCg4GwjgPSKaZ-1920-80.jpg",
-   "date": "2026-11-24T15:00:00.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
-   "title": "China's Shenzhou-24 mission launches 1st international astronaut to Tiangong space station",
-   "summary": "China will launch an international astronaut to its Tiangong space station today (Nov. 24) for the first time ever, and you can watch the landmark liftoff live.",
-   "detail": "China will launch an international astronaut to its Tiangong space station today (Nov. 24) for the first time ever, and you can watch the landmark liftoff live.",
-   "image": "https://cdn.mos.cms.futurecdn.net/8hpG6PnundpTghaMbyKygC-1920-80.png",
-   "date": "2026-11-24T13:59:17.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
-   "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
-   "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
-   "detail": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC4394_potm2611a.jpg?w=2048&h=2048&fit=clip",
-   "date": "2026-11-24T13:58:28.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
-   "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
-   "summary": "Russia launched the robotic Progress 97 freighter toward the International Space Station from Kazakhstan today (Nov. 24), on a mission that will feature some unusual port-hopping activity.",
-   "detail": "Russia launched the robotic Progress 97 freighter toward the International Space Station from Kazakhstan today (Nov. 24), on a mission that will feature some unusual port-hopping activity.",
-   "image": "https://cdn.mos.cms.futurecdn.net/J8N9uAjWbtGyakpDPace7i-1920-80.png",
-   "date": "2026-11-24T13:16:26.000Z"
   },
   {
    "topic": "Storia",
@@ -1298,28 +1331,6 @@
    "detail": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
    "image": "https://media.pitchfork.com/photos/6b0469f63d08ab0a4b79fbd6/master/pass/P4K26-1123_Selects_2x1.gif",
    "date": "2026-11-23T17:50:53.000Z"
-  },
-  {
-   "topic": "Musica",
-   "type": "notizia",
-   "source": "Pitchfork",
-   "url": "https://pitchfork.com/story/travis-scott-slayyyter-the-dare-feature-on-deluxe-gta-vi-soundtrack/",
-   "title": "Travis Scott, Slayyyter, the Dare Feature on Deluxe GTA VI Soundtrack",
-   "summary": "The new version features 23 more songs, including contributions from Overmono and 21 Savage",
-   "detail": "The new version features 23 more songs, including contributions from Overmono and 21 Savage",
-   "image": "https://media.pitchfork.com/photos/6b0469f73d08ab0a4b79fbdc/master/pass/Travis-Scott-Slayyyter-the-Dare.jpeg",
-   "date": "2026-11-23T16:54:39.000Z"
-  },
-  {
-   "topic": "Musica",
-   "type": "notizia",
-   "source": "Pitchfork",
-   "url": "https://pitchfork.com/story/portishead-reportedly-pull-music-from-israeli-streaming-services/",
-   "title": "Portishead Reportedly Pull Music From Israeli Streaming Services",
-   "summary": "The band, long aligned with the Palestinian cause, has not commented on the removal",
-   "detail": "The band, long aligned with the Palestinian cause, has not commented on the removal",
-   "image": "https://media.pitchfork.com/photos/6b0460843cdd8f70b4c87c01/master/pass/portishead-israel.jpg",
-   "date": "2026-11-23T16:00:53.000Z"
   },
   {
    "topic": "Elettronica",
