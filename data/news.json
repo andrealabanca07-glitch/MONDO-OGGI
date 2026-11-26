@@ -1,27 +1,335 @@
 {
- "updated": "2026-11-25T22:25:11.938Z",
+ "updated": "2026-11-26T04:55:52.638Z",
  "items": [
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Cecoslovacchia",
-   "title": "1992: L'assemblea federale della Cecoslovacchia vota per dividere la nazione in Repubblica Ceca…",
-   "summary": "L'assemblea federale della Cecoslovacchia vota per dividere la nazione in Repubblica Ceca e Slovacchia a partire dal 1º gennaio 1993.",
-   "detail": "L'assemblea federale della Cecoslovacchia vota per dividere la nazione in Repubblica Ceca e Slovacchia a partire dal 1º gennaio 1993. — La Cecoslovacchia fu uno Stato europeo indipendente esistito dal 1918 al 1992.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langit-960px-Flag_of_the_Czech_Republic.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-25T22:25:11.319Z"
+   "url": "https://it.wikipedia.org/wiki/Concorde",
+   "title": "2003: Viene effettuato l'ultimo volo del Concorde.",
+   "summary": "Viene effettuato l'ultimo volo del Concorde.",
+   "detail": "Viene effettuato l'ultimo volo del Concorde. — L'Aérospatiale-BAC Concorde, noto semplicemente come Concorde, è stato un aereo da trasporto supersonico prodotto dal consorzio anglo-francese formato da British Aircraft Corporation (BAC) e Aérospatiale, oggi non più in servizio. Il primo volo del prototipo fu effettuato il 2 marzo 1969, mentre il 4 novembre 1970 il velivolo raggiunse per la prima volta Mach 2, diventando il secondo aereo commerciale a volare a tale velocità, dopo il sovietico Tupolev Tu-144.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/British_Airways_Concorde_G-BOAC_03.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "date": "2026-11-26T04:55:52.637Z"
   },
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Germania_nazista",
-   "title": "1936: La Germania nazista e il Giappone firmano il patto anticomintern.",
-   "summary": "La Germania nazista e il Giappone firmano il patto anticomintern.",
-   "detail": "La Germania nazista e il Giappone firmano il patto anticomintern. — Germania nazionalsocialista, nota più comunemente come Germania nazista o Terzo Reich, sono le definizioni con cui generalmente ci si riferisce alla Germania tra il 1933, quando venne governata dal regime totalitario del Partito Nazionalsocialista Tedesco dei Lavoratori guidato dal cancelliere Adolf Hitler, che assunse il titolo di Führer, fino al 1945, quando venne invasa e totalmente sconfitta dagli Alleati.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/langit-1280px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-25T22:25:11.319Z"
+   "url": "https://it.wikipedia.org/wiki/James_Cook",
+   "title": "1778: Il capitano James Cook scopre Maui.",
+   "summary": "Il capitano James Cook scopre Maui.",
+   "detail": "Il capitano James Cook scopre Maui. — James Cook è stato un esploratore, navigatore e cartografo britannico.",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/3840px-Captainjamescookportrait.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "date": "2026-11-26T04:55:52.637Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/la-lettera-di-de-gennaro-sul-corriere-io-condannato-a-morte_8d506c3b-6d62-4d78-a4a7-2c6bed64af4a.html",
+   "title": "La lettera di De Gennaro sul Corriere: 'Io, condannato a morte'",
+   "summary": "'Questo è il mio testamento morale. Non ho mai chiesto nulla per me'",
+   "detail": "'Questo è il mio testamento morale. Non ho mai chiesto nulla per me'",
+   "image": "",
+   "date": "2026-11-26T04:18:12.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "title": "US announces new tariffs on host of countries including China",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "detail": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+   "date": "2026-11-26T04:10:58.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+   "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+   "detail": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2a0d/live/c9da76c0-e94c-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-26T03:27:33.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/26/jannik-sinner-non-partecipera-agli-australian-open_8907fa06-eb07-4e93-9ce5-2873d033a7fd.html",
+   "title": "Jannik Sinner non parteciperà agli Australian Open",
+   "summary": "Lo hanno annunciato gli organizzatori del torneo",
+   "detail": "Lo hanno annunciato gli organizzatori del torneo",
+   "image": "",
+   "date": "2026-11-26T03:09:00.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/25/self-sensing-artificial-muscles-from-liquid-crystal-elastomer-with-graphene/",
+   "title": "Self-Sensing Artificial Muscles From Liquid Crystal Elastomer With Graphene",
+   "summary": "Although we tend to be more aware of the large muscles in our bodies that enable our legs and arms to move, the real stars at the many small muscles …read more",
+   "detail": "Although we tend to be more aware of the large muscles in our bodies that enable our legs and arms to move, the real stars at the many small muscles …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/lce_graphene_muscle_zhang_et_al_adv_func_mat_2026.jpg",
+   "date": "2026-11-26T03:00:35.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+   "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+   "summary": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known…",
+   "detail": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known as brine pools, these extremely salty, oxygen-free environments are surprisingly teeming with microbial life, challenging our understanding of where living organisms can survive.",
+   "image": "",
+   "date": "2026-11-26T02:42:37.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+   "title": "UK government set to publish new treaties agreed with EU",
+   "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+   "detail": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0991/live/fc4bdc70-e933-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-26T02:13:00.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+   "title": "California warns of flooding as King Tides peak over Thanksgiving",
+   "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+   "detail": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg",
+   "date": "2026-11-26T01:22:55.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm",
+   "title": "World’s largest trial of robotic knee replacement reveals surprising results",
+   "summary": "Robot-assisted knee replacement surgery offers greater surgical precision, but a landmark clinical trial has revealed a surprising limitation. Despite the advanced technology, patients experienced no…",
+   "detail": "Robot-assisted knee replacement surgery offers greater surgical precision, but a landmark clinical trial has revealed a surprising limitation. Despite the advanced technology, patients experienced no meaningful improvements in pain, mobility, or recovery compared with conventional surgery after one year.",
+   "image": "",
+   "date": "2026-11-26T01:04:22.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-tokyo-apertura-in-rialzo-141_e6ca0e4a-f30e-4149-91dd-e048b549a941.html",
+   "title": "Borsa: Tokyo, apertura in rialzo (+1,41%)",
+   "summary": "Rimbalzo tecnico nonostante incertezze dazi",
+   "detail": "Rimbalzo tecnico nonostante incertezze dazi",
+   "image": "",
+   "date": "2026-11-26T01:01:52.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+   "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+   "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+   "detail": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
+   "date": "2026-11-26T00:23:05.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+   "title": "Has global jihadism failed, or is it simply changing shape?",
+   "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+   "detail": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ae31/live/2d66b8d0-e8d9-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-26T00:22:18.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+   "title": "US approves SpaceX plan to send a million data satellites to space",
+   "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+   "detail": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg",
+   "date": "2026-11-26T00:07:51.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+   "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+   "summary": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+   "detail": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-26T00:01:37.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/25/camera-upgrades-for-3d-printers/",
+   "title": "Camera Upgrades for 3D Printers",
+   "summary": "3D printing has come a long way over the years, from being a fussy, barely usable mess to essentially being plug-and-play for a large variety of plastics. And the industry …read more",
+   "detail": "3D printing has come a long way over the years, from being a fussy, barely usable mess to essentially being plug-and-play for a large variety of plastics. And the industry …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/prusa-camera-main.jpg",
+   "date": "2026-11-26T00:00:27.000Z"
+  },
+  {
+   "topic": "Musica",
+   "type": "notizia",
+   "source": "Pitchfork",
+   "url": "https://pitchfork.com/story/king-crimson-co-founder-michael-giles-dies-at-84/",
+   "title": "King Crimson Co-Founder Michael Giles Dies at 84",
+   "summary": "The drummer played an essential role in the recording of In the Court of the Crimson King",
+   "detail": "The drummer played an essential role in the recording of In the Court of the Crimson King",
+   "image": "https://media.pitchfork.com/photos/6b0773df7ac68071266746d4/master/pass/GettyImages-74279841.jpg",
+   "date": "2026-11-25T23:52:08.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055856.htm",
+   "title": "Scientists discover a surprising twist in how the body burns calories",
+   "summary": "Researchers have discovered that a drug can significantly increase the body's energy expenditure without clearly activating calorie-burning brown fat. The unexpected finding reveals a new challenge…",
+   "detail": "Researchers have discovered that a drug can significantly increase the body's energy expenditure without clearly activating calorie-burning brown fat. The unexpected finding reveals a new challenge in developing obesity treatments that harness the body's natural fat-burning machinery.",
+   "image": "",
+   "date": "2026-11-25T23:37:49.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/coppa-davis/2026/11/25/coppa-davis-litalia-soffre-ma-supera-la-corea-e-conquista-la-semifinale_554dfe32-18a9-4393-a9cf-dff1a19d8865.html",
+   "title": "Coppa Davis: l'Italia soffre ma supera la Corea e conquista la semifinale",
+   "summary": "La vittoria col doppio di Berrettini-Vavassori, ora la sfida è con i cechi",
+   "detail": "La vittoria col doppio di Berrettini-Vavassori, ora la sfida è con i cechi",
+   "image": "",
+   "date": "2026-11-25T23:26:49.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/26/champions-gasperini-molto-felice-non-ci-siamo-snaturati-davanti-ai-piu-forti_2ca6720c-22a9-4ce9-8417-7634306282d0.html",
+   "title": "Champions: Gasperini, 'molto felice, non ci siamo snaturati davanti ai più forti'",
+   "summary": "Il tecnico della Roma: \"Partita importantissima, una bella spinta per tutti\"",
+   "detail": "Il tecnico della Roma: \"Partita importantissima, una bella spinta per tutti\"",
+   "image": "",
+   "date": "2026-11-25T23:08:35.000Z"
+  },
+  {
+   "topic": "Arte e cultura",
+   "type": "notizia",
+   "source": "ANSA Cultura",
+   "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/25/morto-andy-taylor-ex-chitarrista-dei-duran-duran-_af6007f1-1f71-4392-84ac-08b6060d3c63.html",
+   "title": "Morto Andy Taylor, ex chitarrista dei Duran Duran",
+   "summary": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
+   "detail": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
+   "image": "",
+   "date": "2026-11-25T23:03:24.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/davis-volandri-siamo-il-gruppo-di-sempre-i-ragazzi-hanno-lavorato-benissimo_56cbd243-e018-4d3e-bcea-544603a22f4f.html",
+   "title": "Davis: Volandri, 'siamo il gruppo di sempre, i ragazzi hanno lavorato benissimo'",
+   "summary": "Il capitano azzurro: \"Per venerdì preparare tutti gli scenari, poi sotto a chi tocca\"",
+   "detail": "Il capitano azzurro: \"Per venerdì preparare tutti gli scenari, poi sotto a chi tocca\"",
+   "image": "",
+   "date": "2026-11-25T23:00:59.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/sucic-e-lautaro-inter-torna-a-vincere-in-champions_11f06a25-5594-4c30-ab05-4c7f8050baad.html",
+   "title": "Sucic e Lautaro, l'Inter torna a vincere in Champions",
+   "summary": "Nove punti in classifica, risposta dei nerazzurri dopo il pari a Bergamo",
+   "detail": "Nove punti in classifica, risposta dei nerazzurri dopo il pari a Bergamo",
+   "image": "",
+   "date": "2026-11-25T22:57:27.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/coppa-davis-litalia-soffre-ma-supera-la-corea-e-conquista-la-semifinale_2c31863d-a5dc-40ff-beac-95d4f18be0f3.html",
+   "title": "Coppa Davis: l'Italia soffre ma supera la Corea e conquista la semifinale",
+   "summary": "La vittoria col doppio di Berrettini-Vavassori, ora la sfida è con i cechi",
+   "detail": "La vittoria col doppio di Berrettini-Vavassori, ora la sfida è con i cechi",
+   "image": "",
+   "date": "2026-11-25T22:55:29.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/champions-chivu-stasera-linter-e-stata-brava-in-tutto_c7270de8-dcad-4cf9-9f2c-43fda0afbfe7.html",
+   "title": "Champions: Chivu, 'stasera l'Inter è stata brava in tutto'",
+   "summary": "\"Bene per mentalità, organizzazione e intensità, bravi anche in difesa\"",
+   "detail": "\"Bene per mentalità, organizzazione e intensità, bravi anche in difesa\"",
+   "image": "",
+   "date": "2026-11-25T22:52:38.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/davis-il-doppio-azzurro-batte-la-corea-litalia-in-semifinale_d6b88b03-6b8a-4fd6-97cb-5796ae53c3da.html",
+   "title": "Davis: il doppio azzurro batte la Corea, l'Italia in semifinale",
+   "summary": "Berrettini e Vavassori in due set al tie break, venerdì la Repubblica Ceca",
+   "detail": "Berrettini e Vavassori in due set al tie break, venerdì la Repubblica Ceca",
+   "image": "",
+   "date": "2026-11-25T22:43:57.000Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+   "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+   "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+   "detail": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+   "date": "2026-11-25T22:36:45.000Z"
+  },
+  {
+   "topic": "Sport",
+   "type": "notizia",
+   "source": "ANSA Sport",
+   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/la-roma-stavolta-resiste-2-2-a-parigi-dopo-un-ottimo-match_f4dff04a-0197-4755-a170-82ee82c02899.html",
+   "title": "La Roma stavolta resiste, 2-2 a Parigi dopo un ottimo match",
+   "summary": "Vantaggio con Hermoso, poi il Psg la ribalta, ma Malen firma il pari finale",
+   "detail": "Vantaggio con Hermoso, poi il Psg la ribalta, ma Malen firma il pari finale",
+   "image": "",
+   "date": "2026-11-25T22:34:48.000Z"
+  },
+  {
+   "topic": "Musica",
+   "type": "notizia",
+   "source": "Pitchfork",
+   "url": "https://pitchfork.com/story/duran-durans-andy-taylor-dies-at-65/",
+   "title": "Duran Duran’s Andy Taylor Dies at 65",
+   "summary": "The guitarist was diagnosed with prostate cancer in 2018",
+   "detail": "The guitarist was diagnosed with prostate cancer in 2018",
+   "image": "https://media.pitchfork.com/photos/6b075e3a6adc3ee0200d3c71/master/pass/GettyImages-621400816.jpg",
+   "date": "2026-11-25T22:25:46.000Z"
   },
   {
    "topic": "Mondo",
@@ -31,7 +339,7 @@
    "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
    "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
    "detail": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/49ab/live/4933ad90-e913-11f1-a094-5fdc692f3e33.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
    "date": "2026-11-25T22:18:06.000Z"
   },
   {
@@ -60,34 +368,12 @@
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
-   "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/25/morto-andy-taylor-ex-chitarrista-dei-duran-duran-_af6007f1-1f71-4392-84ac-08b6060d3c63.html",
-   "title": "Morto Andy Taylor, ex chitarrista dei Duran Duran",
-   "summary": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
-   "detail": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
-   "image": "",
-   "date": "2026-11-25T21:54:50.000Z"
-  },
-  {
-   "topic": "Arte e cultura",
-   "type": "notizia",
-   "source": "ANSA Cultura",
    "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/25/morto-andy-taylor-ex-chitarrista-dei-duran-duran_13951f50-513a-413c-904c-be04a59f8242.html",
    "title": "Morto Andy Taylor, ex chitarrista dei Duran Duran",
    "summary": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
    "detail": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
    "image": "",
    "date": "2026-11-25T21:51:58.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-   "title": "North Korea expels Swiss diplomat in sanctions row",
-   "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-   "detail": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-25T21:51:17.000Z"
   },
   {
    "topic": "Mondo",
@@ -110,17 +396,6 @@
    "detail": "The discount chain has fallen into administration after its owners failed to find a buyer.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg",
    "date": "2026-11-25T21:31:10.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/le-lettere-di-de-gennaro-lhard-disk-non-ve-lho-dato-perche-non-avreste_990dcfdb-4804-4496-9613-4036357dd514.html",
-   "title": "Le accuse a De Luca ultimo atto di De Gennaro prima di morire",
-   "summary": "Altre lettere il 17 novembre. 'Sono uomo di Stato'. Testamento integrale noto dopo funerali",
-   "detail": "Altre lettere il 17 novembre. 'Sono uomo di Stato'. Testamento integrale noto dopo funerali",
-   "image": "",
-   "date": "2026-11-25T21:23:58.000Z"
   },
   {
    "topic": "Spazio",
@@ -178,50 +453,6 @@
    "date": "2026-11-25T20:56:49.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/champions-league-psg-roma-in-campo-alle-21-diretta_79b2acc9-4618-4d82-97c2-c782b24ce140.html",
-   "title": "Champions League: Psg-Roma in campo - DIRETTA",
-   "summary": "Giallorossi sfidano l'ex Luis Enrique. Dybala: 'Voglio chiudere la carriera qui'",
-   "detail": "Giallorossi sfidano l'ex Luis Enrique. Dybala: 'Voglio chiudere la carriera qui'",
-   "image": "",
-   "date": "2026-11-25T20:53:03.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/champions-league-inter-stoccarda-in-campo-alle-21-diretta_18785d3c-d5c8-4d4f-8324-b974fac1568b.html",
-   "title": "Champions League: Inter-Stoccarda in campo 0-0 DIRETTA",
-   "summary": "Barella: 'Non ammetto disfattismi'. Ma serve vincere contro lo Stoccarda",
-   "detail": "Barella: 'Non ammetto disfattismi'. Ma serve vincere contro lo Stoccarda",
-   "image": "",
-   "date": "2026-11-25T20:40:32.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/davis-cobolli-sconfitto-italia-corea-del-sud-1-1_9c90b980-d111-4bfc-9a8d-f53c6f38db53.html",
-   "title": "Davis: Cobolli sconfitto, Italia-Corea del Sud 1-1",
-   "summary": "Soonwoo Kwon batte in tre set l'azzurro, ora decisivo il doppio",
-   "detail": "Soonwoo Kwon batte in tre set l'azzurro, ora decisivo il doppio",
-   "image": "",
-   "date": "2026-11-25T20:12:46.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/violenza-donne-gesto-sensibilizzazione-del-presidente-di-lega-b-a-mantova_4490c32d-ee10-4d79-9733-36e106842680.html",
-   "title": "Violenza donne: gesto sensibilizzazione del presidente di Lega B a Mantova",
-   "summary": "Bedin consegna un pallone rosso alle dirigenti dei club prima del march con l'Arezzo",
-   "detail": "Bedin consegna un pallone rosso alle dirigenti dei club prima del march con l'Arezzo",
-   "image": "",
-   "date": "2026-11-25T20:03:22.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "ANSA Economia",
@@ -231,17 +462,6 @@
    "detail": "S 500 perde lo 0,33%",
    "image": "",
    "date": "2026-11-25T19:56:11.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-   "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-   "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-   "detail": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
-   "date": "2026-11-25T19:54:52.000Z"
   },
   {
    "topic": "Mondo",
@@ -310,17 +530,6 @@
    "date": "2026-11-25T19:20:43.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/europa-league-amorim-olympiacos-forte-ma-nessuno-stadio-e-piu-difficile-di-san_cfb36419-9931-450c-b17e-ece41a592c55.html",
-   "title": "Europa League: Amorim, Olympiacos forte ma nessuno stadio è più difficile di San Siro",
-   "summary": "'Lo scudetto resta difficile quest'anno, dai complimenti alle critiche basta poco'",
-   "detail": "'Lo scudetto resta difficile quest'anno, dai complimenti alle critiche basta poco'",
-   "image": "",
-   "date": "2026-11-25T19:20:17.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -328,19 +537,8 @@
    "title": "Bradford Cox Reveals Autism Diagnosis",
    "summary": "“I didn’t understand that I was unable to stop talking, that I was in this neurodivergent state”",
    "detail": "“I didn’t understand that I was unable to stop talking, that I was in this neurodivergent state”",
-   "image": "https://media.pitchfork.com/photos/6b0733d778b1273b01619caf/master/pass/GettyImages-1163951445.jpg",
+   "image": "https://media.pitchfork.com/photos/6b0761cd078c961cfeb35533/master/pass/AS_Faulkner_Visit_CREDDIT_JAVIER_MORALES.JPG",
    "date": "2026-11-25T19:17:29.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/brignone-si-ritira-la-gamba-fa-troppo-male-la-mia-carriera-finisce-qui_0964617a-2e66-4c3b-9af5-bf49abd25048.html",
-   "title": "Brignone dice basta ma col sorriso: 'La gamba mi fa troppo male'",
-   "summary": "\"Faro' solo un'ultima gara. Il momento top? La Coppa del Mondo generale nel 2025\"",
-   "detail": "\"Faro' solo un'ultima gara. Il momento top? La Coppa del Mondo generale nel 2025\"",
-   "image": "",
-   "date": "2026-11-25T19:16:00.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -352,28 +550,6 @@
    "detail": "Al via le iniziative della società Dante Alighieri, si parte con una mostra",
    "image": "",
    "date": "2026-11-25T19:09:57.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/europa-league-amorim-dobbiamo-solo-vincere-se-non-lo-facessimo_d83e0bc4-56fa-498f-9a7e-707a51492933.html",
-   "title": "Europa League: Amorim 'dobbiamo solo vincere, se non lo facessimo…'",
-   "summary": "Milan non ha perso solo per turnover, nei grandi club non ci sono alibi",
-   "detail": "Milan non ha perso solo per turnover, nei grandi club non ci sono alibi",
-   "image": "",
-   "date": "2026-11-25T19:09:28.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/2026/11/25/federica-brignone-ori-infortuni-e-inchini-la-tigre-di-la-salle-e-la-piu-vincente-di-sempre_0206bce7-1ee9-4e96-9f0e-d7370d6e7858.html",
-   "title": "Federica Brignone: Ori, infortuni e inchini, la tigre di La Salle è la più vincente di sempre",
-   "summary": "Figlia di Ninna Quario, la vetta ai Giochi 2026 con due titoli a 10 mesi dall'incidente",
-   "detail": "Figlia di Ninna Quario, la vetta ai Giochi 2026 con due titoli a 10 mesi dall'incidente",
-   "image": "",
-   "date": "2026-11-25T19:09:22.000Z"
   },
   {
    "topic": "Spazio",
@@ -475,17 +651,6 @@
    "date": "2026-11-25T18:36:11.000Z"
   },
   {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/25/rugby-nations-championship-fatto-il-xv-azzurro-contro-le-figi_de68f5dc-872f-4f45-9554-5b71f249cbc9.html",
-   "title": "Rugby: Nations Championship; fatto il XV azzurro contro le Figi",
-   "summary": "Quesada opera 5 cambi per la sfida Londra rispetto alla partita di Udine",
-   "detail": "Quesada opera 5 cambi per la sfida Londra rispetto alla partita di Udine",
-   "image": "",
-   "date": "2026-11-25T18:34:17.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -506,28 +671,6 @@
    "detail": "Al via le iniziative della società Dante Alighieri, si parte con una mostra",
    "image": "",
    "date": "2026-11-25T18:32:40.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-milano-zavorrata-da-prysmian-e-stm-in-luce-stellantis_c150f3fa-df21-45a3-ae80-b234db7662a0.html",
-   "title": "Borsa: Milano zavorrata da Prysmian e Stm, in luce Stellantis",
-   "summary": "Giù sul listino le banche. In controtendenza gli automobilistici",
-   "detail": "Giù sul listino le banche. In controtendenza gli automobilistici",
-   "image": "",
-   "date": "2026-11-25T18:29:09.000Z"
-  },
-  {
-   "topic": "Sport",
-   "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/conference-league-sarri-niente-presunzione-o-prendiamo-una-lezione_b0790968-7069-4be6-b4fa-afed20868a0e.html",
-   "title": "Conference League: Sarri, 'niente presunzione o prendiamo una lezione'",
-   "summary": "Il tecnico atalantino: \"Borac squadra tecnica con giovani importanti\"",
-   "detail": "Il tecnico atalantino: \"Borac squadra tecnica con giovani importanti\"",
-   "image": "",
-   "date": "2026-11-25T18:27:55.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -552,15 +695,15 @@
    "date": "2026-11-25T18:22:38.000Z"
   },
   {
-   "topic": "Sport",
+   "topic": "Spazio",
    "type": "notizia",
-   "source": "ANSA Sport",
-   "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/zverev-sulla-vicenda-legale-con-la-ex-ne-ho-parlato-abbastanza-io-innocente_093145be-7f32-4e3e-ab2d-823af1ca5d2e.html",
-   "title": "Zverev sulla vicenda legale con la ex, 'ne ho parlato abbastanza, io innocente'",
-   "summary": "Il tedesco 'ingiusto il commento di Gaudenzi sull'uso degli antidolorifici'",
-   "detail": "Il tedesco 'ingiusto il commento di Gaudenzi sull'uso degli antidolorifici'",
-   "image": "",
-   "date": "2026-11-25T18:21:48.000Z"
+   "source": "Space.com",
+   "url": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
+   "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
+   "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
+   "detail": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
+   "image": "https://cdn.mos.cms.futurecdn.net/dfoNQZBjEHoCTsU9VRVJHW-1920-80.jpg",
+   "date": "2026-11-25T18:00:00.000Z"
   },
   {
    "topic": "Spazio",
@@ -571,17 +714,6 @@
    "summary": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
    "detail": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
    "image": "https://cdn.mos.cms.futurecdn.net/EpwERbzbDTNH5mFmr59JS3-1920-80.jpg",
-   "date": "2026-11-25T18:00:00.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
-   "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
-   "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
-   "detail": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
-   "image": "https://cdn.mos.cms.futurecdn.net/dfoNQZBjEHoCTsU9VRVJHW-1920-80.jpg",
    "date": "2026-11-25T18:00:00.000Z"
   },
   {
@@ -739,9 +871,9 @@
    "date": "2026-11-25T16:47:14.000Z"
   },
   {
-   "topic": "Economia",
+   "topic": "Mondo",
    "type": "notizia",
-   "source": "BBC Business",
+   "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
    "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
    "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
@@ -781,17 +913,6 @@
    "detail": "NASA is sending research aircraft and using satellites as the Army prepares to detonate degrading explosives in Iowa.",
    "image": "https://cdn.mos.cms.futurecdn.net/fomaAbgipYdapvaDYkLAth-1920-80.png",
    "date": "2026-11-25T16:24:24.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "title": "US announces new tariffs on host of countries including China",
-   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "detail": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-25T16:21:34.000Z"
   },
   {
    "topic": "Spazio",
@@ -871,17 +992,6 @@
    "date": "2026-11-25T14:29:43.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
-   "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-   "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
-   "detail": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-25T14:06:13.000Z"
-  },
-  {
    "topic": "Economia",
    "type": "notizia",
    "source": "BBC Business",
@@ -902,39 +1012,6 @@
    "detail": "Her rendition of the Alchemist-assisted single interpolated “Bennie and the Jets”",
    "image": "https://media.pitchfork.com/photos/6b06deb5efeade4df721e4b2/master/pass/erykah-badu-fallon.jpg",
    "date": "2026-11-25T13:15:56.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-   "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-   "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-   "detail": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-25T12:21:49.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-   "detail": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-25T12:12:11.000Z"
-  },
-  {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-   "title": "AI may soon change what it means to be a theoretical physicist",
-   "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
-   "detail": "Frontier AI is already solving problems that once took top physicists a full day.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
-   "date": "2026-11-25T12:00:28.000Z"
   },
   {
    "topic": "Elettronica",
@@ -1003,17 +1080,6 @@
    "date": "2026-11-25T10:06:22.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-   "title": "What will the energy cap changes mean for my bills?",
-   "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-   "detail": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
-   "date": "2026-11-25T09:54:32.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -1025,17 +1091,6 @@
    "date": "2026-11-25T09:30:54.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/25/touching-a-spinner-makes-things-feel-sticky-or-slippery-in-vr/",
-   "title": "Touching a Spinner Makes Things Feel Sticky or Slippery, in VR",
-   "summary": "Every now and again, folks get an idea for a new kind of feedback that is as strange as it is intriguing. Surf-Roll is exactly that — it simulates feelings …read more",
-   "detail": "Every now and again, folks get an idea for a new kind of feedback that is as strange as it is intriguing. Surf-Roll is exactly that — it simulates feelings …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Surf-Roll-Device-banner.png",
-   "date": "2026-11-25T09:00:29.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -1045,17 +1100,6 @@
    "detail": "BANCOMAT Coin sarà il nome della stablecoin di sistema in euro",
    "image": "",
    "date": "2026-11-25T08:18:10.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/24/the-3d-printer-scam-targeting-uk-hackerspaces/",
-   "title": "The 3D Printer Scam Targeting UK Hackerspaces",
-   "summary": "It’s likely that most Hackaday readers will be familiar with online scams, from those faraway princes with an embarrassing matter of needing to shift some oil millions, to too-good-to-be-true offers…",
-   "detail": "It’s likely that most Hackaday readers will be familiar with online scams, from those faraway princes with an embarrassing matter of needing to shift some oil millions, to too-good-to-be-true offers …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/hackerspace-scam-featured.jpg",
-   "date": "2026-11-25T06:00:18.000Z"
   },
   {
    "topic": "Spazio",
@@ -1089,28 +1133,6 @@
    "detail": "An AI-powered analysis of thousands of children's brain scans has revealed three distinct brain types underlying ADHD and anxiety that do not neatly fit traditional diagnoses. These hidden biological patterns can appear before a diagnosis is made, potentially enabling earlier detection and more effective, personalized treatments.",
    "image": "",
    "date": "2026-11-25T04:11:59.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-   "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-   "detail": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-25T00:54:13.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-   "title": "Why tiny cars are taking off across Europe",
-   "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-   "detail": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-25T00:34:05.000Z"
   },
   {
    "topic": "Salute",
@@ -1256,28 +1278,6 @@
    "date": "2026-11-24T11:09:06.000Z"
   },
   {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
-   "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
-   "summary": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression. Known as \"circadian depression,\" it is linked to…",
-   "detail": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression. Known as \"circadian depression,\" it is linked to the body's internal clock and is associated with night owl tendencies, excessive sleep, persistent exhaustion, and more severe symptoms. Traditional antidepressants often work less effectively for these individuals, potentially explaining why some people struggle to find relief.",
-   "image": "",
-   "date": "2026-11-24T10:47:51.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
-   "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
-   "summary": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading…",
-   "detail": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading classical computing methods. A novel error-detection technique also allows scientists to establish confidence in the accuracy of the results, overcoming a major hurdle in quantum computing.",
-   "image": "",
-   "date": "2026-11-24T04:46:12.000Z"
-  },
-  {
    "topic": "Salute",
    "type": "notizia",
    "source": "BBC Health",
@@ -1311,28 +1311,6 @@
    "date": "2026-11-23T19:03:40.000Z"
   },
   {
-   "topic": "Musica",
-   "type": "notizia",
-   "source": "Pitchfork",
-   "url": "https://pitchfork.com/story/phoebe-bridgers-sets-more-planetarium-listening-parties-for-lost-weekend/",
-   "title": "Phoebe Bridgers Sets More Planetarium Listening Parties for Lost Weekend",
-   "summary": "Stargazers of North America, Europe, and Australasia, unite",
-   "detail": "Stargazers of North America, Europe, and Australasia, unite",
-   "image": "https://media.pitchfork.com/photos/6b0480a03d08ab0a4b79fc4a/master/pass/phoebe-bridgers-planetariums.jpg",
-   "date": "2026-11-23T18:07:57.000Z"
-  },
-  {
-   "topic": "Musica",
-   "type": "notizia",
-   "source": "Pitchfork",
-   "url": "https://pitchfork.com/story/dangelo-belle-and-sebastian-and-more-this-weeks-pitchfork-selects-playlist/",
-   "title": "D’Angelo, Belle and Sebastian, and More: This Week’s Pitchfork Selects Playlist",
-   "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
-   "detail": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
-   "image": "https://media.pitchfork.com/photos/6b0469f63d08ab0a4b79fbd6/master/pass/P4K26-1123_Selects_2x1.gif",
-   "date": "2026-11-23T17:50:53.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "IEEE Spectrum",
@@ -1353,17 +1331,6 @@
    "detail": "In 1863, Abraham Lincoln declared Thanksgiving a national holiday in a bid to promote unity. The first Thanksgiving football game took place six years later, and the NFL is still finding ways to expand its role in the annual celebration today",
    "image": "https://th-thumbnailer.cdn-si-edu.com/fXYYEBzQ--o7w0NZOHAihbFYcd0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f4/1c/f41c2e33-1002-4993-9e86-3016cbd1b204/thanksgiving-football2.png",
    "date": "2026-11-23T12:45:00.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
-   "title": "New gum disease treatment kills bad bacteria while sparing the good",
-   "summary": "Researchers in Japan have developed an innovative gum disease treatment that uses egg yolk antibodies and near-infrared light to destroy harmful bacteria without harming beneficial microbes. Unlike…",
-   "detail": "Researchers in Japan have developed an innovative gum disease treatment that uses egg yolk antibodies and near-infrared light to destroy harmful bacteria without harming beneficial microbes. Unlike conventional treatments, the approach preserves the mouth's natural bacterial balance and protects healthy gum cells. In mice, it significantly reduced the bone loss associated with periodontitis, a major cause of tooth loss.",
-   "image": "",
-   "date": "2026-11-23T11:55:17.000Z"
   },
   {
    "topic": "Salute",
