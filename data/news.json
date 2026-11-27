@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:44:58.005Z",
+ "updated": "2026-11-27T08:09:52.393Z",
  "items": [
   {
    "topic": "Spazio",
@@ -7,32 +7,263 @@
    "source": "NASA · Foto del giorno",
    "url": "https://apod.nasa.gov/apod/astropix.html",
    "title": "NASA Science",
-   "summary": "Beauty is in the eye of the beholder. And there is much to behold in today's featured image. The Milky Way shines bright in the sky of Brazil, over the white sand dunes and dark lagoons of Lençóis…",
-   "detail": "Beauty is in the eye of the beholder. And there is much to behold in today's featured image. The Milky Way shines bright in the sky of Brazil, over the white sand dunes and dark lagoons of Lençóis Maranhenses National Park. We can see different parts of the Milky Way as it apparently rotates in the sky every night and throughout the year. This composite image was taken later in the night in July from a latitude of approximately 2º south. It shows some prominent Milky Way features, such as dark dust lanes and colorful nebulas. But does the Galaxy really appear arched like a rainbow in the sky? No, this is an artifact of a picture taken with a wide-angle lens. As the Galaxy was artfully framed by the photographer, it matches the contour of the dark lagoon creating the illusion of a cosmic eye, half in space and half on the ground. Is this eye in the sky looking back at you?Tomorrow's…",
+   "summary": "On November 24, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was…",
+   "detail": "On November 24, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was big and bright, and at its full phase. Known to some as a Beaver Moon, November's Full Moon was also near perigee, the closest point in its elliptical orbit around planet Earth. That made it one of the biggest and brightest Full Moons, also known as a supermoon. In fact, November's Full Moon was the first in a series of four consecutive Full Moon's near perigee. So your next chance to watch a supermoon rise will be when the Cold Moon rises on December 23.Tomorrow's picture: remember where you parked\t\t\t\t\t\t",
    "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-   "date": "2026-11-26T23:44:58.004Z"
+   "date": "2026-11-27T08:09:52.392Z"
   },
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Concorde",
-   "title": "2003: Viene effettuato l'ultimo volo del Concorde.",
-   "summary": "Viene effettuato l'ultimo volo del Concorde.",
-   "detail": "Viene effettuato l'ultimo volo del Concorde. — L'Aérospatiale-BAC Concorde, noto semplicemente come Concorde, è stato un aereo da trasporto supersonico prodotto dal consorzio anglo-francese formato da British Aircraft Corporation (BAC) e Aérospatiale, oggi non più in servizio. Il primo volo del prototipo fu effettuato il 2 marzo 1969, mentre il 4 novembre 1970 il velivolo raggiunse per la prima volta Mach 2, diventando il secondo aereo commerciale a volare a tale velocità, dopo il sovietico Tupolev Tu-144.",
-   "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/British_Airways_Concorde_G-BOAC_03.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "date": "2026-11-26T23:44:55.799Z"
+   "url": "https://it.wikipedia.org/wiki/Italia",
+   "title": "1990: L'Italia firma gli accordi di Schengen.",
+   "summary": "L'Italia firma gli accordi di Schengen.",
+   "detail": "L'Italia firma gli accordi di Schengen. — L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langit-1920px-Flag_of_Italy.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "date": "2026-11-27T08:09:51.790Z"
   },
   {
    "topic": "Storia",
    "type": "curiosità",
    "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/James_Cook",
-   "title": "1778: Il capitano James Cook scopre Maui.",
-   "summary": "Il capitano James Cook scopre Maui.",
-   "detail": "Il capitano James Cook scopre Maui. — James Cook è stato un esploratore, navigatore e cartografo britannico.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/3840px-Captainjamescookportrait.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-26T23:44:55.799Z"
+   "url": "https://it.wikipedia.org/wiki/Boston",
+   "title": "1839: A Boston viene fondata la American Statistical Association.",
+   "summary": "A Boston viene fondata la American Statistical Association.",
+   "detail": "A Boston viene fondata la American Statistical Association. — Boston è una città degli Stati Uniti d'America, capoluogo della contea di Suffolk e capitale del Commonwealth del Massachusetts. È la città più grande dello Stato e della Nuova Inghilterra, nonché il centro economico e culturale più importante. Nel 2018 aveva una popolazione stimata di 694 583 abitanti, che la rende la ventunesima città più grande della federazione.La città è il fulcro di un'area metropolitana più grande chiamata Greater Boston, che ospita 4,5 milioni di persone ed è la decima più grande del Paese.",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/langit-500px-Flag_of_Boston.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "date": "2026-11-27T08:09:51.790Z"
+  },
+  {
+   "topic": "Tecnologia",
+   "type": "notizia",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+   "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+   "summary": "There’s just one thing we still don’t know: How much will they cost?",
+   "detail": "There’s just one thing we still don’t know: How much will they cost?",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/volvo-xc60-xc90-combo-1152x648.jpg",
+   "date": "2026-11-27T08:00:53.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+   "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+   "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+   "detail": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0041/live/4371efb0-ea36-11f1-9fc4-ef897a334b75.jpg",
+   "date": "2026-11-27T07:46:02.000Z"
+  },
+  {
+   "topic": "Salute",
+   "type": "notizia",
+   "source": "BBC Health",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+   "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+   "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+   "detail": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/569b/live/83ef8790-ea37-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-27T07:40:25.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/26/a-modular-6502-computer/",
+   "title": "A Modular 6502 Computer",
+   "summary": "Back in the day, there were plenty of nice compact microcomputers out there that featured the 6502 CPU. There were also simpler computers that put the chip on a bare …read more",
+   "detail": "Back in the day, there were plenty of nice compact microcomputers out there that featured the 6502 CPU. There were also simpler computers that put the chip on a bare …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/The-20c-Episodio-0-Hola-0-0-screenshot.png",
+   "date": "2026-11-27T06:00:46.000Z"
+  },
+  {
+   "topic": "Salute",
+   "type": "notizia",
+   "source": "BBC Health",
+   "url": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o?at_medium=RSS&at_campaign=rss",
+   "title": "Reform UK pledges to scrap hospital parking fees in England",
+   "summary": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care.",
+   "detail": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b9f8/live/450af620-e9fd-11f1-976c-6d185a1abdb9.png",
+   "date": "2026-11-27T06:00:41.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/flash/2026/11/27/-sciopero-dei-giornalisti-dellansa-il-sito-non-e-aggiornato-_2fc25b5e-abdb-4a26-9041-cbf6e88d10ad.html",
+   "title": "++ Sciopero dei giornalisti dell'ANSA, il sito non è aggiornato ++",
+   "summary": "++ Sciopero dei giornalisti dell'ANSA, il sito non è aggiornato ++",
+   "detail": "++ Sciopero dei giornalisti dell'ANSA, il sito non è aggiornato ++",
+   "image": "",
+   "date": "2026-11-27T05:40:06.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+   "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+   "detail": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg",
+   "date": "2026-11-27T05:15:26.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+   "title": "APOD: 2026 November 27 – The Moon Watchers",
+   "summary": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a…",
+   "detail": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers […]",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Plenilunio1_2048r.jpg?w=2022&h=2048&fit=clip",
+   "date": "2026-11-27T05:05:00.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+   "title": "Shivelyuch Socked In",
+   "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
+   "detail": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108.jpg?w=1440&h=960&fit=clip",
+   "date": "2026-11-27T05:01:00.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
+   "title": "A fat-burning molecule has an unexpected benefit for your muscles",
+   "summary": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage. The molecule, already available as a…",
+   "detail": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage. The molecule, already available as a dietary supplement, could open new avenues for treating muscle deterioration associated with type 2 diabetes.",
+   "image": "",
+   "date": "2026-11-27T04:42:17.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
+   "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+   "summary": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to children's learning and memory: infancy and the start of formal schooling. Greater screen…",
+   "detail": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to children's learning and memory: infancy and the start of formal schooling. Greater screen exposure during these developmental windows was linked to poorer academic performance and weaker working memory years later.",
+   "image": "",
+   "date": "2026-11-27T03:56:06.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+   "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+   "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+   "detail": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+   "date": "2026-11-27T03:28:15.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+   "title": "Harvard’s tiny UV light chip could help shrink quantum computers",
+   "summary": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The…",
+   "detail": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The breakthrough could unlock smaller quantum computers, ultra-precise atomic clocks, and compact environmental sensors.",
+   "image": "",
+   "date": "2026-11-27T03:22:20.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/26/when-decoupling-capacitors-go-wrong/",
+   "title": "When Decoupling Capacitors Go Wrong",
+   "summary": "Popular wisdom holds that decoupling capacitors are good, and thus more decoupling capacitors is better. Unfortunately physics disagrees on that notion, as [Ben Eater] discusses in a recent video,…",
+   "detail": "Popular wisdom holds that decoupling capacitors are good, and thus more decoupling capacitors is better. Unfortunately physics disagrees on that notion, as [Ben Eater] discusses in a recent video, following …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/discrete_clock_issue_ben_eater_youtube.jpg",
+   "date": "2026-11-27T03:00:47.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm",
+   "title": "These bizarre prehistoric mammals may have been misunderstood for 150 years",
+   "summary": "Giant horned mammals that emerged shortly after the extinction of the dinosaurs may have had far fewer physical differences between males and females than scientists once believed. The discovery…",
+   "detail": "Giant horned mammals that emerged shortly after the extinction of the dinosaurs may have had far fewer physical differences between males and females than scientists once believed. The discovery challenges a classic example of sexual dimorphism and raises questions about how historical biases have shaped our understanding of extinct animals.",
+   "image": "",
+   "date": "2026-11-27T01:05:56.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+   "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+   "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+   "detail": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-27T00:58:49.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "ANSA",
+   "url": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/11/27/ansail-bilancio-spacca-leuropa-ma-costa-insiste-serve-unintesa-a-dicembre_fe68840f-5fc7-4c53-b41a-e795d3b27382.html",
+   "title": "Il bilancio spacca l'Europa ma Costa insiste: 'Serve un'intesa a dicembre'",
+   "summary": "La forte irritazione di Meloni, scettica sui finanziamenti automatici per Kiev",
+   "detail": "La forte irritazione di Meloni, scettica sui finanziamenti automatici per Kiev",
+   "image": "",
+   "date": "2026-11-27T00:55:08.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "ANSA Economia",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/27/borsa-tokyo-apertura-in-aumento-039_3695bcbd-aa6a-4e1e-a07c-320e3ff6c559.html",
+   "title": "Borsa: Tokyo, apertura in aumento (+0,39%)",
+   "summary": "Tecnologia in accelerazione, yen stabile su dollaro ed euro",
+   "detail": "Tecnologia in accelerazione, yen stabile su dollaro ed euro",
+   "image": "",
+   "date": "2026-11-27T00:10:12.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+   "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+   "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+   "detail": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-27T00:02:19.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/26/diagnosing-a-failed-lg-fridge-ice-maker/",
+   "title": "Diagnosing a Failed LG Fridge Ice Maker",
+   "summary": "Although a useful feature for people who use ice cubes a lot, an automatic ice cube maker feature in a refrigerator can be a bit of a pain if they …read more",
+   "detail": "Although a useful feature for people who use ice cubes a lot, an automatic ice cube maker feature in a refrigerator can be a bit of a pain if they …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/ice_cube_tray_adrians_digital_basement_extras_youtube.jpg",
+   "date": "2026-11-27T00:00:23.000Z"
+  },
+  {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261125045311.htm",
+   "title": "This dietary supplement may have an unexpected benefit for the brain",
+   "summary": "A naturally derived dietary supplement called urolithin A may help the brain get more oxygen and nutrients when it needs them most. In a randomized clinical trial involving 50 middle-aged adults with…",
+   "detail": "A naturally derived dietary supplement called urolithin A may help the brain get more oxygen and nutrients when it needs them most. In a randomized clinical trial involving 50 middle-aged adults with obesity, researchers found that taking the supplement daily for four weeks increased blood flow to the brain during a challenging memory task, particularly in a region involved in working memory.",
+   "image": "",
+   "date": "2026-11-26T23:34:32.000Z"
   },
   {
    "topic": "Economia",
@@ -44,6 +275,17 @@
    "detail": "Via libera dei 27 allo spagnolo. Resta lo scontro tra modernizzatori e coesionisti",
    "image": "",
    "date": "2026-11-26T23:19:39.000Z"
+  },
+  {
+   "topic": "Economia",
+   "type": "notizia",
+   "source": "BBC Business",
+   "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+   "title": "UK to pay 'participation' fee to deliver EU deals",
+   "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+   "detail": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+   "date": "2026-11-26T23:17:12.000Z"
   },
   {
    "topic": "Mondo",
@@ -72,9 +314,9 @@
    "type": "notizia",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-   "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-   "detail": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+   "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+   "detail": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
    "date": "2026-11-26T22:49:27.000Z"
   },
@@ -90,9 +332,9 @@
    "date": "2026-11-26T22:37:56.000Z"
   },
   {
-   "topic": "Mondo",
+   "topic": "Sport",
    "type": "notizia",
-   "source": "ANSA",
+   "source": "ANSA Sport",
    "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/26/europa-league-juventus-omonia-4-1_cb9c81b7-a2f3-4183-98e9-a3d1491cbfaa.html",
    "title": "Europa League: la Juve si spaventa e poi dilaga, poker all'Omonia",
    "summary": "Sotto 0-1 tra i fischi, i bianconeri ne fanno 4 e segna pure Ekhator",
@@ -121,17 +363,6 @@
    "detail": "Decisivi i rossi a Pascual ed Herera. Krstovic, Kolasinac e Zappacosta firmano i 3 punti",
    "image": "",
    "date": "2026-11-26T22:24:55.000Z"
-  },
-  {
-   "topic": "Salute",
-   "type": "notizia",
-   "source": "BBC Health",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
-   "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-   "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-   "detail": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8436/live/1c6edae0-e9dc-11f1-9361-cd8ed0157587.jpg",
-   "date": "2026-11-26T22:06:24.000Z"
   },
   {
    "topic": "Sport",
@@ -178,6 +409,17 @@
    "date": "2026-11-26T21:40:36.000Z"
   },
   {
+   "topic": "Scienza",
+   "type": "notizia",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+   "title": "For decades, scientists may have misunderstood how brain cells work",
+   "summary": "A major new study challenges a long-standing assumption about how the brain works, revealing that most neurons are versatile multitaskers rather than highly specialized workers. By analyzing…",
+   "detail": "A major new study challenges a long-standing assumption about how the brain works, revealing that most neurons are versatile multitaskers rather than highly specialized workers. By analyzing recordings from 43 regions of the mouse brain, researchers discovered that although some neurons are dedicated to specific functions, most respond to a wide variety of information in remarkably distinct ways.",
+   "image": "",
+   "date": "2026-11-26T21:36:09.000Z"
+  },
+  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "BBC News",
@@ -185,7 +427,7 @@
    "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
    "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
    "detail": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
    "date": "2026-11-26T21:17:53.000Z"
   },
   {
@@ -255,17 +497,6 @@
    "date": "2026-11-26T20:19:29.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "ANSA",
-   "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/chi-lha-visto-e-di-un-ex-007-la-voce-del-telefonista-di-emanuela-orlandi_a12a4e85-6eb9-4eac-bada-c410e3a9955c.html",
-   "title": "Il telefonista di Emanuela Orlandi sarebbe un ex 007",
-   "summary": "'Chi l'ha visto': è l'ex Sisde Martufi. La famiglia Gregori chiede una perizia fonica",
-   "detail": "'Chi l'ha visto': è l'ex Sisde Martufi. La famiglia Gregori chiede una perizia fonica",
-   "image": "",
-   "date": "2026-11-26T20:05:19.000Z"
-  },
-  {
    "topic": "Sport",
    "type": "notizia",
    "source": "ANSA Sport",
@@ -317,7 +548,7 @@
    "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
    "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
    "detail": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cda3/live/d6364450-ea2b-11f1-a094-5fdc692f3e33.jpg",
    "date": "2026-11-26T19:26:16.000Z"
   },
   {
@@ -607,17 +838,6 @@
    "date": "2026-11-26T16:44:54.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "ANSA Economia",
-   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/26/fincantieri-contratto-per-la-terza-unita-lss-per-la-marina-militare_17c82dbf-ab70-4d78-8630-b48194c1d6c8.html",
-   "title": "Fincantieri, contratto per la terza unità Lss per la Marina Militare",
-   "summary": "Commessa da 500 milioni di euro, di cui 88 in opzione",
-   "detail": "Commessa da 500 milioni di euro, di cui 88 in opzione",
-   "image": "",
-   "date": "2026-11-26T16:44:32.000Z"
-  },
-  {
    "topic": "Arte e cultura",
    "type": "notizia",
    "source": "ANSA Cultura",
@@ -673,17 +893,6 @@
    "date": "2026-11-26T16:00:00.000Z"
   },
   {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-   "title": "New UK-EU treaty has 10-year termination clause",
-   "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-   "detail": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-26T15:23:17.000Z"
-  },
-  {
    "topic": "Elettronica",
    "type": "notizia",
    "source": "Hackaday",
@@ -713,7 +922,7 @@
    "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
    "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
    "detail": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3a8a/live/bc4d6fb0-ea2f-11f1-b33b-b39c81e690e4.jpg",
    "date": "2026-11-26T14:44:26.000Z"
   },
   {
@@ -737,17 +946,6 @@
    "detail": "This Disney+ and Hulu bundle is now only $4.99 per month for a whole year, giving you access to the entire Marvel Cinematic Universe among other huge sci-fi franchises.",
    "image": "https://cdn.mos.cms.futurecdn.net/SW4Ft6yNASBQJA4hwWedBY-1920-80.jpg",
    "date": "2026-11-26T14:35:13.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-   "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-   "summary": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
-   "detail": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
-   "date": "2026-11-26T14:28:22.000Z"
   },
   {
    "topic": "Salute",
@@ -790,19 +988,8 @@
    "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
    "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
    "detail": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/db70/live/c33d5240-e999-11f1-a094-5fdc692f3e33.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/76ab/live/16b33890-ea30-11f1-b33b-b39c81e690e4.jpg",
    "date": "2026-11-26T13:40:46.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-   "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-   "summary": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
-   "detail": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e387/live/8aafd3d0-e98f-11f1-9d1c-4dcc8fcde666.jpg",
-   "date": "2026-11-26T12:16:06.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -863,17 +1050,6 @@
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261124055906.htm",
-   "title": "Loneliness is making us sick, but we may be treating it all wrong",
-   "summary": "Loneliness can be surprisingly deadly, with previous research linking it to a roughly 30% increase in the risk of premature death. However, a new study warns that treating loneliness as a medical…",
-   "detail": "Loneliness can be surprisingly deadly, with previous research linking it to a roughly 30% increase in the risk of premature death. However, a new study warns that treating loneliness as a medical condition could distract from its deeper social causes. While healthcare professionals can offer support, lasting solutions may require rebuilding communities and fundamentally changing the way people live and work.",
-   "image": "",
-   "date": "2026-11-26T11:32:30.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
    "url": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
    "title": "The surprising reason women seem better at multitasking than men",
    "summary": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected…",
@@ -882,31 +1058,9 @@
    "date": "2026-11-26T11:21:47.000Z"
   },
   {
-   "topic": "Economia",
+   "topic": "Salute",
    "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
-   "title": "Drivers over 70 face eye tests every three years under new plans",
-   "summary": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
-   "detail": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4b37/live/d36e1fb0-e993-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-26T11:21:45.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
-   "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
-   "summary": "Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface. These subtle landscape features are…",
-   "detail": "Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface. These subtle landscape features are created as deeply buried cave systems slowly collapse upward over millions of years. The discovery could help researchers locate unexplored caves containing ancient environmental records and unusual life forms.",
-   "image": "",
-   "date": "2026-11-26T11:06:15.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
+   "source": "BBC Health",
    "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
    "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
    "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
@@ -926,17 +1080,6 @@
    "date": "2026-11-26T10:46:17.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/26/a-toolkit-for-identifying-rfid-tags/",
-   "title": "A Toolkit For Identifying RFID Tags",
-   "summary": "Let’s say you happen across a random RFID or NFC tag. You look at it… it’s in a form factor you haven’t seen before and it’s not easily describable enough …read more",
-   "detail": "Let’s say you happen across a random RFID or NFC tag. You look at it… it’s in a form factor you haven’t seen before and it’s not easily describable enough …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/gcenter-l33g.webp",
-   "date": "2026-11-26T09:00:16.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -946,17 +1089,6 @@
    "detail": "Al via da Milano il progetto nazionale di Illycaffè e Arma dei Carabinieri",
    "image": "",
    "date": "2026-11-26T08:05:04.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/25/sega-saturn-portable-pays-homage-to-the-sega-cdx-design/",
-   "title": "Sega Saturn Portable Pays Homage to the Sega CDX Design",
-   "summary": "Photo of a modified Sega Saturn console that fits into a portable CD player. \" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/11/Sega-Saturn-CDX-1.jpg?w=800\" />…",
-   "detail": "Photo of a modified Sega Saturn console that fits into a portable CD player. \" data-image-caption=\"\" data-large-file=\"https://hackaday.com/wp-content/uploads/2026/11/Sega-Saturn-CDX-1.jpg?w=800\" /> Back in the 90’s the Sega Corporation put out game hardware for every type of video game player under the sun. There was the Sega Genesis for average gamers, the …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Sega-Saturn-CDX-1.jpg",
-   "date": "2026-11-26T06:00:08.000Z"
   },
   {
    "topic": "Spazio",
@@ -1003,17 +1135,6 @@
    "date": "2026-11-26T05:00:24.000Z"
   },
   {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/25/self-sensing-artificial-muscles-from-liquid-crystal-elastomer-with-graphene/",
-   "title": "Self-Sensing Artificial Muscles From Liquid Crystal Elastomer With Graphene",
-   "summary": "Although we tend to be more aware of the large muscles in our bodies that enable our legs and arms to move, the real stars are the many small muscles …read more",
-   "detail": "Although we tend to be more aware of the large muscles in our bodies that enable our legs and arms to move, the real stars are the many small muscles …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/lce_graphene_muscle_zhang_et_al_adv_func_mat_2026.jpg",
-   "date": "2026-11-26T03:00:35.000Z"
-  },
-  {
    "topic": "Scienza",
    "type": "notizia",
    "source": "ScienceDaily",
@@ -1025,28 +1146,6 @@
    "date": "2026-11-26T02:42:37.000Z"
   },
   {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm",
-   "title": "World’s largest trial of robotic knee replacement reveals surprising results",
-   "summary": "Robot-assisted knee replacement surgery offers greater surgical precision, but a landmark clinical trial has revealed a surprising limitation. Despite the advanced technology, patients experienced no…",
-   "detail": "Robot-assisted knee replacement surgery offers greater surgical precision, but a landmark clinical trial has revealed a surprising limitation. Despite the advanced technology, patients experienced no meaningful improvements in pain, mobility, or recovery compared with conventional surgery after one year.",
-   "image": "",
-   "date": "2026-11-26T01:04:22.000Z"
-  },
-  {
-   "topic": "Economia",
-   "type": "notizia",
-   "source": "BBC Business",
-   "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-   "title": "Guitar wars - the transatlantic battle over the Stratocaster",
-   "summary": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
-   "detail": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-26T00:01:37.000Z"
-  },
-  {
    "topic": "Musica",
    "type": "notizia",
    "source": "Pitchfork",
@@ -1056,17 +1155,6 @@
    "detail": "The drummer played an essential role in the recording of In the Court of the Crimson King",
    "image": "https://media.pitchfork.com/photos/6b0843a997681df23b6bd68a/master/pass/michael-giles-king-crimson.jpg",
    "date": "2026-11-25T23:52:08.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261124055856.htm",
-   "title": "Scientists discover a surprising twist in how the body burns calories",
-   "summary": "Researchers have discovered that a drug can significantly increase the body's energy expenditure without clearly activating calorie-burning brown fat. The unexpected finding reveals a new challenge…",
-   "detail": "Researchers have discovered that a drug can significantly increase the body's energy expenditure without clearly activating calorie-burning brown fat. The unexpected finding reveals a new challenge in developing obesity treatments that harness the body's natural fat-burning machinery.",
-   "image": "",
-   "date": "2026-11-25T23:37:49.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -1190,17 +1278,6 @@
    "date": "2026-11-25T16:47:29.000Z"
   },
   {
-   "topic": "Tecnologia",
-   "type": "notizia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
-   "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
-   "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
-   "detail": "Militaries have many reasons to target data centers and the cloud in wartime.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-   "date": "2026-11-25T16:47:14.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "NASA",
@@ -1234,28 +1311,6 @@
    "date": "2026-11-25T13:15:56.000Z"
   },
   {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
-   "title": "Common sleep and anxiety drugs could be harming aging brains",
-   "summary": "Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature…",
-   "detail": "Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature death. Despite encouraging progress over the past decade, researchers warn that medication-related harm remains a major and potentially preventable threat to healthy aging.",
-   "image": "",
-   "date": "2026-11-25T11:13:47.000Z"
-  },
-  {
-   "topic": "Scienza",
-   "type": "notizia",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
-   "title": "A space telescope hunting for dark matter just discovered something unexpected",
-   "summary": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. The icy object is…",
-   "detail": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. The icy object is approximately 1.3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to complete.",
-   "image": "",
-   "date": "2026-11-25T10:35:04.000Z"
-  },
-  {
    "topic": "Spazio",
    "type": "notizia",
    "source": "NASA",
@@ -1265,17 +1320,6 @@
    "detail": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
    "image": "",
    "date": "2026-11-25T05:05:00.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
-   "title": "Georgia’s Pecan Belt",
-   "summary": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
-   "detail": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia’s-pecan-belt/georgiapecans_oli_20261023.jpg?w=1440&h=1199&fit=clip",
-   "date": "2026-11-25T05:00:00.000Z"
   },
   {
    "topic": "Salute",
@@ -1298,17 +1342,6 @@
    "detail": "Wet Leg, Mallrat, Genesis Owusu, and more lend their hands to I Love My Computer, All My Friends Are Inside It",
    "image": "https://media.pitchfork.com/photos/6b05db940ac6d3e6209ab0bd/master/pass/Ninajirachi%20by%20Tom%20Vanderzeil%20%5BLead%5D%20(1).jpg",
    "date": "2026-11-24T23:06:25.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "NASA",
-   "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
-   "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-   "summary": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing…",
-   "detail": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible […]",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-promo-image-horizontal-1.jpg?w=2048",
-   "date": "2026-11-24T21:14:36.000Z"
   },
   {
    "topic": "Elettronica",
@@ -1518,17 +1551,6 @@
    "detail": "A new book by historian Thomas Williams closes the gap between the two cultures and brings some otherwise unfamiliar medieval figures and events to life",
    "image": "https://th-thumbnailer.cdn-si-edu.com/_i4bKbnMjG17S1h5dmnpa3nhnvo=/420x240/filters:focal(1337x892:1338x893)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ef/ca/efca4edf-eca9-43c1-8fe5-c658c65bf219/baldun_vikings.jpg",
    "date": "2026-11-19T12:00:00.000Z"
-  },
-  {
-   "topic": "Salute",
-   "type": "notizia",
-   "source": "BBC Health",
-   "url": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
-   "title": "Regulator mistakenly sent complaints about doctors to newspaper",
-   "summary": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
-   "detail": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/73cb/live/11eb1800-e373-11f1-9f51-4bfc31543510.jpg",
-   "date": "2026-11-18T17:48:10.000Z"
   },
   {
    "topic": "Elettronica",
