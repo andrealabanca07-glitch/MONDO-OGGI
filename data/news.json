@@ -1,49 +1,148 @@
 {
- "updated": "2026-11-27T18:51:14.823Z",
+ "updated": "2026-11-28T01:53:24.078Z",
  "items": [
   {
+   "topic": "Storia",
+   "type": "curiosità",
+   "source": "Wikipedia · Accadde oggi",
+   "url": "https://it.wikipedia.org/wiki/Norvegia",
+   "title": "1994: La Norvegia, con un referendum, rifiuta l'adesione all'Unione europea.",
+   "summary": "La Norvegia, con un referendum, rifiuta l'adesione all'Unione europea.",
+   "detail": "La Norvegia, con un referendum, rifiuta l'adesione all'Unione europea. — La Norvegia, ufficialmente Regno di Norvegia, è uno Stato dell'Europa settentrionale, situato nella parte occidentale e settentrionale della penisola scandinava. È una monarchia parlamentare con capitale Oslo e confina a est con la Svezia, a nord-est con la Finlandia e la Russia, mentre a sud lo Skagerrak la separa dalla Danimarca.",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/langit-960px-Flag_of_Norway.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "date": "2026-11-28T01:53:23.544Z"
+  },
+  {
+   "topic": "Storia",
+   "type": "curiosità",
+   "source": "Wikipedia · Accadde oggi",
+   "url": "https://it.wikipedia.org/wiki/Albania",
+   "title": "1912: L'Albania dichiara l'indipendenza dall'Impero ottomano.",
+   "summary": "L'Albania dichiara l'indipendenza dall'Impero ottomano.",
+   "detail": "L'Albania dichiara l'indipendenza dall'Impero ottomano. — L'Albania, ufficialmente Repubblica d'Albania, è uno Stato dell'Europa meridionale e orientale, situato nella penisola balcanica. Confina a nord-ovest con il Montenegro, a nord-est con il Kosovo, a est con la Macedonia del Nord e a sud con la Grecia. Le sue coste si affacciano sul Mar Adriatico e sullo Ionio. Il paese, con i suoi confini, ha una superficie di 28748 km² e una popolazione di circa 2 milioni e 750 mila abitanti. La capitale è Tirana.",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/langit-960px-Flag_of_Albania.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "date": "2026-11-28T01:53:23.544Z"
+  },
+  {
+   "topic": "Salute",
+   "type": "notizia",
+   "source": "BBC Health",
+   "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+   "title": "Should I get a flu vaccine now?",
+   "summary": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+   "detail": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/267a/live/e3b37190-ea74-11f1-a828-d384c0290f6b.jpg",
+   "date": "2026-11-28T01:03:11.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+   "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+   "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+   "detail": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
+   "date": "2026-11-28T00:56:55.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/27/esp32-remote-access-done-light/",
+   "title": "ESP32 Remote Access Done Light",
+   "summary": "The team behind Pinscope had a problem. They needed an ESP32 to stay securely connected to a server, but they didn’t have enough spare RAM on the chip to do …read more",
+   "detail": "The team behind Pinscope had a problem. They needed an ESP32 to stay securely connected to a server, but they didn’t have enough spare RAM on the chip to do …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/ESP32-remote-access-in-9.4-KB-of-RAM_-logs-crashes-and-OTA-updates-_-Pinscope-2-15-screenshot-e1795678010431.png",
+   "date": "2026-11-28T00:00:09.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+   "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+   "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+   "detail": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-27T21:55:53.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/27/how-to-make-a-nixie-tube/",
+   "title": "How to Make a Nixie Tube",
+   "summary": "Recently [polymatt] had a poke at one of the all-time favorites in the retro community, by making his own Nixie tube. Over the course of two weeks he tried to …read more",
+   "detail": "Recently [polymatt] had a poke at one of the all-time favorites in the retro community, by making his own Nixie tube. Over the course of two weeks he tried to …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/diy_nixie_tube_polymatt_youtube.jpg",
+   "date": "2026-11-27T21:00:20.000Z"
+  },
+  {
+   "topic": "Mondo",
+   "type": "notizia",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+   "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+   "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+   "detail": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-27T20:34:45.000Z"
+  },
+  {
    "topic": "Spazio",
-   "type": "curiosità",
-   "source": "NASA · Foto del giorno",
-   "url": "https://apod.nasa.gov/apod/astropix.html",
-   "title": "NASA Science",
-   "summary": "On November 24, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was…",
-   "detail": "On November 24, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was big and bright, and at its full phase. Known to some as a Beaver Moon, November's Full Moon was also near perigee, the closest point in its elliptical orbit around planet Earth. That made it one of the biggest and brightest Full Moons, also known as a supermoon. In fact, November's Full Moon was the first in a series of four consecutive Full Moons near perigee. So your next chance to watch a supermoon rise will be when the Cold Moon rises on December 23.Tomorrow's picture: remember where you parked\t\t\t\t\t\t",
-   "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-   "date": "2026-11-27T18:51:14.822Z"
-  },
-  {
-   "topic": "Storia",
-   "type": "curiosità",
-   "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Italia",
-   "title": "1990: L'Italia firma gli accordi di Schengen.",
-   "summary": "L'Italia firma gli accordi di Schengen.",
-   "detail": "L'Italia firma gli accordi di Schengen. — L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langit-1920px-Flag_of_Italy.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-27T18:51:14.437Z"
-  },
-  {
-   "topic": "Storia",
-   "type": "curiosità",
-   "source": "Wikipedia · Accadde oggi",
-   "url": "https://it.wikipedia.org/wiki/Boston",
-   "title": "1839: A Boston viene fondata la American Statistical Association.",
-   "summary": "A Boston viene fondata la American Statistical Association.",
-   "detail": "A Boston viene fondata la American Statistical Association. — Boston è una città degli Stati Uniti d'America, capoluogo della contea di Suffolk e capitale del Commonwealth del Massachusetts. È la città più grande dello Stato e della Nuova Inghilterra, nonché il centro economico e culturale più importante. Nel 2018 aveva una popolazione stimata di 694 583 abitanti, che la rende la ventunesima città più grande della federazione.La città è il fulcro di un'area metropolitana più grande chiamata Greater Boston, che ospita 4,5 milioni di persone ed è la decima più grande del Paese.",
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/langit-500px-Flag_of_Boston.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "date": "2026-11-27T18:51:14.437Z"
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/entertainment/space-toys-lego/love-star-wars-andy-weir-or-ryan-gosling-these-lego-star-wars-and-project-hail-mary-sets-are-my-favorites",
+   "title": "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites",
+   "summary": "Whether you're a fan of Star Wars, Ryan Gosling or both, you're spoilt for choice this Black Friday with serious savings on Lego's Star Wars sets and Project Hail Mary sets.",
+   "detail": "Whether you're a fan of Star Wars, Ryan Gosling or both, you're spoilt for choice this Black Friday with serious savings on Lego's Star Wars sets and Project Hail Mary sets.",
+   "image": "https://cdn.mos.cms.futurecdn.net/r6d3pEvV2XvhbrDqovrEe5-1920-80.jpg",
+   "date": "2026-11-27T20:29:57.000Z"
   },
   {
    "topic": "Mondo",
    "type": "notizia",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-   "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+   "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
    "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
    "detail": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-27T18:50:15.000Z"
+   "date": "2026-11-27T20:06:31.000Z"
+  },
+  {
+   "topic": "Elettronica",
+   "type": "notizia",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/27/ps3-boomerang-controller-concept-flies-back-into-your-hands/",
+   "title": "PS3 Boomerang Controller Concept Flies Back Into Your Hands",
+   "summary": "Think back long ago, to the halcyon days of 2005 — those of you who were alive and cognizant in those days, that is — specifically to E3 that year. …read more",
+   "detail": "Think back long ago, to the halcyon days of 2005 — those of you who were alive and cognizant in those days, that is — specifically to E3 that year. …read more",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/PS3-boomerang1.jpg",
+   "date": "2026-11-27T19:30:15.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/stargazing/astrophotography/the-lowest-price-ever-on-the-canon-eos-r6-ii-tops-some-of-the-best-black-friday-camera-deals-weve-seen-today",
+   "title": "The lowest price ever on the Canon EOS R6 II tops some of the best Black Friday camera deals we've seen today",
+   "summary": "We have rounded up the best camera deals this Black Friday, including the lowest-ever price on one of our favorite low-light cameras, the Canon EOS R6 II.",
+   "detail": "We have rounded up the best camera deals this Black Friday, including the lowest-ever price on one of our favorite low-light cameras, the Canon EOS R6 II.",
+   "image": "https://cdn.mos.cms.futurecdn.net/oVUXUEqaKCjK52YaTQMBQ4-1920-80.jpg",
+   "date": "2026-11-27T19:30:00.000Z"
+  },
+  {
+   "topic": "Spazio",
+   "type": "notizia",
+   "source": "Space.com",
+   "url": "https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea",
+   "title": "Dropping missiles from orbit? 2 European companies sign agreement to study the idea",
+   "summary": "Atmos Space Cargo will fly its first Phoenix cargo-return capsule on SpaceX's Bandwagon 3 rideshare mission, which is scheduled to launch this spring.",
+   "detail": "Atmos Space Cargo will fly its first Phoenix cargo-return capsule on SpaceX's Bandwagon 3 rideshare mission, which is scheduled to launch this spring.",
+   "image": "https://cdn.mos.cms.futurecdn.net/ihTDar3HRcfjgiC5bDXJbU-1920-80.jpg",
+   "date": "2026-11-27T19:00:00.000Z"
   },
   {
    "topic": "Mondo",
@@ -77,17 +176,6 @@
    "detail": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
    "date": "2026-11-27T18:00:40.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-   "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-   "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-   "detail": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
-   "date": "2026-11-27T17:19:31.000Z"
   },
   {
    "topic": "Spazio",
@@ -288,17 +376,6 @@
    "date": "2026-11-27T14:00:01.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-   "title": "Rare turtles found inside baggage at Amsterdam airport",
-   "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-   "detail": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ab4e/live/3ac58820-ea60-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-27T13:38:07.000Z"
-  },
-  {
    "topic": "Salute",
    "type": "notizia",
    "source": "BBC Health",
@@ -332,17 +409,6 @@
    "date": "2026-11-27T12:00:12.000Z"
   },
   {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-   "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-   "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-   "detail": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg",
-   "date": "2026-11-27T11:44:40.000Z"
-  },
-  {
    "topic": "Tecnologia",
    "type": "notizia",
    "source": "Ars Technica",
@@ -352,28 +418,6 @@
    "detail": "We polled the Ars staff about their favorite pickups this year; here's the list.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-gifts-2026-1152x648.jpg",
    "date": "2026-11-27T11:30:04.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/astronomy/stars/astronomers-watch-a-red-giant-star-greedily-devour-a-stellar-bao-bun-before-erupting-we-couldnt-quite-believe-our-luck",
-   "title": "Astronomers watch a red giant star greedily devour a stellar 'Bao bun' before erupting: 'We couldn't quite believe our luck'",
-   "summary": "Astronomers witnessed the spectacular cosmic indigestion that resulted from a red giant star that devoured a stellar Bao bun in the form of its smaller companion star.",
-   "detail": "Astronomers witnessed the spectacular cosmic indigestion that resulted from a red giant star that devoured a stellar Bao bun in the form of its smaller companion star.",
-   "image": "https://cdn.mos.cms.futurecdn.net/j4u2WKgS5fwuqpTfqRPKnd-1920-80.png",
-   "date": "2026-11-27T11:00:00.000Z"
-  },
-  {
-   "topic": "Mondo",
-   "type": "notizia",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-   "title": "Clashes mar European games as Macron condemns violence",
-   "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-   "detail": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg",
-   "date": "2026-11-27T10:24:24.000Z"
   },
   {
    "topic": "Economia",
@@ -420,15 +464,15 @@
    "date": "2026-11-27T09:52:24.000Z"
   },
   {
-   "topic": "Elettronica",
+   "topic": "Mondo",
    "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/27/the-happy-mac-that-apple-never-made/",
-   "title": "The Happy Mac that Apple Never Made",
-   "summary": "The plethora of different machines available in the 80s are one of the things that makes retrocomputing fun, but sometimes we run across ideas that never quite made it to …read more",
-   "detail": "The plethora of different machines available in the 80s are one of the things that makes retrocomputing fun, but sometimes we run across ideas that never quite made it to …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Apple-Happy-Mac-Frog-Design-Comparison.png",
-   "date": "2026-11-27T09:00:17.000Z"
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+   "title": "Millions of wives in South Asia unprotected from marital rape - study",
+   "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+   "detail": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg",
+   "date": "2026-11-27T08:13:43.000Z"
   },
   {
    "topic": "Tecnologia",
@@ -445,23 +489,12 @@
    "topic": "Mondo",
    "type": "notizia",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-   "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-   "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
-   "detail": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-27T06:03:39.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/26/a-modular-6502-computer/",
-   "title": "A Modular 6502 Computer",
-   "summary": "Back in the day, there were plenty of nice compact microcomputers out there that featured the 6502 CPU. There were also simpler computers that put the chip on a bare …read more",
-   "detail": "Back in the day, there were plenty of nice compact microcomputers out there that featured the 6502 CPU. There were also simpler computers that put the chip on a bare …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/The-20c-Episodio-0-Hola-0-0-screenshot.png",
-   "date": "2026-11-27T06:00:46.000Z"
+   "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+   "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+   "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+   "detail": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d573/live/2b6db3a0-e9b8-11f1-8d2a-f5d2aabc11cb.jpg",
+   "date": "2026-11-27T07:28:10.000Z"
   },
   {
    "topic": "Salute",
@@ -539,17 +572,6 @@
    "detail": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The breakthrough could unlock smaller quantum computers, ultra-precise atomic clocks, and compact environmental sensors.",
    "image": "",
    "date": "2026-11-27T03:22:20.000Z"
-  },
-  {
-   "topic": "Elettronica",
-   "type": "notizia",
-   "source": "Hackaday",
-   "url": "https://hackaday.com/2026/11/26/when-decoupling-capacitors-go-wrong/",
-   "title": "When Decoupling Capacitors Go Wrong",
-   "summary": "Popular wisdom holds that decoupling capacitors are good, and thus more decoupling capacitors is better. Unfortunately physics disagrees on that notion, as [Ben Eater] discusses in a recent video,…",
-   "detail": "Popular wisdom holds that decoupling capacitors are good, and thus more decoupling capacitors is better. Unfortunately physics disagrees on that notion, as [Ben Eater] discusses in a recent video, following …read more",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/discrete_clock_issue_ben_eater_youtube.jpg",
-   "date": "2026-11-27T03:00:47.000Z"
   },
   {
    "topic": "Scienza",
@@ -750,17 +772,6 @@
    "date": "2026-11-26T21:13:40.000Z"
   },
   {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/stargazing/skywatching-kit/every-smart-telescope-weve-reviewed-and-highly-rate-that-is-cheaper-for-black-friday-full-list",
-   "title": "Every smart telescope we've reviewed and highly rate that is cheaper for Black Friday — full list",
-   "summary": "Black Friday has seen the price of smart telescopes slashed, with great beginner models available from Unistellar, ZWO, Vaonis and Dwarflab.",
-   "detail": "Black Friday has seen the price of smart telescopes slashed, with great beginner models available from Unistellar, ZWO, Vaonis and Dwarflab.",
-   "image": "https://cdn.mos.cms.futurecdn.net/qoeRGJKGjDM7T5s8wiAjLB-1920-80.jpg",
-   "date": "2026-11-26T21:08:45.000Z"
-  },
-  {
    "topic": "Mondo",
    "type": "notizia",
    "source": "ANSA",
@@ -847,17 +858,6 @@
    "detail": "E' lo stesso ponte dell'A1 nel Fiorentino dove fu ammazzata Lorena Isceri",
    "image": "",
    "date": "2026-11-26T19:18:56.000Z"
-  },
-  {
-   "topic": "Spazio",
-   "type": "notizia",
-   "source": "Space.com",
-   "url": "https://www.space.com/stargazing/skywatching-kit/dwarflab-dwarf-mini-smart-telescope-80-dollars-off-black-friday-deal-2026",
-   "title": "This pocket-sized smart telescope is small enough to take anywhere, now 19% cheaper for Black Friday — plus a chance to win one for free!",
-   "summary": "The Dwarflab Dwarf Mini got four stars in our expert review for its simple operation and deep-sky astrophotography capability. This Black Friday deal brings it down to $339 and Space+ members could…",
-   "detail": "The Dwarflab Dwarf Mini got four stars in our expert review for its simple operation and deep-sky astrophotography capability. This Black Friday deal brings it down to $339 and Space+ members could win one in our prize draw.",
-   "image": "https://cdn.mos.cms.futurecdn.net/x6hjuYnx3tRF9F3x3HMja8-1920-80.jpg",
-   "date": "2026-11-26T19:00:00.000Z"
   },
   {
    "topic": "Arte e cultura",
@@ -1485,17 +1485,6 @@
    "detail": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
    "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
    "date": "2026-11-23T00:49:22.000Z"
-  },
-  {
-   "topic": "Salute",
-   "type": "notizia",
-   "source": "BBC Health",
-   "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
-   "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
-   "summary": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
-   "detail": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5fff/live/40c02ae0-e50c-11f1-b40b-5f46e8cf687c.jpg",
-   "date": "2026-11-21T00:02:09.000Z"
   },
   {
    "topic": "Natura",
